@@ -1,0 +1,367 @@
+{
+  "schema_version": "2.2",
+  "document_id": "chiffres_cles_crui_1er_semestre_2024_arabe",
+  "document_family_id": "crui_key_figures_2024_h1",
+  "metadata": {
+    "title": "المؤشرات الرئيسية والإحصائيات",
+    "filename": "Chiffres_cles_CRUI_1er_semestre_2024_Arabe.json",
+    "language": "ar",
+    "document_type": "key_figures",
+    "publisher": "CRI Tanger-Tétouan-Al Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "publication_year": null,
+    "reference_period": {
+      "year": 2024,
+      "type": "semester",
+      "semester": 1,
+      "quarter": null,
+      "label": "النصف الأول من سنة 2024",
+      "start_date": null,
+      "end_date": null
+    },
+    "topics": [
+      "approved_projects",
+      "closing_message",
+      "crui_activity",
+      "industrial_investment",
+      "investment_amount",
+      "projected_jobs",
+      "projects_reviewed",
+      "sector_distribution"
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_arabe_section_01",
+      "title": "إن كنتم هنا، فأنتم في كل مكان",
+      "topic_id": "crui_activity",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_arabe_subsection_01",
+          "title": "إن كنتم هنا، فأنتم في كل مكان",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_arabe_chunk_001",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "crui_activity"
+              ],
+              "heading_path": [
+                "إن كنتم هنا، فأنتم في كل مكان"
+              ],
+              "page_start": 1,
+              "page_end": 1,
+              "source_spans": [
+                {
+                  "page": 1,
+                  "text": "إن كنتم هنا، فأنتم في كل مكان\n\nحصيلة\nاللجنة الجهوية الموحدة للاستثمار\nالنصف الأول من سنة 2024\n\nالمركز الجهوي للاستثمار لجهة طنجة - تطوان - الحسيمة\n\nwww.investangier.com"
+                }
+              ],
+              "text": "إن كنتم هنا، فأنتم في كل مكان\n\nحصيلة\nاللجنة الجهوية الموحدة للاستثمار\nالنصف الأول من سنة 2024\n\nالمركز الجهوي للاستثمار لجهة طنجة - تطوان - الحسيمة\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [
+                  2024
+                ],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_arabe_section_02",
+      "title": "إن كنتم هنا، فأنتم في كل مكان",
+      "topic_id": "projects_reviewed",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_arabe_subsection_02",
+          "title": "إن كنتم هنا، فأنتم في كل مكان",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_arabe_chunk_002",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "projects_reviewed"
+              ],
+              "heading_path": [
+                "إن كنتم هنا، فأنتم في كل مكان"
+              ],
+              "page_start": 2,
+              "page_end": 2,
+              "source_spans": [
+                {
+                  "page": 2,
+                  "text": "إن كنتم هنا، فأنتم في كل مكان\n\n433\nعدد المشاريع التي تم فحصها من طرف اللجنة الجهوية الموحدة للاستثمار\n\n379\nمشروع مصادق عليه، أي 87,5% من مجموع المشاريع التي تمت دراستها من طرف اللجنة الجهوية الموحدة للاستثمار\n\n40,76 مليار درهم من الاستثمار، أي +72% مقارنة بالنصف الأول من سنة 2023\n\n45 630\nمنصب شغل متوقع على المدى المتوسط والبعيد\n\nwww.investangier.com"
+                }
+              ],
+              "text": "إن كنتم هنا، فأنتم في كل مكان\n\n433\nعدد المشاريع التي تم فحصها من طرف اللجنة الجهوية الموحدة للاستثمار\n\n379\nمشروع مصادق عليه، أي 87,5% من مجموع المشاريع التي تمت دراستها من طرف اللجنة الجهوية الموحدة للاستثمار\n\n40,76 مليار درهم من الاستثمار، أي +72% مقارنة بالنصف الأول من سنة 2023\n\n45 630\nمنصب شغل متوقع على المدى المتوسط والبعيد\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [
+                  2023
+                ],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_arabe_section_03",
+      "title": "إن كنتم هنا، فأنتم في كل مكان",
+      "topic_id": "sector_distribution",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_arabe_subsection_03",
+          "title": "إن كنتم هنا، فأنتم في كل مكان",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_arabe_chunk_003",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "sector_distribution",
+                "investment_amount"
+              ],
+              "heading_path": [
+                "إن كنتم هنا، فأنتم في كل مكان"
+              ],
+              "page_start": 3,
+              "page_end": 3,
+              "source_spans": [
+                {
+                  "page": 3,
+                  "text": "إن كنتم هنا، فأنتم في كل مكان\n\nتوزيع حجم الاستثمارات حسب القطاع\n\nيواصل القطاع الصناعي نموه الاستثنائي بأكثر من نصف الاستثمارات التي تمت المصادقة عليها\n\nإجمالي الاستثمارات: 40,76 مليار درهم\n\nالصناعة: 54%\nالسياحة: 22%\nالطاقة والمناجم: 15%\nقطاعات أخرى: 6%\nالتجارة: 2%\nالبناء والأشغال العامة: 1%\n\nwww.investangier.com"
+                }
+              ],
+              "text": "إن كنتم هنا، فأنتم في كل مكان\n\nتوزيع حجم الاستثمارات حسب القطاع\n\nيواصل القطاع الصناعي نموه الاستثنائي بأكثر من نصف الاستثمارات التي تمت المصادقة عليها\n\nإجمالي الاستثمارات: 40,76 مليار درهم\n\nالصناعة: 54%\nالسياحة: 22%\nالطاقة والمناجم: 15%\nقطاعات أخرى: 6%\nالتجارة: 2%\nالبناء والأشغال العامة: 1%\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_arabe_section_04",
+      "title": "إن كنتم هنا، فأنتم في كل مكان",
+      "topic_id": "industrial_investment",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_arabe_subsection_04",
+          "title": "إن كنتم هنا، فأنتم في كل مكان",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_arabe_chunk_004",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "sector_distribution",
+                "industrial_investment",
+                "investment_amount",
+                "projected_jobs"
+              ],
+              "heading_path": [
+                "إن كنتم هنا، فأنتم في كل مكان"
+              ],
+              "page_start": 4,
+              "page_end": 4,
+              "source_spans": [
+                {
+                  "page": 4,
+                  "text": "إن كنتم هنا، فأنتم في كل مكان\n\nتشكل الصناعة القطاع الرائد في توفير فرص شغل على المدى المتوسط والبعيد، بحصة تقدر بـ 83%\n\nالصناعة: 83%\nالسياحة: 7%\nقطاعات أخرى: 10%\n\nwww.investangier.com"
+                }
+              ],
+              "text": "إن كنتم هنا، فأنتم في كل مكان\n\nتشكل الصناعة القطاع الرائد في توفير فرص شغل على المدى المتوسط والبعيد، بحصة تقدر بـ 83%\n\nالصناعة: 83%\nالسياحة: 7%\nقطاعات أخرى: 10%\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_arabe_section_05",
+      "title": "إن كنتم هنا، فأنتم في كل مكان",
+      "topic_id": "crui_activity",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_arabe_subsection_05",
+          "title": "إن كنتم هنا، فأنتم في كل مكان",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_arabe_chunk_005",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "crui_activity"
+              ],
+              "heading_path": [
+                "إن كنتم هنا، فأنتم في كل مكان"
+              ],
+              "page_start": 5,
+              "page_end": 5,
+              "source_spans": [
+                {
+                  "page": 5,
+                  "text": "إن كنتم هنا، فأنتم في كل مكان\n\n121\nاجتماعاً للجنة الجهوية الموحدة للاستثمار\n\nwww.investangier.com"
+                }
+              ],
+              "text": "إن كنتم هنا، فأنتم في كل مكان\n\n121\nاجتماعاً للجنة الجهوية الموحدة للاستثمار\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_arabe_section_06",
+      "title": "إن كنتم هنا، فأنتم في كل مكان",
+      "topic_id": "approved_projects",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_arabe_subsection_06",
+          "title": "إن كنتم هنا، فأنتم في كل مكان",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_arabe_chunk_006",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "approved_projects",
+                "investment_amount",
+                "projected_jobs"
+              ],
+              "heading_path": [
+                "إن كنتم هنا، فأنتم في كل مكان"
+              ],
+              "page_start": 6,
+              "page_end": 6,
+              "source_spans": [
+                {
+                  "page": 6,
+                  "text": "إن كنتم هنا، فأنتم في كل مكان\n\n16\nاتفاقية استثمار\n\n9,54 مليار درهم من الاستثمار\n6 525 منصب شغل مباشر\n\nتوزيع مبالغ الاستثمارات المبرمجة في إطار اتفاقيات الاستثمار المصادق عليها من طرف اللجنة الجهوية الموحدة للاستثمار:\n\nالسياحة والترفيه: 78%\nالصناعة: 11%\nاللوجستيك: 11%\n\nالصورة: رويال منصور تامودا باي\n\nwww.investangier.com"
+                }
+              ],
+              "text": "إن كنتم هنا، فأنتم في كل مكان\n\n16\nاتفاقية استثمار\n\n9,54 مليار درهم من الاستثمار\n6 525 منصب شغل مباشر\n\nتوزيع مبالغ الاستثمارات المبرمجة في إطار اتفاقيات الاستثمار المصادق عليها من طرف اللجنة الجهوية الموحدة للاستثمار:\n\nالسياحة والترفيه: 78%\nالصناعة: 11%\nاللوجستيك: 11%\n\nالصورة: رويال منصور تامودا باي\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_arabe_section_07",
+      "title": "إن كنتم هنا، فأنتم في كل مكان",
+      "topic_id": "closing_message",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_arabe_subsection_07",
+          "title": "إن كنتم هنا، فأنتم في كل مكان",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_arabe_chunk_007",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "closing_message"
+              ],
+              "heading_path": [
+                "إن كنتم هنا، فأنتم في كل مكان"
+              ],
+              "page_start": 7,
+              "page_end": 7,
+              "source_spans": [
+                {
+                  "page": 7,
+                  "text": "إن كنتم هنا، فأنتم في كل مكان\n\nwww.investangier.ma\nwww.manaralmoustatmir.ma"
+                }
+              ],
+              "text": "إن كنتم هنا، فأنتم في كل مكان\n\nwww.investangier.ma\nwww.manaralmoustatmir.ma",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "schema_version": "2.2",
+  "document_id": "eng_indicateurs_climat_dinvestissement",
+  "document_family_id": "investment_climate_indicators",
+  "metadata": {
+    "title": "Business climate",
+    "filename": "ENG_Indicateurs_climat_investissement.json",
+    "language": "en",
+    "document_type": "business_climate",
+    "publisher": "CRI Tanger-Tétouan-Al Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "publication_year": null,
+    "reference_period": {
+      "year": null,
+      "type": null,
+      "semester": null,
+      "quarter": null,
+      "label": null,
+      "start_date": null,
+      "end_date": null
+    },
+    "topics": [
+      "business_climate",
+      "business_environment",
+      "cri_support",
+      "environmental_practices",
+      "export_destinations",
+      "future_expectations",
+      "improvement_priorities",
+      "investment_motivation",
+      "investment_support",
+      "investor_profile",
+      "investor_satisfaction",
+      "regional_attractiveness",
+      "sustainability"
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "eng_indicateurs_climat_dinvestissement_section_01",
+      "title": "Business climate",
+      "topic_id": "business_climate",
+      "subsections": [
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_001",
+          "title": "PERCEPTION OF THE BUSINESS CLIMATE",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_001",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investor_profile"
+              ],
+              "heading_path": [
+                "Business climate — regional profile"
+              ],
+              "page_start": 1,
+              "page_end": 2,
+              "source_spans": [
+                {
+                  "page": 1,
+                  "text": "PERCEPTION OF THE BUSINESS CLIMATE\nTANGIER – TETOUAN – AL HOCEIMA REGION\n\nOnce you are here, you are everywhere!\n\nWith the support of:\nIFC — International Finance Corporation — World Bank Group\n\nwww.investangier.com"
+                },
+                {
+                  "page": 2,
+                  "text": "SUMMARY\n\nContext — 1\nSurveyed Profiles — 2\nMain results — 3\n\nAxis 1: Investors' Perception of the Business Climate in the Region — 6\n• Reasons for Establishment in the TTA Region — 8\n• Trends and Growth Perspectives of Businesses in the Region — 10\n\nAxis 2: Level of satisfaction and interaction regarding the services provided by CRI TTA — 12\n\nAxis 3: Stakeholders' Perspective on the Business Climate in the Region — 18\n• Perception of the Business Climate — 19\n• Performance in Environmental & Energy Efficiency Matters — 22\n• Expectations Regarding the CRI TTA — 25\n\nwww.investangier.com"
+                }
+              ],
+              "text": "PERCEPTION OF THE BUSINESS CLIMATE\nTANGIER – TETOUAN – AL HOCEIMA REGION\n\nOnce you are here, you are everywhere!\n\nWith the support of:\nIFC — International Finance Corporation — World Bank Group\n\nwww.investangier.com\n\nSUMMARY\n\nContext — 1\nSurveyed Profiles — 2\nMain results — 3\n\nAxis 1: Investors' Perception of the Business Climate in the Region — 6\n• Reasons for Establishment in the TTA Region — 8\n• Trends and Growth Perspectives of Businesses in the Region — 10\n\nAxis 2: Level of satisfaction and interaction regarding the services provided by CRI TTA — 12\n\nAxis 3: Stakeholders' Perspective on the Business Climate in the Region — 18\n• Perception of the Business Climate — 19\n• Performance in Environmental & Energy Efficiency Matters — 22\n• Expectations Regarding the CRI TTA — 25\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_002",
+          "title": "CONTEXT",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_002",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investor_profile"
+              ],
+              "heading_path": [
+                "Study context"
+              ],
+              "page_start": 3,
+              "page_end": 4,
+              "source_spans": [
+                {
+                  "page": 3,
+                  "text": "CONTEXT\n\nThe regional investment center of Tangier-Tetouan-Al Hoceima region has conducted a study in collaboration with the IFC within the framework of a partnership agreement signed with the International Finance Corporation (IFC) on investors' perception of the business climate in the region.\n\nThis study, funded by the IFC and put into effect by an independent specialized engineering consultant’s office, revolves around the following axis:\n\nAxis 1\nPerception of the Business Climate\n\nAxis 2\nLevel of satisfaction and interaction regarding the services provided by CRI TTA\n\nAxis 3\nStakeholders' Perception of the Business Climate\n\n1"
+                },
+                {
+                  "page": 4,
+                  "text": "SURVEYED PROFILE\n\nActivity sectors:\nOther Industries: 44,1%\nTextile: 25%\nAgro-industry: 19,1%\nMiscellaneous: 7,4%\nConstruction & Civil Engineering: 4,4%\n\nLegal forms:\nLLC: 78%\nPLC: 11%\nLLC SP: 8%\nParticipation company: 2%\nEIG: 1%\n\nTarget: 135 Respondents\nInvestors: 79%\nMandataries: 21%\n\n2"
+                }
+              ],
+              "text": "CONTEXT\n\nThe regional investment center of Tangier-Tetouan-Al Hoceima region has conducted a study in collaboration with the IFC within the framework of a partnership agreement signed with the International Finance Corporation (IFC) on investors' perception of the business climate in the region.\n\nThis study, funded by the IFC and put into effect by an independent specialized engineering consultant’s office, revolves around the following axis:\n\nAxis 1\nPerception of the Business Climate\n\nAxis 2\nLevel of satisfaction and interaction regarding the services provided by CRI TTA\n\nAxis 3\nStakeholders' Perception of the Business Climate\n\n1\n\nSURVEYED PROFILE\n\nActivity sectors:\nOther Industries: 44,1%\nTextile: 25%\nAgro-industry: 19,1%\nMiscellaneous: 7,4%\nConstruction & Civil Engineering: 4,4%\n\nLegal forms:\nLLC: 78%\nPLC: 11%\nLLC SP: 8%\nParticipation company: 2%\nEIG: 1%\n\nTarget: 135 Respondents\nInvestors: 79%\nMandataries: 21%\n\n2",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_003",
+          "title": "MAIN RESULTS",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_003",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investor_profile"
+              ],
+              "heading_path": [
+                "Main results"
+              ],
+              "page_start": 5,
+              "page_end": 6,
+              "source_spans": [
+                {
+                  "page": 5,
+                  "text": "MAIN RESULTS\n\n3"
+                },
+                {
+                  "page": 6,
+                  "text": "MAIN RESULTS\n\n88% anticipate an expansion of their investment in the region.\n79% plan a new investment in the region.\n53% have reinvested in expanding their activities.\n40% reinvested in the launch of new services or products.\n51% have import activities.\n90% stated that they would like to source more locally.\n74% supply locally.\n34% use renewable energy.\n41% use waste recycling.\n\n4"
+                }
+              ],
+              "text": "MAIN RESULTS\n\n3\n\nMAIN RESULTS\n\n88% anticipate an expansion of their investment in the region.\n79% plan a new investment in the region.\n53% have reinvested in expanding their activities.\n40% reinvested in the launch of new services or products.\n51% have import activities.\n90% stated that they would like to source more locally.\n74% supply locally.\n34% use renewable energy.\n41% use waste recycling.\n\n4",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_004",
+          "title": "Main Destinations of Regional Exports",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_004",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "export_destinations"
+              ],
+              "heading_path": [
+                "Main export destinations"
+              ],
+              "page_start": 7,
+              "page_end": 8,
+              "source_spans": [
+                {
+                  "page": 7,
+                  "text": "Main Destinations of Regional Exports\n\nSpain: 48%\nAfrica: 22%\nEurope: 17%\nEngland: 9%\nFrance: 9%\nGemany: 9%\nUK: 9%\nIndia: 4%\nTurkey: 4%\nWorldwide: 4%\nNetherlands: 4%\nAsia: 4%\nMiddle East: 4%\n\n5"
+                },
+                {
+                  "page": 8,
+                  "text": "AXIS 1\nINVESTORS' PERCEPTION OF THE BUSINESS CLIMATE IN THE REGION\n\n6"
+                }
+              ],
+              "text": "Main Destinations of Regional Exports\n\nSpain: 48%\nAfrica: 22%\nEurope: 17%\nEngland: 9%\nFrance: 9%\nGemany: 9%\nUK: 9%\nIndia: 4%\nTurkey: 4%\nWorldwide: 4%\nNetherlands: 4%\nAsia: 4%\nMiddle East: 4%\n\n5\n\nAXIS 1\nINVESTORS' PERCEPTION OF THE BUSINESS CLIMATE IN THE REGION\n\n6",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_005",
+          "title": "of the companies are satisfied with their set up in the Tangier-Tetouan-Al Hoceima region.",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_005",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investor_satisfaction"
+              ],
+              "heading_path": [
+                "Investor satisfaction"
+              ],
+              "page_start": 9,
+              "page_end": 10,
+              "source_spans": [
+                {
+                  "page": 9,
+                  "text": "92%\nof the companies are satisfied with their set up in the Tangier-Tetouan-Al Hoceima region.\n\n7"
+                },
+                {
+                  "page": 10,
+                  "text": "Reasons for business set up in the region\n\n1. Geographical Location and Ecosystem Maturity\n\nI am native to the region: 51%\nProximity to European markets: 43%\nAccess to specific raw materials/resources: 26%\nAvailable skilled labor force: 24%\nNetwork of potential companies or partner: 23%\nOpportunity for local market growth: 23%\nModern transportation infrastructure (ports, airports...): 17%\nAttractive tax incentives: 7%\n\n8"
+                }
+              ],
+              "text": "92%\nof the companies are satisfied with their set up in the Tangier-Tetouan-Al Hoceima region.\n\n7\n\nReasons for business set up in the region\n\n1. Geographical Location and Ecosystem Maturity\n\nI am native to the region: 51%\nProximity to European markets: 43%\nAccess to specific raw materials/resources: 26%\nAvailable skilled labor force: 24%\nNetwork of potential companies or partner: 23%\nOpportunity for local market growth: 23%\nModern transportation infrastructure (ports, airports...): 17%\nAttractive tax incentives: 7%\n\n8",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_006",
+          "title": "Reasons for business set up in the region",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_006",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investment_motivation"
+              ],
+              "heading_path": [
+                "Investment motivations"
+              ],
+              "page_start": 11,
+              "page_end": 12,
+              "source_spans": [
+                {
+                  "page": 11,
+                  "text": "Reasons for business set up in the region\n\nLegend:\nVery important\nImportant\nNot important\n\n2. Economy / cost\n\nAccess to national funding sources:\nVery important 74% — Important 9% — Not important 17%\n\nMaturity of the ecosystem in the TTA region:\nVery important 78% — Important 17% — Not important 5%\n\nIncentives and benefits offered by the TTA region:\nVery important 71% — Important 20% — Not important 9%\n\nAvailability of land for investment:\nVery important 83% — Important 12% — Not important 5%\n\nSize and potential of the market:\nVery important 81% — Important 3% — Not important 16%\n\nQuality of the laborforce:\nVery important 81% — Important 4% — Not important 16%\n\nLabor cost:\nVery important 74% — Important 26% — Not important 15%\n\nPhysical infrastructure (roads, energy...):\nVery important 84% — Important 3% — Not important 13%\n\nAccess to land/premises:\nVery important 82% — Important 4% — Not important 14%\n\nAccess to manufactured/intermediate inputs from local suppliers:\nVery important 85% — Important 4% — Not important 11%\n\n3. Business Environment\n\nAvailability of facilities for new generations:\nVery important 79% — Important 7% — Not important 14%\n\nPolitical stability:\nVery important 92% — Important 1% — Not important 7%\n\nMacroeconomic and monetary stability:\nVery important 82% — Important 2% — Not important 16%\n\nSecurity:\nVery important 97% — Important 1% — Not important 2%\n\nSocial stability:\nVery important 95% — Important 1% — Not important 4%\n\n9"
+                },
+                {
+                  "page": 12,
+                  "text": "Trends and Growth Prospects of Businesses in the Region\n\n82% of surveyed consider the current situation of their companies satisfactory.\n\nCurrent situation:\nGood: 36%\nAverage: 46%\nPoor: 18%\n\nProspects:\nLegend: Bullish Outlook / Stable / Bearish Trend\n\nTurnover:\n67% / 16% / 17%\n\nNumber of executives:\n65% / 26% / 8%\n\nNumber of employees:\n67% / 25% / 7%\n\nVolume of imports:\n86% / 8% / 6%\n\nVolume of exports:\n61% / 30% / 9%\n\nVolume of investments:\n69% / 25% / 5%\n\n...with optimistic growth prospects at all levels.\n\n10"
+                }
+              ],
+              "text": "Reasons for business set up in the region\n\nLegend:\nVery important\nImportant\nNot important\n\n2. Economy / cost\n\nAccess to national funding sources:\nVery important 74% — Important 9% — Not important 17%\n\nMaturity of the ecosystem in the TTA region:\nVery important 78% — Important 17% — Not important 5%\n\nIncentives and benefits offered by the TTA region:\nVery important 71% — Important 20% — Not important 9%\n\nAvailability of land for investment:\nVery important 83% — Important 12% — Not important 5%\n\nSize and potential of the market:\nVery important 81% — Important 3% — Not important 16%\n\nQuality of the laborforce:\nVery important 81% — Important 4% — Not important 16%\n\nLabor cost:\nVery important 74% — Important 26% — Not important 15%\n\nPhysical infrastructure (roads, energy...):\nVery important 84% — Important 3% — Not important 13%\n\nAccess to land/premises:\nVery important 82% — Important 4% — Not important 14%\n\nAccess to manufactured/intermediate inputs from local suppliers:\nVery important 85% — Important 4% — Not important 11%\n\n3. Business Environment\n\nAvailability of facilities for new generations:\nVery important 79% — Important 7% — Not important 14%\n\nPolitical stability:\nVery important 92% — Important 1% — Not important 7%\n\nMacroeconomic and monetary stability:\nVery important 82% — Important 2% — Not important 16%\n\nSecurity:\nVery important 97% — Important 1% — Not important 2%\n\nSocial stability:\nVery important 95% — Important 1% — Not important 4%\n\n9\n\nTrends and Growth Prospects of Businesses in the Region\n\n82% of surveyed consider the current situation of their companies satisfactory.\n\nCurrent situation:\nGood: 36%\nAverage: 46%\nPoor: 18%\n\nProspects:\nLegend: Bullish Outlook / Stable / Bearish Trend\n\nTurnover:\n67% / 16% / 17%\n\nNumber of executives:\n65% / 26% / 8%\n\nNumber of employees:\n67% / 25% / 7%\n\nVolume of imports:\n86% / 8% / 6%\n\nVolume of exports:\n61% / 30% / 9%\n\nVolume of investments:\n69% / 25% / 5%\n\n...with optimistic growth prospects at all levels.\n\n10",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_007",
+          "title": "Sustainable Development & Social Initiatives",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_007",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "environmental_practices",
+                "sustainability"
+              ],
+              "heading_path": [
+                "Sustainability and social initiatives"
+              ],
+              "page_start": 13,
+              "page_end": 14,
+              "source_spans": [
+                {
+                  "page": 13,
+                  "text": "Sustainable Development & Social Initiatives\n\nMore than 9 out of 10 companies have taken corporate social responsibility initiatives. However, less than 40% have taken initiatives in terms of sustainable development.\n\nReduction of energy consumption: 40%\nUse of renewable energies: 34%\nWastewater treatment: 33%\nWaste recycling: 41%\nReuse and/or reconditioning of used products: 33%\nThermal insulation: 42%\nWorkers' rights: 93%\nEmployee’s Health and safety: 94%\n\n11"
+                },
+                {
+                  "page": 14,
+                  "text": "AXIS 2\nLEVEL OF SATISFACTION AND INTERACTION REGARDING THE SERVICES PROVIDED BY CRI TTA\n\n12"
+                }
+              ],
+              "text": "Sustainable Development & Social Initiatives\n\nMore than 9 out of 10 companies have taken corporate social responsibility initiatives. However, less than 40% have taken initiatives in terms of sustainable development.\n\nReduction of energy consumption: 40%\nUse of renewable energies: 34%\nWastewater treatment: 33%\nWaste recycling: 41%\nReuse and/or reconditioning of used products: 33%\nThermal insulation: 42%\nWorkers' rights: 93%\nEmployee’s Health and safety: 94%\n\n11\n\nAXIS 2\nLEVEL OF SATISFACTION AND INTERACTION REGARDING THE SERVICES PROVIDED BY CRI TTA\n\n12",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_008",
+          "title": "Overall satisfaction level regarding the experience with the CRI",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_008",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "cri_support",
+                "investor_satisfaction"
+              ],
+              "heading_path": [
+                "Satisfaction with the CRI"
+              ],
+              "page_start": 15,
+              "page_end": 16,
+              "source_spans": [
+                {
+                  "page": 15,
+                  "text": "Overall satisfaction level regarding the experience with the CRI\n\n90% of companies revealed being satisfied with their relationship with CRI TTA.\n\nLegend:\nVery satified / Satified / Dissatisfied\n\nEase of contacting CRI TTA:\n80% / 16% / 4%\n\nAvailability of your contact person:\n77% / 18% / 5%\n\nFriendliness and courtesy of your contact person:\n77% / 19% / 4%\n\nEase and simplicity of procedures:\n59% / 28% / 13%\n\nQuality of support:\n63% / 23% / 14%\n\nPost-investment follow-up:\n57% / 30% / 13%\n\nAnticipation of your needs:\n54% / 30% / 16%\n\nEfforts made by CRI for the promotion of the region:\n63% / 24% / 13%\n\n13"
+                },
+                {
+                  "page": 16,
+                  "text": "1. Acts related to urban planning permits & licences\n\n88% of companies report being satisfied with the procedure regarding urban planning permit requests.\n\nVery Satisfied: 45%\nSatisfied: 43%\nDissatisfied: 7%\nVery Dissatisfied: 5%\n\n2. Pre-Investment Support\n\n91% of the surveyed stated they are satisfied with the support provided by the CRI.\n\nVery satisfied: 56%\nSatisfied: 35%\nDissatisfied: 9%\n\n14"
+                }
+              ],
+              "text": "Overall satisfaction level regarding the experience with the CRI\n\n90% of companies revealed being satisfied with their relationship with CRI TTA.\n\nLegend:\nVery satified / Satified / Dissatisfied\n\nEase of contacting CRI TTA:\n80% / 16% / 4%\n\nAvailability of your contact person:\n77% / 18% / 5%\n\nFriendliness and courtesy of your contact person:\n77% / 19% / 4%\n\nEase and simplicity of procedures:\n59% / 28% / 13%\n\nQuality of support:\n63% / 23% / 14%\n\nPost-investment follow-up:\n57% / 30% / 13%\n\nAnticipation of your needs:\n54% / 30% / 16%\n\nEfforts made by CRI for the promotion of the region:\n63% / 24% / 13%\n\n13\n\n1. Acts related to urban planning permits & licences\n\n88% of companies report being satisfied with the procedure regarding urban planning permit requests.\n\nVery Satisfied: 45%\nSatisfied: 43%\nDissatisfied: 7%\nVery Dissatisfied: 5%\n\n2. Pre-Investment Support\n\n91% of the surveyed stated they are satisfied with the support provided by the CRI.\n\nVery satisfied: 56%\nSatisfied: 35%\nDissatisfied: 9%\n\n14",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_009",
+          "title": "Main Support axis Perceived by Investors",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_009",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "cri_support",
+                "investment_support"
+              ],
+              "heading_path": [
+                "Investor support areas"
+              ],
+              "page_start": 17,
+              "page_end": 18,
+              "source_spans": [
+                {
+                  "page": 17,
+                  "text": "Main Support axis Perceived by Investors\n\nPromotion of investment opportunities: 67%\nProactive support for the development of your company's ecosystem: 29%\nPre-investment assistance: 12%\nProvision of services related to starting your business: 12%\nAssistance and support for obtaining investment incentives: 10%\nCustomized & ease of contact with your company: 6%\nThe CRI proactively contacted your company with a compelling value proposition explaining why your company should invest in TTA: 6%\n\n3. Environmental Impact Assessment\n\n100% of companies stated that they were satisfied with the environmental impact assessment procedure.\n\nVery satisfied: 62%\nSatisfied: 38%\n\n15"
+                },
+                {
+                  "page": 18,
+                  "text": "4. Access to Land\n\n80% of the companies reported being very satisfied with the CRI's support in accessing land.\n\nVery satisfied: 80%\nSatisfied: 20%\n\n5. Incentives/Subsidies\n\n100% of all companies surveyed on this aspect confirmed being very satisfied with the assistance of CRI TTA in accessing state incentives and subsidies related to investment.\n\nYOUR INVESTMENT SUBSIDY CALCULATION SIMULATOR\n\nAs part of the main support mechanism provided for in the framework law 03-22 forming the Investment Charter.\n\nScan to access to Manar Al Moustatmir\nwww.manaralmoustatmir.ma\n\n16"
+                }
+              ],
+              "text": "Main Support axis Perceived by Investors\n\nPromotion of investment opportunities: 67%\nProactive support for the development of your company's ecosystem: 29%\nPre-investment assistance: 12%\nProvision of services related to starting your business: 12%\nAssistance and support for obtaining investment incentives: 10%\nCustomized & ease of contact with your company: 6%\nThe CRI proactively contacted your company with a compelling value proposition explaining why your company should invest in TTA: 6%\n\n3. Environmental Impact Assessment\n\n100% of companies stated that they were satisfied with the environmental impact assessment procedure.\n\nVery satisfied: 62%\nSatisfied: 38%\n\n15\n\n4. Access to Land\n\n80% of the companies reported being very satisfied with the CRI's support in accessing land.\n\nVery satisfied: 80%\nSatisfied: 20%\n\n5. Incentives/Subsidies\n\n100% of all companies surveyed on this aspect confirmed being very satisfied with the assistance of CRI TTA in accessing state incentives and subsidies related to investment.\n\nYOUR INVESTMENT SUBSIDY CALCULATION SIMULATOR\n\nAs part of the main support mechanism provided for in the framework law 03-22 forming the Investment Charter.\n\nScan to access to Manar Al Moustatmir\nwww.manaralmoustatmir.ma\n\n16",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_010",
+          "title": "6. Expectations Regarding the CRI",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_010",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "future_expectations"
+              ],
+              "heading_path": [
+                "Expectations regarding the CRI"
+              ],
+              "page_start": 19,
+              "page_end": 20,
+              "source_spans": [
+                {
+                  "page": 19,
+                  "text": "6. Expectations Regarding the CRI\n\nStrengthening support for companies: 9%\nGiving more weight to assistance in finding land solutions: 6%\nAssisting in finding financial/subsidy solutions: 6%\nStrengthening the availability and ease of contact of CRI staff: 5%\nEnhancing systematic post-investment monitoring: 5%\nDeveloping more industrial zones in the region: 4%\nImproving the CRI platform: 3%\nClarifying the procedures to follow for each licence: 2%\nNothing in particular: 60%\n\nMANAR AL MOUSTATMIR\nPlateforme communautaire d’accompagnement aux investisseurs\n\nVIRTUAL ONE-STOP SHOP FOR INVESTOR & PROJECT OWNER SUPPORT\n\nwww.manaralmoustatmir.ma\n\n17"
+                },
+                {
+                  "page": 20,
+                  "text": "AXIS 3\nSTAKEHOLDERS' PERSPECTIVE OF THE BUSINESS CLIMATE\n\n18"
+                }
+              ],
+              "text": "6. Expectations Regarding the CRI\n\nStrengthening support for companies: 9%\nGiving more weight to assistance in finding land solutions: 6%\nAssisting in finding financial/subsidy solutions: 6%\nStrengthening the availability and ease of contact of CRI staff: 5%\nEnhancing systematic post-investment monitoring: 5%\nDeveloping more industrial zones in the region: 4%\nImproving the CRI platform: 3%\nClarifying the procedures to follow for each licence: 2%\nNothing in particular: 60%\n\nMANAR AL MOUSTATMIR\nPlateforme communautaire d’accompagnement aux investisseurs\n\nVIRTUAL ONE-STOP SHOP FOR INVESTOR & PROJECT OWNER SUPPORT\n\nwww.manaralmoustatmir.ma\n\n17\n\nAXIS 3\nSTAKEHOLDERS' PERSPECTIVE OF THE BUSINESS CLIMATE\n\n18",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_011",
+          "title": "PERCEPTION OF THE BUSINESS CLIMATE IN THE TTA REGION",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_011",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "business_environment",
+                "regional_attractiveness"
+              ],
+              "heading_path": [
+                "Regional attractiveness and business climate"
+              ],
+              "page_start": 21,
+              "page_end": 22,
+              "source_spans": [
+                {
+                  "page": 21,
+                  "text": "PERCEPTION OF THE BUSINESS CLIMATE IN THE TTA REGION\n\n1. Perception of Efforts Made to Attract Foreign Direct Investment (FDI)\n\nWell-developed logistics\nWorld-class reception infrastructures\nIncentive mechanisms\nMaturity\nCompetitiveness\nSkilled workforce\nStrong attractiveness\nAttractive taxation\nGood legal framework\nInnovation platform\nNORDEV\n\n19"
+                },
+                {
+                  "page": 22,
+                  "text": "94% of respondents consider the policies implemented by regional actors to improve the attractiveness of the TTA region effective and relevant.\n\n2. Perception of the Effectiveness of State Efforts to Improve the Attractiveness of the Region\n\nLegal and fiscal framework:\n• Secure and attractive legal framework\n• Specific tax regimes\n\nReception and logistics infrastructure:\n• Ports\n• Highways\n• Airports\n• Economic and industrial activity zones\n\nSupport & incentives:\n• Support and training\n• Grants, funds, incentives, & assistance\n\nTraining and HR:\n• Universities\n• OFPPT\n• ANAPEC\n• Cities of Trades and Skills\n• Private educational institutions\n\n20"
+                }
+              ],
+              "text": "PERCEPTION OF THE BUSINESS CLIMATE IN THE TTA REGION\n\n1. Perception of Efforts Made to Attract Foreign Direct Investment (FDI)\n\nWell-developed logistics\nWorld-class reception infrastructures\nIncentive mechanisms\nMaturity\nCompetitiveness\nSkilled workforce\nStrong attractiveness\nAttractive taxation\nGood legal framework\nInnovation platform\nNORDEV\n\n19\n\n94% of respondents consider the policies implemented by regional actors to improve the attractiveness of the TTA region effective and relevant.\n\n2. Perception of the Effectiveness of State Efforts to Improve the Attractiveness of the Region\n\nLegal and fiscal framework:\n• Secure and attractive legal framework\n• Specific tax regimes\n\nReception and logistics infrastructure:\n• Ports\n• Highways\n• Airports\n• Economic and industrial activity zones\n\nSupport & incentives:\n• Support and training\n• Grants, funds, incentives, & assistance\n\nTraining and HR:\n• Universities\n• OFPPT\n• ANAPEC\n• Cities of Trades and Skills\n• Private educational institutions\n\n20",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_012",
+          "title": "3. Main improvement areas to activate to further enhance the business climate of the region and attract more FDI",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_012",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "improvement_priorities"
+              ],
+              "heading_path": [
+                "Priority improvement areas"
+              ],
+              "page_start": 23,
+              "page_end": 24,
+              "source_spans": [
+                {
+                  "page": 23,
+                  "text": "3. Main improvement areas to activate to further enhance the business climate of the region and attract more FDI\n\nAdministrative:\n• Continuing the simplification of administrative procedures, especially those related to urban planning authorizations\n• Continuing the dematerialization of procedures\n• Urban planning that is more favorable to investment\n\nCommunication:\n• Mobilizing more resources for the promotion of territorial offerings at regional, national, and international levels\n\nLogistics:\n• Strengthening the supply of land for industrial, tourism, and economic use, especially in Tangier\n• Improving mobility and traffic management\n• Reducing logistics costs (road, maritime transport, etc.)\n\nSupport:\n• Consolidation & convergence of programs supporting young entrepreneurs\n\nTraining & HR:\n• Strengthening the offer of professional training\n• Implementation of an incentive framework for research and development\n\n21"
+                },
+                {
+                  "page": 24,
+                  "text": "PERFORMANCE IN TERMS OF ENVIRONMENT AND ENERGY EFFICIENCY\n\nAll stakeholders surveyed are aware of the major issue represented by environmental protection and the new constraints of international markets. However, except for multinational companies which are somewhat more committed in this regard, a number of constraints still prevent the adoption of these practices by all companies.\n\nConstraints identified:\n• Insufficiency of resources\n• Absence of a proactive approach to implementing environmental policies\n• Lack of environmental awareness\n• Insufficiency of environmental control mechanisms\n• Absence of an effective support system\n\nElectricity, drinking water, and sanitation connection guide for large clients\n\n22"
+                }
+              ],
+              "text": "3. Main improvement areas to activate to further enhance the business climate of the region and attract more FDI\n\nAdministrative:\n• Continuing the simplification of administrative procedures, especially those related to urban planning authorizations\n• Continuing the dematerialization of procedures\n• Urban planning that is more favorable to investment\n\nCommunication:\n• Mobilizing more resources for the promotion of territorial offerings at regional, national, and international levels\n\nLogistics:\n• Strengthening the supply of land for industrial, tourism, and economic use, especially in Tangier\n• Improving mobility and traffic management\n• Reducing logistics costs (road, maritime transport, etc.)\n\nSupport:\n• Consolidation & convergence of programs supporting young entrepreneurs\n\nTraining & HR:\n• Strengthening the offer of professional training\n• Implementation of an incentive framework for research and development\n\n21\n\nPERFORMANCE IN TERMS OF ENVIRONMENT AND ENERGY EFFICIENCY\n\nAll stakeholders surveyed are aware of the major issue represented by environmental protection and the new constraints of international markets. However, except for multinational companies which are somewhat more committed in this regard, a number of constraints still prevent the adoption of these practices by all companies.\n\nConstraints identified:\n• Insufficiency of resources\n• Absence of a proactive approach to implementing environmental policies\n• Lack of environmental awareness\n• Insufficiency of environmental control mechanisms\n• Absence of an effective support system\n\nElectricity, drinking water, and sanitation connection guide for large clients\n\n22",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_013",
+          "title": "PERCEPTION OF THE RELATIONSHIP WITH CRI TTA",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_013",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "cri_support",
+                "investor_satisfaction"
+              ],
+              "heading_path": [
+                "Relationship with CRI TTA"
+              ],
+              "page_start": 25,
+              "page_end": 26,
+              "source_spans": [
+                {
+                  "page": 25,
+                  "text": "PERCEPTION OF THE RELATIONSHIP WITH CRI TTA\n\n100% of all stakeholders interviewed maintain a very good and close relationship with CRI.\n\nAll stakeholders interviewed are aware of the crucial and central role of CRI in the development of investments in the region. The CRI is considered a pivot of local economic development, ensuring various tasks including territory promotion, investor support, and mediation between stakeholders.\n\nOffre territoriale des opportunités d’investissement et d’accompagnement\nRégion Tanger | Tétouan | Al Hoceima\n\nScan the QR code to download\n\n23"
+                },
+                {
+                  "page": 26,
+                  "text": "VARIOUS POINTS OF CONTACT WITH CRI TTA\n\nVarious points of contact between stakeholders and CRI TTA have been mentioned, involving information exchange, support for business creation, ongoing development projects, or on-site monitoring.\n\nInformation sharing, promotion, and territorial planning\nSharing documentation, strategic planning, and implementation of national strategies at the regional level; workshops, business meetings, Doing Business events, trade shows, economic events, data exchange...\n\nBusiness setup\nSupporting investors during the process of creating their companies.\n\nPre-investment project support\nGuidance, advice, investor journey, and incentive mechanisms;\nInvestment opportunities, financing needs, regulations...\n\nMonitoring project progress on the ground\nSupport for investors, monitoring the progress of project valuation;\nMonitoring investment agreements.\n\nThe Unified Regional Investment Commission (CRUI)\nParticipates as a member of the commission for the examination and review of investment projects in the region.\n\n24"
+                }
+              ],
+              "text": "PERCEPTION OF THE RELATIONSHIP WITH CRI TTA\n\n100% of all stakeholders interviewed maintain a very good and close relationship with CRI.\n\nAll stakeholders interviewed are aware of the crucial and central role of CRI in the development of investments in the region. The CRI is considered a pivot of local economic development, ensuring various tasks including territory promotion, investor support, and mediation between stakeholders.\n\nOffre territoriale des opportunités d’investissement et d’accompagnement\nRégion Tanger | Tétouan | Al Hoceima\n\nScan the QR code to download\n\n23\n\nVARIOUS POINTS OF CONTACT WITH CRI TTA\n\nVarious points of contact between stakeholders and CRI TTA have been mentioned, involving information exchange, support for business creation, ongoing development projects, or on-site monitoring.\n\nInformation sharing, promotion, and territorial planning\nSharing documentation, strategic planning, and implementation of national strategies at the regional level; workshops, business meetings, Doing Business events, trade shows, economic events, data exchange...\n\nBusiness setup\nSupporting investors during the process of creating their companies.\n\nPre-investment project support\nGuidance, advice, investor journey, and incentive mechanisms;\nInvestment opportunities, financing needs, regulations...\n\nMonitoring project progress on the ground\nSupport for investors, monitoring the progress of project valuation;\nMonitoring investment agreements.\n\nThe Unified Regional Investment Commission (CRUI)\nParticipates as a member of the commission for the examination and review of investment projects in the region.\n\n24",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "eng_indicateurs_climat_dinvestissement_subsection_014",
+          "title": "Summary",
+          "chunks": [
+            {
+              "chunk_id": "eng_indicateurs_climat_dinvestissement_chunk_014",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "regional_attractiveness"
+              ],
+              "heading_path": [
+                "Business climate summary"
+              ],
+              "page_start": 27,
+              "page_end": 28,
+              "source_spans": [
+                {
+                  "page": 27,
+                  "text": "Summary\n\nBusiness climate\n\nThe Tangier-Tetouan-Al Hoceima region is widely perceived as offering a very favorable business climate for investment, with potential mainly concentrated in industry, tourism, and agriculture.\n\nThe region strongly attracts FDI thanks to state efforts such as favorable taxation, as well as significant development of infrastructure and logistical and human resources, particularly in the industrial sector.\n\nEnvironmental performance and trends\n\nDespite a growing trend towards adopting ecological practices, the environmental issue is not yet considered a priority by businesses at the regional level. Many measures aimed at protecting the environment are implemented by various stakeholders, including managing household and industrial waste, wastewater management, developing renewable energies, and environmental impact studies (EIS). The transition to environmental practices for businesses is mainly hindered by financial challenges and a lack of awareness and/or support.\n\nRelationship with the CRI\n\nThe relationship with the CRI is very positive for all stakeholders, who believe its role in investment development is major thanks to quality support services for project owners, leading to their final realization, making it a true one-stop shop for investment.\n\nHowever, some areas for improvement have been mentioned, mainly concerning the multiplicity of actors in certain procedures and delays in issuing final acts related to urban planning permits, in order to strengthen the CRI's role as a one-stop shop and to continue the decentralization process of project authorization decision-making at the regional level.\n\n25"
+                },
+                {
+                  "page": 28,
+                  "text": "Once you are here, you are everywhere!\n\nWith the support of:\nIFC — International Finance Corporation — World Bank Group\n\nwww.investangier.com"
+                }
+              ],
+              "text": "Summary\n\nBusiness climate\n\nThe Tangier-Tetouan-Al Hoceima region is widely perceived as offering a very favorable business climate for investment, with potential mainly concentrated in industry, tourism, and agriculture.\n\nThe region strongly attracts FDI thanks to state efforts such as favorable taxation, as well as significant development of infrastructure and logistical and human resources, particularly in the industrial sector.\n\nEnvironmental performance and trends\n\nDespite a growing trend towards adopting ecological practices, the environmental issue is not yet considered a priority by businesses at the regional level. Many measures aimed at protecting the environment are implemented by various stakeholders, including managing household and industrial waste, wastewater management, developing renewable energies, and environmental impact studies (EIS). The transition to environmental practices for businesses is mainly hindered by financial challenges and a lack of awareness and/or support.\n\nRelationship with the CRI\n\nThe relationship with the CRI is very positive for all stakeholders, who believe its role in investment development is major thanks to quality support services for project owners, leading to their final realization, making it a true one-stop shop for investment.\n\nHowever, some areas for improvement have been mentioned, mainly concerning the multiplicity of actors in certain procedures and delays in issuing final acts related to urban planning permits, in order to strengthen the CRI's role as a one-stop shop and to continue the decentralization process of project authorization decision-making at the regional level.\n\n25\n\nOnce you are here, you are everywhere!\n\nWith the support of:\nIFC — International Finance Corporation — World Bank Group\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

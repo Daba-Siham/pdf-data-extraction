@@ -1,0 +1,682 @@
+{
+  "schema_version": "2.2",
+  "document_id": "fr_indicateurs_climat_dinvestissement",
+  "document_family_id": "investment_climate_indicators",
+  "metadata": {
+    "title": "Climat des affaires",
+    "filename": "Fr_Indicateurs_climat_investissement.json",
+    "language": "fr",
+    "document_type": "business_climate",
+    "publisher": "CRI Tanger-Tétouan-Al Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "publication_year": null,
+    "reference_period": {
+      "year": null,
+      "type": null,
+      "semester": null,
+      "quarter": null,
+      "label": null,
+      "start_date": null,
+      "end_date": null
+    },
+    "topics": [
+      "business_climate",
+      "business_environment",
+      "cri_support",
+      "environmental_practices",
+      "export_destinations",
+      "future_expectations",
+      "improvement_priorities",
+      "investment_motivation",
+      "investment_support",
+      "investor_profile",
+      "investor_satisfaction",
+      "regional_attractiveness",
+      "sustainability"
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "fr_indicateurs_climat_dinvestissement_section_01",
+      "title": "Climat des affaires",
+      "topic_id": "business_climate",
+      "subsections": [
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_001",
+          "title": "PERCEPTION DU CLIMAT DES AFFAIRES",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_001",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investor_profile"
+              ],
+              "heading_path": [
+                "Climat des affaires — profil régional"
+              ],
+              "page_start": 1,
+              "page_end": 2,
+              "source_spans": [
+                {
+                  "page": 1,
+                  "text": "PERCEPTION DU CLIMAT DES AFFAIRES\nDANS LA RÉGION\nTANGER – TÉTOUAN – AL HOCEIMA\n\nUne fois que vous êtes ici, vous êtes partout !\n\nAvec le soutien de :\nIFC — International Finance Corporation — World Bank Group\n\nwww.investangier.com"
+                },
+                {
+                  "page": 2,
+                  "text": "SOMMAIRE\n\nContexte — 1\nProfil des répondants — 2\nPrincipaux résultats — 3\n\nAxe 1 : Perception des investisseurs du climat des affaires dans la région — 6\n• Motivations d’implantation dans la région TTA — 8\n• Tendances et perspectives de croissance des entreprises dans la région — 10\n\nAxe 2 : Qualité de la relation et niveau de satisfaction par rapport aux services rendus par le CRI TTA — 12\n\nAxe 3 : Regard des parties prenantes vis-à-vis du climat des affaires dans la région — 18\n• Perception du climat des affaires — 19\n• Performance en matière d’environnement et d’efficacité énergétique — 22\n• Attentes vis-à-vis du CRI TTA — 25\n\nwww.investangier.com"
+                }
+              ],
+              "text": "PERCEPTION DU CLIMAT DES AFFAIRES\nDANS LA RÉGION\nTANGER – TÉTOUAN – AL HOCEIMA\n\nUne fois que vous êtes ici, vous êtes partout !\n\nAvec le soutien de :\nIFC — International Finance Corporation — World Bank Group\n\nwww.investangier.com\n\nSOMMAIRE\n\nContexte — 1\nProfil des répondants — 2\nPrincipaux résultats — 3\n\nAxe 1 : Perception des investisseurs du climat des affaires dans la région — 6\n• Motivations d’implantation dans la région TTA — 8\n• Tendances et perspectives de croissance des entreprises dans la région — 10\n\nAxe 2 : Qualité de la relation et niveau de satisfaction par rapport aux services rendus par le CRI TTA — 12\n\nAxe 3 : Regard des parties prenantes vis-à-vis du climat des affaires dans la région — 18\n• Perception du climat des affaires — 19\n• Performance en matière d’environnement et d’efficacité énergétique — 22\n• Attentes vis-à-vis du CRI TTA — 25\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_002",
+          "title": "CONTEXTE",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_002",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investor_profile"
+              ],
+              "heading_path": [
+                "Contexte de l’étude"
+              ],
+              "page_start": 3,
+              "page_end": 4,
+              "source_spans": [
+                {
+                  "page": 3,
+                  "text": "CONTEXTE\n\nDans le cadre de la convention du partenariat conclue entre le Centre Régional d’Investissement de la région Tanger-Tétouan-Al Hoceima et International Finance Corporation (IFC), une étude de perception des investisseurs du climat des affaires dans la région a été menée.\n\nCette étude, financée par l’IFC et réalisée par un cabinet indépendant spécialisé dans le domaine, s’articule autour des axes suivants :\n\nAxe 1\nPerception du climat des affaires\n\nAxe 2\nQualité de la relation et niveau de satisfaction par rapport aux services rendus par le CRI TTA\n\nAxe 3\nPerception des parties prenantes du climat des affaires\n\n1"
+                },
+                {
+                  "page": 4,
+                  "text": "PROFIL DES RÉPONDANTS\n\nSecteurs d’activité :\nAutres industries : 44,1%\nTextile : 25%\nAgro-alimentaire : 19,1%\nDivers : 7,4%\nConstruction et BTP : 4,4%\n\nFormes juridiques :\nSARL : 78%\nSA : 11%\nSARL AU : 8%\nSociété en participation : 2%\nGIE : 1%\n\nCible : 135 interrogés\nInvestisseurs : 79%\nMandataires : 21%\n\n2"
+                }
+              ],
+              "text": "CONTEXTE\n\nDans le cadre de la convention du partenariat conclue entre le Centre Régional d’Investissement de la région Tanger-Tétouan-Al Hoceima et International Finance Corporation (IFC), une étude de perception des investisseurs du climat des affaires dans la région a été menée.\n\nCette étude, financée par l’IFC et réalisée par un cabinet indépendant spécialisé dans le domaine, s’articule autour des axes suivants :\n\nAxe 1\nPerception du climat des affaires\n\nAxe 2\nQualité de la relation et niveau de satisfaction par rapport aux services rendus par le CRI TTA\n\nAxe 3\nPerception des parties prenantes du climat des affaires\n\n1\n\nPROFIL DES RÉPONDANTS\n\nSecteurs d’activité :\nAutres industries : 44,1%\nTextile : 25%\nAgro-alimentaire : 19,1%\nDivers : 7,4%\nConstruction et BTP : 4,4%\n\nFormes juridiques :\nSARL : 78%\nSA : 11%\nSARL AU : 8%\nSociété en participation : 2%\nGIE : 1%\n\nCible : 135 interrogés\nInvestisseurs : 79%\nMandataires : 21%\n\n2",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_003",
+          "title": "PRINCIPAUX RÉSULTATS",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_003",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investor_profile"
+              ],
+              "heading_path": [
+                "Principaux résultats"
+              ],
+              "page_start": 5,
+              "page_end": 6,
+              "source_spans": [
+                {
+                  "page": 5,
+                  "text": "PRINCIPAUX RÉSULTATS\n\n3"
+                },
+                {
+                  "page": 6,
+                  "text": "PRINCIPAUX RÉSULTATS\n\n88% prévoient une extension de leur investissement dans la région.\n79% prévoient un nouvel investissement dans la région.\n53% ont réinvesti dans l’extension de leurs activités.\n40% ont réinvesti dans le lancement de nouveaux services ou produits.\n51% ont une activité d’importation.\n90% ont déclaré qu’ils voudraient sourcer plus localement.\n74% font du sourcing au niveau local.\n34% ont recours aux énergies renouvelables.\n41% ont recours au recyclage des déchets.\n\n4"
+                }
+              ],
+              "text": "PRINCIPAUX RÉSULTATS\n\n3\n\nPRINCIPAUX RÉSULTATS\n\n88% prévoient une extension de leur investissement dans la région.\n79% prévoient un nouvel investissement dans la région.\n53% ont réinvesti dans l’extension de leurs activités.\n40% ont réinvesti dans le lancement de nouveaux services ou produits.\n51% ont une activité d’importation.\n90% ont déclaré qu’ils voudraient sourcer plus localement.\n74% font du sourcing au niveau local.\n34% ont recours aux énergies renouvelables.\n41% ont recours au recyclage des déchets.\n\n4",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_004",
+          "title": "Principales destinations des exportations régionales",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_004",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "export_destinations"
+              ],
+              "heading_path": [
+                "Principales destinations des exportations régionales"
+              ],
+              "page_start": 7,
+              "page_end": 8,
+              "source_spans": [
+                {
+                  "page": 7,
+                  "text": "Principales destinations des exportations régionales\n\nEspagne : 48%\nAfrique : 22%\nEurope : 17%\nAngleterre : 9%\nFrance : 9%\nAllemagne : 9%\nUK : 9%\nInde : 4%\nTurquie : 4%\nMonde entier : 4%\nPays-Bas : 4%\nAsie : 4%\nMoyen Orient : 4%\n\n5"
+                },
+                {
+                  "page": 8,
+                  "text": "AXE 1\nPERCEPTION DES INVESTISSEURS DU CLIMAT DES AFFAIRES DANS LA RÉGION\n\n6"
+                }
+              ],
+              "text": "Principales destinations des exportations régionales\n\nEspagne : 48%\nAfrique : 22%\nEurope : 17%\nAngleterre : 9%\nFrance : 9%\nAllemagne : 9%\nUK : 9%\nInde : 4%\nTurquie : 4%\nMonde entier : 4%\nPays-Bas : 4%\nAsie : 4%\nMoyen Orient : 4%\n\n5\n\nAXE 1\nPERCEPTION DES INVESTISSEURS DU CLIMAT DES AFFAIRES DANS LA RÉGION\n\n6",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_005",
+          "title": "des entreprises sont satisfaites de leur implantation dans la région Tanger-Tétouan-Al Hoceima.",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_005",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investor_satisfaction"
+              ],
+              "heading_path": [
+                "Satisfaction des investisseurs"
+              ],
+              "page_start": 9,
+              "page_end": 10,
+              "source_spans": [
+                {
+                  "page": 9,
+                  "text": "92%\ndes entreprises sont satisfaites de leur implantation dans la région Tanger-Tétouan-Al Hoceima.\n\n7"
+                },
+                {
+                  "page": 10,
+                  "text": "Motivations principales d’implantation dans la région\n\n1. Situation géographique et maturité de l’écosystème\n\nJe suis originaire de la région : 51%\nProximité avec les marchés européens : 43%\nAccès aux matières premières/ressources spécifiques : 26%\nMain d’œuvre qualifiée disponible : 24%\nRéseau d’entreprises ou de partenaires potentiels : 23%\nOpportunité de croissance du marché local : 23%\nInfrastructure de transport modernes (ports, aéroports...) : 17%\nIncitations fiscales attractives : 7%\n\n8"
+                }
+              ],
+              "text": "92%\ndes entreprises sont satisfaites de leur implantation dans la région Tanger-Tétouan-Al Hoceima.\n\n7\n\nMotivations principales d’implantation dans la région\n\n1. Situation géographique et maturité de l’écosystème\n\nJe suis originaire de la région : 51%\nProximité avec les marchés européens : 43%\nAccès aux matières premières/ressources spécifiques : 26%\nMain d’œuvre qualifiée disponible : 24%\nRéseau d’entreprises ou de partenaires potentiels : 23%\nOpportunité de croissance du marché local : 23%\nInfrastructure de transport modernes (ports, aéroports...) : 17%\nIncitations fiscales attractives : 7%\n\n8",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_006",
+          "title": "Motivations principales d’implantation dans la région",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_006",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "investment_motivation"
+              ],
+              "heading_path": [
+                "Motivations d’implantation"
+              ],
+              "page_start": 11,
+              "page_end": 12,
+              "source_spans": [
+                {
+                  "page": 11,
+                  "text": "Motivations principales d’implantation dans la région\n\nLégende :\nTrès important\nMoyennement important\nPas important\n\n2. Économie / coût\n\nAccès aux sources de financement nationales :\nTrès important 74% — Moyennement important 9% — Pas important 17%\n\nMaturité de l’écosystème de la région TTA :\nTrès important 78% — Moyennement important 17% — Pas important 5%\n\nIncitations et avantages offerts par la région TTA :\nTrès important 71% — Moyennement important 20% — Pas important 9%\n\nDisponibilité du foncier mobilisable pour l’investissement :\nTrès important 83% — Moyennement important 12% — Pas important 5%\n\nTaille et potentiel du marché :\nTrès important 81% — Moyennement important 3% — Pas important 16%\n\nQualité de la main d’œuvre :\nTrès important 81% — Moyennement important 4% — Pas important 16%\n\nCoût de la main d’œuvre :\nTrès important 74% — Moyennement important 26% — Pas important 15%\n\nInfrastructure physique (Routes, énergie...) :\nTrès important 84% — Moyennement important 3% — Pas important 13%\n\nAccès aux terrains/locaux :\nTrès important 82% — Moyennement important 4% — Pas important 14%\n\nAccès aux intrants manufacturés/intermédiaires des fournisseurs locaux :\nTrès important 85% — Moyennement important 4% — Pas important 11%\n\n3. Environnement des affaires\n\nDisponibilité des structures d’accueil de nouvelles générations :\nTrès important 79% — Moyennement important 7% — Pas important 14%\n\nStabilité politique :\nTrès important 92% — Moyennement important 1% — Pas important 7%\n\nStabilité macroéconomique et monétaire :\nTrès important 82% — Moyennement important 2% — Pas important 16%\n\nSécurité :\nTrès important 97% — Moyennement important 1% — Pas important 2%\n\nStabilité sociale :\nTrès important 95% — Moyennement important 1% — Pas important 4%\n\n9"
+                },
+                {
+                  "page": 12,
+                  "text": "Tendances et perspectives de croissance des entreprises dans la région\n\n82% des interrogés jugent la situation actuelle de leurs entreprises satisfaisante.\n\nSituation actuelle :\nBonne : 36%\nMoyenne : 46%\nMauvaise : 18%\n\nPerspectives :\nLégende : Perspective haussière / Stable / Tendance baissière\n\nChiffres d’affaires :\n67% / 16% / 17%\n\nNombre de cadres :\n65% / 26% / 8%\n\nNombre d’employés :\n67% / 25% / 7%\n\nVolume d’importations :\n86% / 8% / 6%\n\nVolume d’exportations :\n61% / 30% / 9%\n\nVolume des investissements :\n69% / 25% / 5%\n\n…avec des perspectives optimistes de croissance à tous les niveaux.\n\n10"
+                }
+              ],
+              "text": "Motivations principales d’implantation dans la région\n\nLégende :\nTrès important\nMoyennement important\nPas important\n\n2. Économie / coût\n\nAccès aux sources de financement nationales :\nTrès important 74% — Moyennement important 9% — Pas important 17%\n\nMaturité de l’écosystème de la région TTA :\nTrès important 78% — Moyennement important 17% — Pas important 5%\n\nIncitations et avantages offerts par la région TTA :\nTrès important 71% — Moyennement important 20% — Pas important 9%\n\nDisponibilité du foncier mobilisable pour l’investissement :\nTrès important 83% — Moyennement important 12% — Pas important 5%\n\nTaille et potentiel du marché :\nTrès important 81% — Moyennement important 3% — Pas important 16%\n\nQualité de la main d’œuvre :\nTrès important 81% — Moyennement important 4% — Pas important 16%\n\nCoût de la main d’œuvre :\nTrès important 74% — Moyennement important 26% — Pas important 15%\n\nInfrastructure physique (Routes, énergie...) :\nTrès important 84% — Moyennement important 3% — Pas important 13%\n\nAccès aux terrains/locaux :\nTrès important 82% — Moyennement important 4% — Pas important 14%\n\nAccès aux intrants manufacturés/intermédiaires des fournisseurs locaux :\nTrès important 85% — Moyennement important 4% — Pas important 11%\n\n3. Environnement des affaires\n\nDisponibilité des structures d’accueil de nouvelles générations :\nTrès important 79% — Moyennement important 7% — Pas important 14%\n\nStabilité politique :\nTrès important 92% — Moyennement important 1% — Pas important 7%\n\nStabilité macroéconomique et monétaire :\nTrès important 82% — Moyennement important 2% — Pas important 16%\n\nSécurité :\nTrès important 97% — Moyennement important 1% — Pas important 2%\n\nStabilité sociale :\nTrès important 95% — Moyennement important 1% — Pas important 4%\n\n9\n\nTendances et perspectives de croissance des entreprises dans la région\n\n82% des interrogés jugent la situation actuelle de leurs entreprises satisfaisante.\n\nSituation actuelle :\nBonne : 36%\nMoyenne : 46%\nMauvaise : 18%\n\nPerspectives :\nLégende : Perspective haussière / Stable / Tendance baissière\n\nChiffres d’affaires :\n67% / 16% / 17%\n\nNombre de cadres :\n65% / 26% / 8%\n\nNombre d’employés :\n67% / 25% / 7%\n\nVolume d’importations :\n86% / 8% / 6%\n\nVolume d’exportations :\n61% / 30% / 9%\n\nVolume des investissements :\n69% / 25% / 5%\n\n…avec des perspectives optimistes de croissance à tous les niveaux.\n\n10",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_007",
+          "title": "Développement durable & initiatives sociales",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_007",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "environmental_practices",
+                "sustainability"
+              ],
+              "heading_path": [
+                "Développement durable et initiatives sociales"
+              ],
+              "page_start": 13,
+              "page_end": 14,
+              "source_spans": [
+                {
+                  "page": 13,
+                  "text": "Développement durable & initiatives sociales\n\nPlus de 9 entreprises sur 10 ont pris des initiatives de responsabilité sociétale. Cependant, moins de 40% ont pris des initiatives en termes de développement durable.\n\nRéduction de consommation d’énergie : 40%\nRecours aux énergies renouvelables : 34%\nTraitement des eaux usées : 33%\nRecyclage des déchets : 41%\nRéutilisation et/ou reconditionnement des produits usés : 33%\nIsolation thermique : 42%\nDroits des travailleurs : 93%\nSanté et sécurité des employés : 94%\n\n11"
+                },
+                {
+                  "page": 14,
+                  "text": "AXE 2\nQUALITÉ DE LA RELATION ET NIVEAU DE SATISFACTION PAR RAPPORT AUX SERVICES RENDUS PAR LE CRI TTA\n\n12"
+                }
+              ],
+              "text": "Développement durable & initiatives sociales\n\nPlus de 9 entreprises sur 10 ont pris des initiatives de responsabilité sociétale. Cependant, moins de 40% ont pris des initiatives en termes de développement durable.\n\nRéduction de consommation d’énergie : 40%\nRecours aux énergies renouvelables : 34%\nTraitement des eaux usées : 33%\nRecyclage des déchets : 41%\nRéutilisation et/ou reconditionnement des produits usés : 33%\nIsolation thermique : 42%\nDroits des travailleurs : 93%\nSanté et sécurité des employés : 94%\n\n11\n\nAXE 2\nQUALITÉ DE LA RELATION ET NIVEAU DE SATISFACTION PAR RAPPORT AUX SERVICES RENDUS PAR LE CRI TTA\n\n12",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_008",
+          "title": "Niveau de satisfaction global vis-à-vis de l’expérience avec le CRI",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_008",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "cri_support",
+                "investor_satisfaction"
+              ],
+              "heading_path": [
+                "Satisfaction vis-à-vis du CRI"
+              ],
+              "page_start": 15,
+              "page_end": 16,
+              "source_spans": [
+                {
+                  "page": 15,
+                  "text": "Niveau de satisfaction global vis-à-vis de l’expérience avec le CRI\n\n90% des entreprises se disent satisfaites de leur relation avec le CRI TTA.\n\nLégende :\nTrès satisfait / Satisfait / Insatisfait\n\nFacilité de la prise de contact avec le CRI TTA :\n80% / 16% / 4%\n\nDisponibilité de votre interlocuteur :\n77% / 18% / 5%\n\nAmabilité et courtoisie de votre interlocuteur :\n77% / 19% / 4%\n\nFacilité et simplicité des procédures :\n59% / 28% / 13%\n\nQualité de l’accompagnement :\n63% / 23% / 14%\n\nSuivi post-investissement :\n57% / 30% / 13%\n\nAnticipation de vos besoins :\n54% / 30% / 16%\n\nEfforts accomplis par le CRI pour la promotion de la région :\n63% / 24% / 13%\n\n13"
+                },
+                {
+                  "page": 16,
+                  "text": "1. Actes liés aux autorisations urbanistiques\n\n88% des entreprises se disent satisfaites de la procédure concernant la demande des autorisations urbanistiques.\n\nTrès satisfait : 45%\nPlutôt satisfait : 43%\nPlutôt insatisfait : 7%\nTrès insatisfait : 5%\n\n2. Accompagnement en amont de l’investissement\n\n91% des répondants interrogés ont déclaré être satisfaits de l’accompagnement qui leur a été fourni par le CRI TTA.\n\nTrès satisfait : 56%\nPlutôt satisfait : 35%\nInsatisfait : 9%\n\n14"
+                }
+              ],
+              "text": "Niveau de satisfaction global vis-à-vis de l’expérience avec le CRI\n\n90% des entreprises se disent satisfaites de leur relation avec le CRI TTA.\n\nLégende :\nTrès satisfait / Satisfait / Insatisfait\n\nFacilité de la prise de contact avec le CRI TTA :\n80% / 16% / 4%\n\nDisponibilité de votre interlocuteur :\n77% / 18% / 5%\n\nAmabilité et courtoisie de votre interlocuteur :\n77% / 19% / 4%\n\nFacilité et simplicité des procédures :\n59% / 28% / 13%\n\nQualité de l’accompagnement :\n63% / 23% / 14%\n\nSuivi post-investissement :\n57% / 30% / 13%\n\nAnticipation de vos besoins :\n54% / 30% / 16%\n\nEfforts accomplis par le CRI pour la promotion de la région :\n63% / 24% / 13%\n\n13\n\n1. Actes liés aux autorisations urbanistiques\n\n88% des entreprises se disent satisfaites de la procédure concernant la demande des autorisations urbanistiques.\n\nTrès satisfait : 45%\nPlutôt satisfait : 43%\nPlutôt insatisfait : 7%\nTrès insatisfait : 5%\n\n2. Accompagnement en amont de l’investissement\n\n91% des répondants interrogés ont déclaré être satisfaits de l’accompagnement qui leur a été fourni par le CRI TTA.\n\nTrès satisfait : 56%\nPlutôt satisfait : 35%\nInsatisfait : 9%\n\n14",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_009",
+          "title": "Principaux axes d’accompagnement perçus par les investisseurs",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_009",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "cri_support",
+                "investment_support"
+              ],
+              "heading_path": [
+                "Axes d’accompagnement perçus"
+              ],
+              "page_start": 17,
+              "page_end": 18,
+              "source_spans": [
+                {
+                  "page": 17,
+                  "text": "Principaux axes d’accompagnement perçus par les investisseurs\n\nPromotion des opportunités d’investissement : 67%\nAccompagnement proactif pour le développement de l’écosystème de votre entreprise : 29%\nAssistance préalable à l’investissement : 12%\nFourniture de services liés au démarrage de votre entreprise : 12%\nAssistance et appui pour l’obtention d’incitations à l’investissement : 10%\nContact personnalisé et réactivité vis-à-vis de votre entreprise : 6%\nLe CRI a contacté votre entreprise de manière proactive avec une bonne proposition de valeur expliquant pourquoi votre entreprise devait investir à TTA : 6%\n\n3. Étude d’impact sur l’environnement\n\n100% des entreprises ont déclaré être satisfaites de la procédure d’étude d’impact sur l’environnement.\n\nTrès satisfait : 62%\nSatisfait : 38%\n\n15"
+                },
+                {
+                  "page": 18,
+                  "text": "4. Accès au foncier\n\n80% des entreprises ont déclaré être très satisfaites de l’accompagnement du CRI en matière d’accès au foncier.\n\nTrès satisfait : 80%\nSatisfait : 20%\n\n5. Incentives/subventions\n\n100% des entreprises interrogées sur ce volet ont déclaré être très satisfaites de l’assistance du CRI TTA pour leur permettre d’accéder aux incitations et subventions de l’État liées à l’investissement.\n\nVOTRE SIMULATEUR DE CALCUL DE LA PRIME À L’INVESTISSEMENT\n\nDans le cadre du dispositif d’appui principal prévu par la loi-cadre 03-22 formant la Charte de l’Investissement.\n\nScannez-moi pour accéder à Manar Al Moustatmir\nwww.manaralmoustatmir.ma\n\n16"
+                }
+              ],
+              "text": "Principaux axes d’accompagnement perçus par les investisseurs\n\nPromotion des opportunités d’investissement : 67%\nAccompagnement proactif pour le développement de l’écosystème de votre entreprise : 29%\nAssistance préalable à l’investissement : 12%\nFourniture de services liés au démarrage de votre entreprise : 12%\nAssistance et appui pour l’obtention d’incitations à l’investissement : 10%\nContact personnalisé et réactivité vis-à-vis de votre entreprise : 6%\nLe CRI a contacté votre entreprise de manière proactive avec une bonne proposition de valeur expliquant pourquoi votre entreprise devait investir à TTA : 6%\n\n3. Étude d’impact sur l’environnement\n\n100% des entreprises ont déclaré être satisfaites de la procédure d’étude d’impact sur l’environnement.\n\nTrès satisfait : 62%\nSatisfait : 38%\n\n15\n\n4. Accès au foncier\n\n80% des entreprises ont déclaré être très satisfaites de l’accompagnement du CRI en matière d’accès au foncier.\n\nTrès satisfait : 80%\nSatisfait : 20%\n\n5. Incentives/subventions\n\n100% des entreprises interrogées sur ce volet ont déclaré être très satisfaites de l’assistance du CRI TTA pour leur permettre d’accéder aux incitations et subventions de l’État liées à l’investissement.\n\nVOTRE SIMULATEUR DE CALCUL DE LA PRIME À L’INVESTISSEMENT\n\nDans le cadre du dispositif d’appui principal prévu par la loi-cadre 03-22 formant la Charte de l’Investissement.\n\nScannez-moi pour accéder à Manar Al Moustatmir\nwww.manaralmoustatmir.ma\n\n16",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_010",
+          "title": "6. Attentes vis-à-vis le CRI",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_010",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "future_expectations"
+              ],
+              "heading_path": [
+                "Attentes vis-à-vis du CRI"
+              ],
+              "page_start": 19,
+              "page_end": 20,
+              "source_spans": [
+                {
+                  "page": 19,
+                  "text": "6. Attentes vis-à-vis le CRI\n\nRenforcer l’accompagnement des entreprises : 9%\nDonner plus de poids à l’aide pour trouver des solutions foncières : 6%\nAider à trouver des solutions financières/subventions : 6%\nRenforcer la disponibilité et la réactivité du personnel du CRI : 5%\nRenforcer le suivi systématique post-investissement : 5%\nDévelopper plus de zones industrielles dans la région : 4%\nAméliorer la plateforme du CRI : 3%\nClarifier les procédures à suivre pour chaque autorisation : 2%\nRien en particulier : 60%\n\nMANAR AL MOUSTATMIR\nPlateforme communautaire d’accompagnement aux investisseurs\n\nGUICHET UNIQUE VIRTUEL D’ACCOMPAGNEMENT DES INVESTISSEURS ET DES PORTEURS DE PROJETS\n\nwww.manaralmoustatmir.ma\n\n17"
+                },
+                {
+                  "page": 20,
+                  "text": "AXE 3\nREGARD DES PARTIES PRENANTES VIS-À-VIS DU CLIMAT DES AFFAIRES\n\n18"
+                }
+              ],
+              "text": "6. Attentes vis-à-vis le CRI\n\nRenforcer l’accompagnement des entreprises : 9%\nDonner plus de poids à l’aide pour trouver des solutions foncières : 6%\nAider à trouver des solutions financières/subventions : 6%\nRenforcer la disponibilité et la réactivité du personnel du CRI : 5%\nRenforcer le suivi systématique post-investissement : 5%\nDévelopper plus de zones industrielles dans la région : 4%\nAméliorer la plateforme du CRI : 3%\nClarifier les procédures à suivre pour chaque autorisation : 2%\nRien en particulier : 60%\n\nMANAR AL MOUSTATMIR\nPlateforme communautaire d’accompagnement aux investisseurs\n\nGUICHET UNIQUE VIRTUEL D’ACCOMPAGNEMENT DES INVESTISSEURS ET DES PORTEURS DE PROJETS\n\nwww.manaralmoustatmir.ma\n\n17\n\nAXE 3\nREGARD DES PARTIES PRENANTES VIS-À-VIS DU CLIMAT DES AFFAIRES\n\n18",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_011",
+          "title": "PERCEPTION DU CLIMAT DES AFFAIRES DANS LA RÉGION TTA",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_011",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "business_environment",
+                "regional_attractiveness"
+              ],
+              "heading_path": [
+                "Attractivité et climat des affaires régional"
+              ],
+              "page_start": 21,
+              "page_end": 22,
+              "source_spans": [
+                {
+                  "page": 21,
+                  "text": "PERCEPTION DU CLIMAT DES AFFAIRES DANS LA RÉGION TTA\n\n1. Perception des efforts déployés pour attirer les IDE\n\nLogistique bien développée\nInfrastructures d’accueil de classe mondiale\nMain d’œuvre qualifiée\nMaturité\nCompétitivité\nPlateforme d’innovation\nAttractivité forte\nBon cadre juridique\nFiscalité attractive\nMécanismes d’incitation\nNORDEV\n\n19"
+                },
+                {
+                  "page": 22,
+                  "text": "94% des interrogés jugent les politiques menées par les acteurs régionaux pour l’amélioration de l’attractivité de la région TTA efficaces et pertinentes.\n\n2. Perception de l’efficacité des efforts de l’État pour l’amélioration de l’attractivité de la région\n\nCadre juridique et fiscal :\n• Cadre juridique sécurisé et attractif\n• Régimes fiscaux spécifiques\n\nInfrastructures d’accueil et logistique :\n• Ports\n• Autoroutes\n• Aéroports\n• Zones d’activités économiques et industrielles\n\nAccompagnement & incitations :\n• Accompagnement et formation\n• Subventions, fonds, primes et aides\n\nFormation et RH :\n• Universités\n• OFPPT\n• ANAPEC\n• Cités des Métiers et des Compétences\n• Établissements d’enseignement privés\n\n20"
+                }
+              ],
+              "text": "PERCEPTION DU CLIMAT DES AFFAIRES DANS LA RÉGION TTA\n\n1. Perception des efforts déployés pour attirer les IDE\n\nLogistique bien développée\nInfrastructures d’accueil de classe mondiale\nMain d’œuvre qualifiée\nMaturité\nCompétitivité\nPlateforme d’innovation\nAttractivité forte\nBon cadre juridique\nFiscalité attractive\nMécanismes d’incitation\nNORDEV\n\n19\n\n94% des interrogés jugent les politiques menées par les acteurs régionaux pour l’amélioration de l’attractivité de la région TTA efficaces et pertinentes.\n\n2. Perception de l’efficacité des efforts de l’État pour l’amélioration de l’attractivité de la région\n\nCadre juridique et fiscal :\n• Cadre juridique sécurisé et attractif\n• Régimes fiscaux spécifiques\n\nInfrastructures d’accueil et logistique :\n• Ports\n• Autoroutes\n• Aéroports\n• Zones d’activités économiques et industrielles\n\nAccompagnement & incitations :\n• Accompagnement et formation\n• Subventions, fonds, primes et aides\n\nFormation et RH :\n• Universités\n• OFPPT\n• ANAPEC\n• Cités des Métiers et des Compétences\n• Établissements d’enseignement privés\n\n20",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_012",
+          "title": "3. Principaux axes d’amélioration à activer pour améliorer davantage le climat des affaires de la région et attirer davantage d’IDE",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_012",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "improvement_priorities"
+              ],
+              "heading_path": [
+                "Axes d’amélioration prioritaires"
+              ],
+              "page_start": 23,
+              "page_end": 24,
+              "source_spans": [
+                {
+                  "page": 23,
+                  "text": "3. Principaux axes d’amélioration à activer pour améliorer davantage le climat des affaires de la région et attirer davantage d’IDE\n\nAdministratif :\n• Poursuite du chantier de simplification des procédures administratives notamment celles liées à l’octroi des autorisations urbanistiques\n• Nécessité de continuer la dématérialisation des procédures\n• Planification urbanistique plus favorable à l’investissement\n\nCommunication :\n• Mobilisation de plus de moyens pour la promotion de l’offre territoriale à l’échelle régionale, nationale et internationale\n\nLogistique :\n• Renforcement de l’offre foncière à usage industriel, touristique et économique notamment à Tanger\n• Amélioration de la mobilité et la gestion du trafic\n• Réduction des coûts logistiques (transport routier, maritime...)\n\nAccompagnement :\n• Consolidation et convergences des programmes d’accompagnement des jeunes entrepreneurs\n\nFormation & capital humain :\n• Renforcement de l’offre de formation professionnelle\n• Mise en place d’un cadre incitatif pour la recherche et développement\n\n21"
+                },
+                {
+                  "page": 24,
+                  "text": "PERFORMANCE EN MATIÈRE D’ENVIRONNEMENT ET D’EFFICACITÉ ÉNERGÉTIQUE\n\nL’ensemble des parties prenantes interrogées ont conscience de l’enjeu majeur que représente la protection de l’environnement et des nouvelles contraintes des marchés internationaux. Toutefois, et sauf pour les entreprises multinationales qui sont un peu plus engagées en la matière, un certain nombre de contraintes empêchent encore l’adoption de ces pratiques par l’ensemble des entreprises.\n\nContraintes identifiées :\n• Insuffisance des ressources\n• Absence d’une démarche volontariste de mise en œuvre des politiques environnementales\n• Manque de prise de conscience environnementale\n• Insuffisance de mécanismes de contrôle environnemental\n• Absence d’un dispositif d’accompagnement efficace\n\nGuide de branchement électricité, eau potable et assainissement pour les clients grands comptes\n\n22"
+                }
+              ],
+              "text": "3. Principaux axes d’amélioration à activer pour améliorer davantage le climat des affaires de la région et attirer davantage d’IDE\n\nAdministratif :\n• Poursuite du chantier de simplification des procédures administratives notamment celles liées à l’octroi des autorisations urbanistiques\n• Nécessité de continuer la dématérialisation des procédures\n• Planification urbanistique plus favorable à l’investissement\n\nCommunication :\n• Mobilisation de plus de moyens pour la promotion de l’offre territoriale à l’échelle régionale, nationale et internationale\n\nLogistique :\n• Renforcement de l’offre foncière à usage industriel, touristique et économique notamment à Tanger\n• Amélioration de la mobilité et la gestion du trafic\n• Réduction des coûts logistiques (transport routier, maritime...)\n\nAccompagnement :\n• Consolidation et convergences des programmes d’accompagnement des jeunes entrepreneurs\n\nFormation & capital humain :\n• Renforcement de l’offre de formation professionnelle\n• Mise en place d’un cadre incitatif pour la recherche et développement\n\n21\n\nPERFORMANCE EN MATIÈRE D’ENVIRONNEMENT ET D’EFFICACITÉ ÉNERGÉTIQUE\n\nL’ensemble des parties prenantes interrogées ont conscience de l’enjeu majeur que représente la protection de l’environnement et des nouvelles contraintes des marchés internationaux. Toutefois, et sauf pour les entreprises multinationales qui sont un peu plus engagées en la matière, un certain nombre de contraintes empêchent encore l’adoption de ces pratiques par l’ensemble des entreprises.\n\nContraintes identifiées :\n• Insuffisance des ressources\n• Absence d’une démarche volontariste de mise en œuvre des politiques environnementales\n• Manque de prise de conscience environnementale\n• Insuffisance de mécanismes de contrôle environnemental\n• Absence d’un dispositif d’accompagnement efficace\n\nGuide de branchement électricité, eau potable et assainissement pour les clients grands comptes\n\n22",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_013",
+          "title": "PERCEPTION DE LA RELATION AVEC LE CRI TTA",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_013",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "cri_support",
+                "investor_satisfaction"
+              ],
+              "heading_path": [
+                "Relation avec le CRI TTA"
+              ],
+              "page_start": 25,
+              "page_end": 26,
+              "source_spans": [
+                {
+                  "page": 25,
+                  "text": "PERCEPTION DE LA RELATION AVEC LE CRI TTA\n\n100% des parties prenantes rencontrées entretiennent une très bonne et très étroite relation avec le CRI.\n\nTous les acteurs interrogés sont conscients du rôle crucial et central du CRI dans le développement des investissements de la région. Le CRI est considéré comme un pivot du développement économique local, en assurant diverses tâches dont la promotion du territoire, l’accompagnement des investisseurs, ou la médiation entre les parties prenantes.\n\nOffre territoriale des opportunités d’investissement et d’accompagnement\nRégion Tanger | Tétouan | Al Hoceima\n\nScannez le code QR pour télécharger\n\n23"
+                },
+                {
+                  "page": 26,
+                  "text": "LES DIFFÉRENTS POINTS DE CONTACT AVEC LE CRI TTA\n\nDifférents points de contact entre les parties prenantes et le CRI TTA ont été évoqués, qui portent sur l’échange de l’information, le soutien à la création d’entreprise, les projets en cours de développement ou le suivi sur le terrain.\n\nPartage d’information, promotion et planification territoriale\nPartage de documentation, planification stratégique, et déclinaison des stratégies nationales à l’échelle régionale ; ateliers, rencontres d’affaires, Doing Business, salons, manifestations économiques, échanges de données...\n\nCréation d’entreprises\nAccompagnement des investisseurs durant la procédure de création de leurs entreprises.\n\nAccompagnement ex ante des projets\nOrientation, conseil, parcours de l’investisseur et mécanismes d’incitation ;\nOpportunités d’investissement, besoin de financement, réglementation...\n\nSuivi de l’état d’avancement des projets sur le terrain\nAccompagnement des investisseurs, suivi de l’état de valorisation des projets ;\nSuivi des conventions d’investissement.\n\nLa Commission Régionale Unifiée d’Investissement (CRUI)\nParticipe en tant que membre de la commission d’instruction et d’examen des projets d’investissement dans la région.\n\n24"
+                }
+              ],
+              "text": "PERCEPTION DE LA RELATION AVEC LE CRI TTA\n\n100% des parties prenantes rencontrées entretiennent une très bonne et très étroite relation avec le CRI.\n\nTous les acteurs interrogés sont conscients du rôle crucial et central du CRI dans le développement des investissements de la région. Le CRI est considéré comme un pivot du développement économique local, en assurant diverses tâches dont la promotion du territoire, l’accompagnement des investisseurs, ou la médiation entre les parties prenantes.\n\nOffre territoriale des opportunités d’investissement et d’accompagnement\nRégion Tanger | Tétouan | Al Hoceima\n\nScannez le code QR pour télécharger\n\n23\n\nLES DIFFÉRENTS POINTS DE CONTACT AVEC LE CRI TTA\n\nDifférents points de contact entre les parties prenantes et le CRI TTA ont été évoqués, qui portent sur l’échange de l’information, le soutien à la création d’entreprise, les projets en cours de développement ou le suivi sur le terrain.\n\nPartage d’information, promotion et planification territoriale\nPartage de documentation, planification stratégique, et déclinaison des stratégies nationales à l’échelle régionale ; ateliers, rencontres d’affaires, Doing Business, salons, manifestations économiques, échanges de données...\n\nCréation d’entreprises\nAccompagnement des investisseurs durant la procédure de création de leurs entreprises.\n\nAccompagnement ex ante des projets\nOrientation, conseil, parcours de l’investisseur et mécanismes d’incitation ;\nOpportunités d’investissement, besoin de financement, réglementation...\n\nSuivi de l’état d’avancement des projets sur le terrain\nAccompagnement des investisseurs, suivi de l’état de valorisation des projets ;\nSuivi des conventions d’investissement.\n\nLa Commission Régionale Unifiée d’Investissement (CRUI)\nParticipe en tant que membre de la commission d’instruction et d’examen des projets d’investissement dans la région.\n\n24",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "fr_indicateurs_climat_dinvestissement_subsection_014",
+          "title": "Synthèse",
+          "chunks": [
+            {
+              "chunk_id": "fr_indicateurs_climat_dinvestissement_chunk_014",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_climate",
+                "regional_attractiveness"
+              ],
+              "heading_path": [
+                "Synthèse du climat des affaires"
+              ],
+              "page_start": 27,
+              "page_end": 28,
+              "source_spans": [
+                {
+                  "page": 27,
+                  "text": "Synthèse\n\nClimat des affaires\n\nLa région Tanger-Tétouan-Al Hoceima est largement perçue comme offrant un climat des affaires très favorable à l’investissement, avec un potentiel qui se concentre principalement dans l’industrie, le tourisme et l’agriculture.\n\nLa région attire fortement les IDE, grâce à de nombreux efforts étatiques tels qu’une fiscalité favorable, ainsi qu’un développement important des infrastructures et des moyens logistiques et humains (notamment dans le secteur industriel).\n\nRelation avec le CRI\n\nLa relation avec le CRI est très positive pour l’ensemble des parties prenantes, qui estiment par ailleurs que son rôle dans le développement des investissements est majeur grâce à un service d’accompagnement de qualité au profit des porteurs de projets, jusqu’à leur concrétisation finale, faisant de lui un vrai guichet unique de l’investissement.\n\nCependant, quelques pistes d’amélioration ont été évoquées concernant principalement la multiplicité des acteurs dans certaines procédures et les délais de délivrance des actes finaux relatifs aux autorisations urbanistiques, et ce, afin de renforcer le rôle du CRI en tant que guichet unique et de poursuivre le chantier de décentralisation de la décision d’autorisation des projets à l’échelle régionale.\n\nPerformance et tendances environnementales\n\nMalgré une tendance croissante à adopter des pratiques écologiques, la question environnementale n’est pas encore considérée comme une priorité par les entreprises au niveau régional.\n\nNombreuses mesures visant à protéger l’environnement sont mises en place par les différentes parties prenantes, notamment pour la gestion des déchets ménagers, industriels, la gestion des eaux usées, le développement des énergies renouvelables, les études d’Impact sur l’Environnement (EIE), …\n\nLa transition vers des pratiques environnementales pour les entreprises est principalement freinée par des défis financiers et un manque de sensibilisation et/ou d’accompagnement.\n\n25"
+                },
+                {
+                  "page": 28,
+                  "text": "Une fois que vous êtes ici, vous êtes partout !\n\nAvec le soutien de :\nIFC — International Finance Corporation — World Bank Group\n\nwww.investangier.com"
+                }
+              ],
+              "text": "Synthèse\n\nClimat des affaires\n\nLa région Tanger-Tétouan-Al Hoceima est largement perçue comme offrant un climat des affaires très favorable à l’investissement, avec un potentiel qui se concentre principalement dans l’industrie, le tourisme et l’agriculture.\n\nLa région attire fortement les IDE, grâce à de nombreux efforts étatiques tels qu’une fiscalité favorable, ainsi qu’un développement important des infrastructures et des moyens logistiques et humains (notamment dans le secteur industriel).\n\nRelation avec le CRI\n\nLa relation avec le CRI est très positive pour l’ensemble des parties prenantes, qui estiment par ailleurs que son rôle dans le développement des investissements est majeur grâce à un service d’accompagnement de qualité au profit des porteurs de projets, jusqu’à leur concrétisation finale, faisant de lui un vrai guichet unique de l’investissement.\n\nCependant, quelques pistes d’amélioration ont été évoquées concernant principalement la multiplicité des acteurs dans certaines procédures et les délais de délivrance des actes finaux relatifs aux autorisations urbanistiques, et ce, afin de renforcer le rôle du CRI en tant que guichet unique et de poursuivre le chantier de décentralisation de la décision d’autorisation des projets à l’échelle régionale.\n\nPerformance et tendances environnementales\n\nMalgré une tendance croissante à adopter des pratiques écologiques, la question environnementale n’est pas encore considérée comme une priorité par les entreprises au niveau régional.\n\nNombreuses mesures visant à protéger l’environnement sont mises en place par les différentes parties prenantes, notamment pour la gestion des déchets ménagers, industriels, la gestion des eaux usées, le développement des énergies renouvelables, les études d’Impact sur l’Environnement (EIE), …\n\nLa transition vers des pratiques environnementales pour les entreprises est principalement freinée par des défis financiers et un manque de sensibilisation et/ou d’accompagnement.\n\n25\n\nUne fois que vous êtes ici, vous êtes partout !\n\nAvec le soutien de :\nIFC — International Finance Corporation — World Bank Group\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "year": null,
+                  "type": null,
+                  "semester": null,
+                  "quarter": null,
+                  "label": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

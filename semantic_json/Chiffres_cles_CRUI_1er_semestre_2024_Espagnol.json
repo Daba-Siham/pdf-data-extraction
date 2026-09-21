@@ -1,0 +1,367 @@
+{
+  "schema_version": "2.2",
+  "document_id": "chiffres_cles_crui_1er_semestre_2024_espagnol",
+  "document_family_id": "crui_key_figures_2024_h1",
+  "metadata": {
+    "title": "Cifras clave y estadísticas",
+    "filename": "Chiffres_cles_CRUI_1er_semestre_2024_Espagnol.json",
+    "language": "es",
+    "document_type": "key_figures",
+    "publisher": "CRI Tanger-Tétouan-Al Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "publication_year": null,
+    "reference_period": {
+      "year": 2024,
+      "type": "semester",
+      "semester": 1,
+      "quarter": null,
+      "label": "Primer semestre de 2024",
+      "start_date": null,
+      "end_date": null
+    },
+    "topics": [
+      "approved_projects",
+      "closing_message",
+      "crui_activity",
+      "industrial_investment",
+      "investment_amount",
+      "projected_jobs",
+      "projects_reviewed",
+      "sector_distribution"
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_section_01",
+      "title": "¡Una vez aquí, está en todas partes!",
+      "topic_id": "crui_activity",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_subsection_01",
+          "title": "¡Una vez aquí, está en todas partes!",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_chunk_001",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "crui_activity"
+              ],
+              "heading_path": [
+                "¡Una vez aquí, está en todas partes!"
+              ],
+              "page_start": 1,
+              "page_end": 1,
+              "source_spans": [
+                {
+                  "page": 1,
+                  "text": "¡Una vez aquí, está en todas partes!\n\nCIFRAS CLAVE DE LA COMISIÓN REGIONAL UNIFICADA DE INVERSIONES (CRUI)\n1ER SEMESTRE DE 2024\n\nCENTRO REGIONAL DE INVERSIONES (CRI)\nTÁNGER - TETUÁN - ALHUCEMAS\n\nwww.investangier.com"
+                }
+              ],
+              "text": "¡Una vez aquí, está en todas partes!\n\nCIFRAS CLAVE DE LA COMISIÓN REGIONAL UNIFICADA DE INVERSIONES (CRUI)\n1ER SEMESTRE DE 2024\n\nCENTRO REGIONAL DE INVERSIONES (CRI)\nTÁNGER - TETUÁN - ALHUCEMAS\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [
+                  2024
+                ],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_section_02",
+      "title": "¡Una vez aquí, está en todas partes!",
+      "topic_id": "projects_reviewed",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_subsection_02",
+          "title": "¡Una vez aquí, está en todas partes!",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_chunk_002",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "projects_reviewed"
+              ],
+              "heading_path": [
+                "¡Una vez aquí, está en todas partes!"
+              ],
+              "page_start": 2,
+              "page_end": 2,
+              "source_spans": [
+                {
+                  "page": 2,
+                  "text": "¡Una vez aquí, está en todas partes!\n\n433\nproyectos examinados por la Comisión Regional Unificada de Inversiones (CRUI)\n\n379\nproyectos aprobados, el 87,5% de los proyectos examinados por la CRUI\n\n40,76 mil millones de dirhams de inversión, un 72% más que en el primer semestre de 2023\n\n45 630\nempleos previstos a medio y largo plazo\n\nwww.investangier.com"
+                }
+              ],
+              "text": "¡Una vez aquí, está en todas partes!\n\n433\nproyectos examinados por la Comisión Regional Unificada de Inversiones (CRUI)\n\n379\nproyectos aprobados, el 87,5% de los proyectos examinados por la CRUI\n\n40,76 mil millones de dirhams de inversión, un 72% más que en el primer semestre de 2023\n\n45 630\nempleos previstos a medio y largo plazo\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [
+                  2023
+                ],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_section_03",
+      "title": "¡Una vez aquí, está en todas partes!",
+      "topic_id": "sector_distribution",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_subsection_03",
+          "title": "¡Una vez aquí, está en todas partes!",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_chunk_003",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "sector_distribution",
+                "investment_amount"
+              ],
+              "heading_path": [
+                "¡Una vez aquí, está en todas partes!"
+              ],
+              "page_start": 3,
+              "page_end": 3,
+              "source_spans": [
+                {
+                  "page": 3,
+                  "text": "¡Una vez aquí, está en todas partes!\n\nDesglose del volumen de inversión por sector\n\nEl sector industrial continúa su excepcional crecimiento con más de la mitad de las inversiones aprobadas.\n\nTotal de inversiones: 40,76 mil millones MAD\n\nIndustria: 54%\nTurismo: 22%\nEnergía y minas: 15%\nOtros sectores: 6%\nComercio: 2%\nConstrucción y Obras Públicas: 1%\n\nwww.investangier.com"
+                }
+              ],
+              "text": "¡Una vez aquí, está en todas partes!\n\nDesglose del volumen de inversión por sector\n\nEl sector industrial continúa su excepcional crecimiento con más de la mitad de las inversiones aprobadas.\n\nTotal de inversiones: 40,76 mil millones MAD\n\nIndustria: 54%\nTurismo: 22%\nEnergía y minas: 15%\nOtros sectores: 6%\nComercio: 2%\nConstrucción y Obras Públicas: 1%\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_section_04",
+      "title": "¡Una vez aquí, está en todas partes!",
+      "topic_id": "industrial_investment",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_subsection_04",
+          "title": "¡Una vez aquí, está en todas partes!",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_chunk_004",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "sector_distribution",
+                "industrial_investment",
+                "investment_amount",
+                "projected_jobs"
+              ],
+              "heading_path": [
+                "¡Una vez aquí, está en todas partes!"
+              ],
+              "page_start": 4,
+              "page_end": 4,
+              "source_spans": [
+                {
+                  "page": 4,
+                  "text": "¡Una vez aquí, está en todas partes!\n\nEl sector industrial continúa su excepcional crecimiento con más de la mitad de las inversiones aprobadas.\n\nIndustria: 83%\nTurismo: 7%\nOtros sectores: 10%\n\nwww.investangier.com"
+                }
+              ],
+              "text": "¡Una vez aquí, está en todas partes!\n\nEl sector industrial continúa su excepcional crecimiento con más de la mitad de las inversiones aprobadas.\n\nIndustria: 83%\nTurismo: 7%\nOtros sectores: 10%\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_section_05",
+      "title": "¡Una vez aquí, está en todas partes!",
+      "topic_id": "crui_activity",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_subsection_05",
+          "title": "¡Una vez aquí, está en todas partes!",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_chunk_005",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "crui_activity"
+              ],
+              "heading_path": [
+                "¡Una vez aquí, está en todas partes!"
+              ],
+              "page_start": 5,
+              "page_end": 5,
+              "source_spans": [
+                {
+                  "page": 5,
+                  "text": "¡Una vez aquí, está en todas partes!\n\n121\nReunión de la Comisión Regional Unificada de Inversiones CRUI\n\nwww.investangier.com"
+                }
+              ],
+              "text": "¡Una vez aquí, está en todas partes!\n\n121\nReunión de la Comisión Regional Unificada de Inversiones CRUI\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_section_06",
+      "title": "¡Una vez aquí, está en todas partes!",
+      "topic_id": "approved_projects",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_subsection_06",
+          "title": "¡Una vez aquí, está en todas partes!",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_chunk_006",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "approved_projects",
+                "investment_amount",
+                "projected_jobs"
+              ],
+              "heading_path": [
+                "¡Una vez aquí, está en todas partes!"
+              ],
+              "page_start": 6,
+              "page_end": 6,
+              "source_spans": [
+                {
+                  "page": 6,
+                  "text": "¡Una vez aquí, está en todas partes!\n\n16\nconvenios de inversión aprobados\n\n9.540 millones de dirhams de inversión\n6 525 empleos directos a medio y largo plazo\n\nDesglose sectorial de los importes de las inversiones de los convenios aprobados por la CRUI:\n\nTurismo y diversión: 78%\nIndustria: 11%\nLogística: 11%\n\nFoto: Royal Mansour Tamuda Bay\n\nwww.investangier.com"
+                }
+              ],
+              "text": "¡Una vez aquí, está en todas partes!\n\n16\nconvenios de inversión aprobados\n\n9.540 millones de dirhams de inversión\n6 525 empleos directos a medio y largo plazo\n\nDesglose sectorial de los importes de las inversiones de los convenios aprobados por la CRUI:\n\nTurismo y diversión: 78%\nIndustria: 11%\nLogística: 11%\n\nFoto: Royal Mansour Tamuda Bay\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_section_07",
+      "title": "¡Una vez aquí, está en todas partes!",
+      "topic_id": "closing_message",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_subsection_07",
+          "title": "¡Una vez aquí, está en todas partes!",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_espagnol_chunk_007",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "closing_message"
+              ],
+              "heading_path": [
+                "¡Una vez aquí, está en todas partes!"
+              ],
+              "page_start": 7,
+              "page_end": 7,
+              "source_spans": [
+                {
+                  "page": 7,
+                  "text": "¡Una vez aquí, está en todas partes!\n\nwww.investangier.ma\nwww.manaralmoustatmir.ma"
+                }
+              ],
+              "text": "¡Una vez aquí, está en todas partes!\n\nwww.investangier.ma\nwww.manaralmoustatmir.ma",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

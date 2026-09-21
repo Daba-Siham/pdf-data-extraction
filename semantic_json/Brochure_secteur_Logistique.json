@@ -1,0 +1,331 @@
+{
+  "schema_version": "2.2",
+  "document_id": "brochure_secteur_logistique",
+  "document_family_id": "logistics_sector_brochure",
+  "metadata": {
+    "title": "Secteur de la logistique",
+    "filename": "Brochure_secteur_Logistique.json",
+    "language": "fr",
+    "document_type": "sector_brochure",
+    "publisher": "CRI Tanger-Tétouan-Al Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "publication_year": null,
+    "reference_period": {
+      "year": null,
+      "type": null,
+      "semester": null,
+      "quarter": null,
+      "label": null,
+      "start_date": null,
+      "end_date": null
+    },
+    "topics": [
+      "contact_information",
+      "fnideq_economic_zone",
+      "industrial_zone",
+      "logistics_infrastructure",
+      "logistics_operators",
+      "logistics_sector",
+      "logistics_strategy",
+      "regional_logistics",
+      "regional_statistics",
+      "tanger_med"
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "brochure_secteur_logistique_section_01",
+      "title": "Secteur de la logistique",
+      "topic_id": "logistics_sector",
+      "subsections": [
+        {
+          "subsection_id": "brochure_secteur_logistique_subsection_001",
+          "title": "المركز الجهوي للاستثمار",
+          "chunks": [
+            {
+              "chunk_id": "brochure_secteur_logistique_chunk_001",
+              "content_type": "narrative",
+              "semantic_tags": [
+                "logistics_sector",
+                "regional_logistics"
+              ],
+              "heading_path": [
+                "Secteur de la logistique",
+                "المركز الجهوي للاستثمار"
+              ],
+              "page_start": 1,
+              "page_end": 2,
+              "source_spans": [
+                {
+                  "page": 1,
+                  "text": "المركز الجهوي للاستثمار\nطنجة - تطوان - الحسيمة\nCENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TETOUAN - AL HOCEIMA\nPARTENAIRES DE DÉFIS, PARTENAIRES D’EXPERTISE\n\nINVEST IN\nTANGIER - TETOUAN - AL HOCEIMA\n\nUNE RÉGION À LA CROISÉE\nDES ROUTES MONDIALES\n\nSHAPE THE FUTURE OF YOUR BUSINESS GLOBALLY\n\nwww.investangier.com"
+                },
+                {
+                  "page": 2,
+                  "text": "Logistiques et infrastructures d’accueil et de transport\n\nAvec une façade maritime de 447 kms, ouverte à la fois sur la Méditerranée et sur l’Atlantique, la Région Tanger–Tétouan–Al Hoceima jouit d’une position géostratégique exceptionnelle, à la croisée des grands axes d’échanges et de commerce tant avec les pays européens qu’avec les États-Unis. Elle se situe sur le détroit de Gibraltar, l’un des axes maritimes les plus importants du globe où transitent plus de 20% des échanges mondiaux.\n\nLes opportunités résultant de l’intensification des échanges commerciaux, lui ouvrent d’importantes perspectives de développement économique et social et lui permettent de s’arrimer à la dynamique économique nationale et internationale.\n\nLa Région Tanger–Tétouan–Al Hoceima dispose d’infrastructures modernes, des équipements performants et des structures d’accueil susceptibles d’accompagner les activités du secteur tertiaire.\n\n02"
+                }
+              ],
+              "text": "المركز الجهوي للاستثمار\nطنجة - تطوان - الحسيمة\nCENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TETOUAN - AL HOCEIMA\nPARTENAIRES DE DÉFIS, PARTENAIRES D’EXPERTISE\n\nINVEST IN\nTANGIER - TETOUAN - AL HOCEIMA\n\nUNE RÉGION À LA CROISÉE\nDES ROUTES MONDIALES\n\nSHAPE THE FUTURE OF YOUR BUSINESS GLOBALLY\n\nwww.investangier.com\n\nLogistiques et infrastructures d’accueil et de transport\n\nAvec une façade maritime de 447 kms, ouverte à la fois sur la Méditerranée et sur l’Atlantique, la Région Tanger–Tétouan–Al Hoceima jouit d’une position géostratégique exceptionnelle, à la croisée des grands axes d’échanges et de commerce tant avec les pays européens qu’avec les États-Unis. Elle se situe sur le détroit de Gibraltar, l’un des axes maritimes les plus importants du globe où transitent plus de 20% des échanges mondiaux.\n\nLes opportunités résultant de l’intensification des échanges commerciaux, lui ouvrent d’importantes perspectives de développement économique et social et lui permettent de s’arrimer à la dynamique économique nationale et internationale.\n\nLa Région Tanger–Tétouan–Al Hoceima dispose d’infrastructures modernes, des équipements performants et des structures d’accueil susceptibles d’accompagner les activités du secteur tertiaire.\n\n02",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "brochure_secteur_logistique_subsection_002",
+          "title": "Une stratégie Nationale ambitieuse à l’horizon 2030, pour le développement de la compétitivité logistique du Royaume",
+          "chunks": [
+            {
+              "chunk_id": "brochure_secteur_logistique_chunk_002",
+              "content_type": "narrative",
+              "semantic_tags": [
+                "logistics_sector",
+                "logistics_strategy"
+              ],
+              "heading_path": [
+                "Secteur de la logistique",
+                "Une stratégie Nationale ambitieuse à l’horizon 2030, pour le développement de la compétitivité logistique du Royaume"
+              ],
+              "page_start": 3,
+              "page_end": 4,
+              "source_spans": [
+                {
+                  "page": 3,
+                  "text": "Une stratégie Nationale ambitieuse à l’horizon 2030, pour le développement de la compétitivité logistique du Royaume\n\nCompte tenu du potentiel d’amélioration de la compétitivité de l’économie du Maroc, à l’export et à l’import comme en interne, par le biais d’une logistique performante réorganisant et optimisant les différents flux de marchandises, une stratégie logistique a été mise au point par l’État en concertation avec le secteur privé représenté par la Confédération Générale des Entrepreneurs du Maroc. Elle a pour finalité de :\n\nRéduire le poids des coûts logistiques du Maroc par rapport au PIB pour passer de 20% à 15%.\n\nAccélérer la croissance du PIB en gagnant 5 points sur 10 ans à travers la baisse des coûts logistiques.\n\nRéduire de 35% les émissions CO2 liées au transport routier de marchandises.\n\nAxes clés de la stratégie logistique à l’horizon 2030\n\nDéveloppement d’un réseau national intégré de zones logistiques sur une superficie globale de 3300.\n\nMise en œuvre de mesures d’optimisation et de massification spécifiques aux principaux flux de marchandises (conteneurs, céréales, produits énergétiques, exportations,...).\n\nÉmergence d’acteurs logistiques, publics et privés.\n\nDéveloppement des compétences à travers un plan national de formation aux métiers de la logistique.\n\nMise en place d’un cadre de gouvernance du secteur avec la création de l’Agence Marocaine de Développement de la Logistique et la mise en place de l’Observatoire Marocain de la Compétitivité Logistique.\n\n03"
+                },
+                {
+                  "page": 4,
+                  "text": "Une offre de formation diversifiée et bien adaptée aux besoins du secteur de la logistique\n\nL’Office de la Formation Professionnelle et de la Promotion du Travail a développé une capacité permettant l’accueil de 7429 stagiaires dans les métiers du transport et de la logistique, dont 3769 dans la Région de Tanger–Tétouan–Al Hoceima.\n\nTanger dispose depuis 2001 d’un établissement dédié aux différentes filières du transport et logistique : il s’agit de l’Institut Spécialisé dans les Métiers de Transport Routier (ISMTR).\n\nFilières OFPPT :\nCariste d’entrepôt\nAgent Magasinier\nTechnicien Logistique\nTechnicien en Réparation des Engins à Moteur (Option : Poids Lourds et Autocars)\nTechnicien en Réparation des Engins à Moteur (Option : Automobile)\nTechnicien Spécialisé d’Exploitation en Transport\nResponsable d’Exploitation Logistique\n\nEn plus, la région connaîtra incessamment, l’ouverture d’un nouvel Institut Pluridisciplinaire des Métiers de la Logistique et de l’Industrie à la nouvelle ville Chrafat à la province Fahs-Anjra. Un projet qui s’étale sur une surface de 20 000 m2, avec un budget de d’environ 100 Mdhs et qui aura une capacité d’accueil de 1 200 stagiaires formés dans 10 filières liées aux métiers de la logistique.\n\nFormations Universitaires :\nL’Université Abdelmalek Essaâdi propose de son côté, à travers 8 filières au titre de l’année 2021, une offre des formations universitaires assurées par plusieurs établissements. Il s’agit notamment :\n\nCycle d’ingénieur Génie Industriel et Logistique – Ecole Nationale des Sciences Appliquées (ENSA) Tanger ;\nCycle d’ingénieur Management de la Chaîne Logistique – ENSA Tétouan ;\nMaster Management Logistique – Ecole Nationale de Commerce et de Gestion Tanger ;\nMaster en Logistique Portuaire et Transport International – Faculté des Sciences Economiques juridiques et Sociale (FSJES) Tanger ;\nMaster Management Logistique et Stratégie – FSJES Tétouan ;\nLicence professionnelle en Logistique et Transport – Faculté polydisciplinaire de Larache ;\nLicence professionnelle en Management de la Logistique et de la Qualité – FSJES Tanger ;\nLicence professionnelle en Management Logistique et Transport – FSJES Tétouan.\n\n04"
+                }
+              ],
+              "text": "Une stratégie Nationale ambitieuse à l’horizon 2030, pour le développement de la compétitivité logistique du Royaume\n\nCompte tenu du potentiel d’amélioration de la compétitivité de l’économie du Maroc, à l’export et à l’import comme en interne, par le biais d’une logistique performante réorganisant et optimisant les différents flux de marchandises, une stratégie logistique a été mise au point par l’État en concertation avec le secteur privé représenté par la Confédération Générale des Entrepreneurs du Maroc. Elle a pour finalité de :\n\nRéduire le poids des coûts logistiques du Maroc par rapport au PIB pour passer de 20% à 15%.\n\nAccélérer la croissance du PIB en gagnant 5 points sur 10 ans à travers la baisse des coûts logistiques.\n\nRéduire de 35% les émissions CO2 liées au transport routier de marchandises.\n\nAxes clés de la stratégie logistique à l’horizon 2030\n\nDéveloppement d’un réseau national intégré de zones logistiques sur une superficie globale de 3300.\n\nMise en œuvre de mesures d’optimisation et de massification spécifiques aux principaux flux de marchandises (conteneurs, céréales, produits énergétiques, exportations,...).\n\nÉmergence d’acteurs logistiques, publics et privés.\n\nDéveloppement des compétences à travers un plan national de formation aux métiers de la logistique.\n\nMise en place d’un cadre de gouvernance du secteur avec la création de l’Agence Marocaine de Développement de la Logistique et la mise en place de l’Observatoire Marocain de la Compétitivité Logistique.\n\n03\n\nUne offre de formation diversifiée et bien adaptée aux besoins du secteur de la logistique\n\nL’Office de la Formation Professionnelle et de la Promotion du Travail a développé une capacité permettant l’accueil de 7429 stagiaires dans les métiers du transport et de la logistique, dont 3769 dans la Région de Tanger–Tétouan–Al Hoceima.\n\nTanger dispose depuis 2001 d’un établissement dédié aux différentes filières du transport et logistique : il s’agit de l’Institut Spécialisé dans les Métiers de Transport Routier (ISMTR).\n\nFilières OFPPT :\nCariste d’entrepôt\nAgent Magasinier\nTechnicien Logistique\nTechnicien en Réparation des Engins à Moteur (Option : Poids Lourds et Autocars)\nTechnicien en Réparation des Engins à Moteur (Option : Automobile)\nTechnicien Spécialisé d’Exploitation en Transport\nResponsable d’Exploitation Logistique\n\nEn plus, la région connaîtra incessamment, l’ouverture d’un nouvel Institut Pluridisciplinaire des Métiers de la Logistique et de l’Industrie à la nouvelle ville Chrafat à la province Fahs-Anjra. Un projet qui s’étale sur une surface de 20 000 m2, avec un budget de d’environ 100 Mdhs et qui aura une capacité d’accueil de 1 200 stagiaires formés dans 10 filières liées aux métiers de la logistique.\n\nFormations Universitaires :\nL’Université Abdelmalek Essaâdi propose de son côté, à travers 8 filières au titre de l’année 2021, une offre des formations universitaires assurées par plusieurs établissements. Il s’agit notamment :\n\nCycle d’ingénieur Génie Industriel et Logistique – Ecole Nationale des Sciences Appliquées (ENSA) Tanger ;\nCycle d’ingénieur Management de la Chaîne Logistique – ENSA Tétouan ;\nMaster Management Logistique – Ecole Nationale de Commerce et de Gestion Tanger ;\nMaster en Logistique Portuaire et Transport International – Faculté des Sciences Economiques juridiques et Sociale (FSJES) Tanger ;\nMaster Management Logistique et Stratégie – FSJES Tétouan ;\nLicence professionnelle en Logistique et Transport – Faculté polydisciplinaire de Larache ;\nLicence professionnelle en Management de la Logistique et de la Qualité – FSJES Tanger ;\nLicence professionnelle en Management Logistique et Transport – FSJES Tétouan.\n\n04",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2001,
+                  2021,
+                  2030
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "brochure_secteur_logistique_subsection_003",
+          "title": "Infrastructures d’accueil des activités d’import export dans la Région :",
+          "chunks": [
+            {
+              "chunk_id": "brochure_secteur_logistique_chunk_003",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "logistics_infrastructure",
+                "logistics_sector",
+                "regional_statistics"
+              ],
+              "heading_path": [
+                "Secteur de la logistique",
+                "Infrastructures d’accueil des activités d’import export dans la Région :"
+              ],
+              "page_start": 5,
+              "page_end": 6,
+              "source_spans": [
+                {
+                  "page": 5,
+                  "text": "Infrastructures d’accueil des activités d’import export dans la Région :\n\nLa Région Tanger–Tétouan–Al Hoceima compte environ 1200 entreprises exportatrices réalisant environ 35% de la valeur globale des exportations nationales, soit un chiffre d’affaires à l’export avoisinant les 100 milliards de DH (lors de l’exercice 2019 : année de référence avant Covid-19).\n\nL’industrie automobile représente 64% des exportations, suivie par les industries de textile et habillement représentent 12%, de l’électrique et l’électronique avec 9% et de l’industrie agro-alimentaire (8%).\n\nPlusieurs zones franches dédiées à l’export et des infrastructures de transports portuaires, aéroportuaires, ferroviaires et autoroutiers de haut niveau attestent de l’importance accordée au secteur de la logistique dans la Région.\n\nZone logistique Medhub\n\nDans ce sens, une zone logistique adossée au port Tanger-Med a été édifiée selon les normes internationales et avec la charte architecturale signée Jean Nouvel sur une surface de 200 Ha dédiée aux activités logistiques à forte valeur ajoutée liée aux opérations de :\nGroupage de distribution et d’approvisionnement ;\nPréparation de commande, entreposage, conditionnement, étiquetage ;\nAssemblage et contrôle qualité ;\nMise en kit, traitement de colis et leur distribution.\n\nCette zone, avec un statut de franche et opérée par Med Hub, bénéficie d’une excellente connectivité aux réseaux de transport marocains et internationaux. Elle permet une distribution rapide et efficiente vers les autres zones franches du Royaume mais aussi vers un marché de plus de 1,2 milliard de consommateurs.\n\nElle propose une offre immobilière diversifiée et bien adaptée sous forme :\nDes entrepôts clés en main en location d’une surface de 400 m² à 40 000m² thermo Isolées classés A et B avec des hauteurs libre de 8m à 11m et une charge au sol : ST/m² et un système de détection incendie ;\nEt des plateaux bureaux avec des superficies modulables allant de 50 à 280 m², équipés avec un système de sécurité conforme aux normes internationales.\n\n05"
+                },
+                {
+                  "page": 6,
+                  "text": "Hub logistique mondial, la zone est parfaitement intégrée au complexe portuaire qui offre une multimodalité de mode de transport et une connectivité maritime hebdomadaire vers 180 ports mondiaux. Des avantages fiscaux et douaniers attractifs conformément à la loi 19-94 relatives aux zones franches. Il s’agit notamment :\n\nExonération des droits de douanes et de la TVA ;\nExonération des droits d’enregistrement et de timbre sur le capital ;\nExonération de la taxe professionnelle pour les 15 premières années ;\nExonération de l’impôt sur les sociétés pendant les 5 premières années puis un taux fixe de 15% pour les 20 années suivantes ;\nAucune restriction de change ou de rapatriement de fonds.\n\nEn plus de ses avantages financiers, la zone accorde d’autres avantages opérationnels liés notamment :\nPossibilité de la mise à la consommation sur le marché marocain pour les produits n’ayant pas subi de transformation ;\nDurée illimités de stockage à l’intérieur de Medhub ;\nPossibilité d’éclatement des preuves d’origines EUR-MED ou EUR1 en remplacement ;\nPossibilité d’éclatement des certificats d’origines délivrés par la chambre de commerce au profit des sociétés installées ou transitant leurs marchandises dans la zone ;\nPossibilité de groupage à l’export à partir de la zone des marchandises en provenance du territoire marocain avec celles entreposées à Medhub ;\nAucune déclaration douanière entre le port Tanger-Med et la zone ;\nPossibilité d’obtenir une dispense de caution définitive pour le transfert des marchandises entre Medhub et l’ensemble des bureaux douaniers ;\nPossibilités d’obtenir le certificat d’origine pour les marchandises exportées à partir de Medhub.\n\n06"
+                }
+              ],
+              "text": "Infrastructures d’accueil des activités d’import export dans la Région :\n\nLa Région Tanger–Tétouan–Al Hoceima compte environ 1200 entreprises exportatrices réalisant environ 35% de la valeur globale des exportations nationales, soit un chiffre d’affaires à l’export avoisinant les 100 milliards de DH (lors de l’exercice 2019 : année de référence avant Covid-19).\n\nL’industrie automobile représente 64% des exportations, suivie par les industries de textile et habillement représentent 12%, de l’électrique et l’électronique avec 9% et de l’industrie agro-alimentaire (8%).\n\nPlusieurs zones franches dédiées à l’export et des infrastructures de transports portuaires, aéroportuaires, ferroviaires et autoroutiers de haut niveau attestent de l’importance accordée au secteur de la logistique dans la Région.\n\nZone logistique Medhub\n\nDans ce sens, une zone logistique adossée au port Tanger-Med a été édifiée selon les normes internationales et avec la charte architecturale signée Jean Nouvel sur une surface de 200 Ha dédiée aux activités logistiques à forte valeur ajoutée liée aux opérations de :\nGroupage de distribution et d’approvisionnement ;\nPréparation de commande, entreposage, conditionnement, étiquetage ;\nAssemblage et contrôle qualité ;\nMise en kit, traitement de colis et leur distribution.\n\nCette zone, avec un statut de franche et opérée par Med Hub, bénéficie d’une excellente connectivité aux réseaux de transport marocains et internationaux. Elle permet une distribution rapide et efficiente vers les autres zones franches du Royaume mais aussi vers un marché de plus de 1,2 milliard de consommateurs.\n\nElle propose une offre immobilière diversifiée et bien adaptée sous forme :\nDes entrepôts clés en main en location d’une surface de 400 m² à 40 000m² thermo Isolées classés A et B avec des hauteurs libre de 8m à 11m et une charge au sol : ST/m² et un système de détection incendie ;\nEt des plateaux bureaux avec des superficies modulables allant de 50 à 280 m², équipés avec un système de sécurité conforme aux normes internationales.\n\n05\n\nHub logistique mondial, la zone est parfaitement intégrée au complexe portuaire qui offre une multimodalité de mode de transport et une connectivité maritime hebdomadaire vers 180 ports mondiaux. Des avantages fiscaux et douaniers attractifs conformément à la loi 19-94 relatives aux zones franches. Il s’agit notamment :\n\nExonération des droits de douanes et de la TVA ;\nExonération des droits d’enregistrement et de timbre sur le capital ;\nExonération de la taxe professionnelle pour les 15 premières années ;\nExonération de l’impôt sur les sociétés pendant les 5 premières années puis un taux fixe de 15% pour les 20 années suivantes ;\nAucune restriction de change ou de rapatriement de fonds.\n\nEn plus de ses avantages financiers, la zone accorde d’autres avantages opérationnels liés notamment :\nPossibilité de la mise à la consommation sur le marché marocain pour les produits n’ayant pas subi de transformation ;\nDurée illimités de stockage à l’intérieur de Medhub ;\nPossibilité d’éclatement des preuves d’origines EUR-MED ou EUR1 en remplacement ;\nPossibilité d’éclatement des certificats d’origines délivrés par la chambre de commerce au profit des sociétés installées ou transitant leurs marchandises dans la zone ;\nPossibilité de groupage à l’export à partir de la zone des marchandises en provenance du territoire marocain avec celles entreposées à Medhub ;\nAucune déclaration douanière entre le port Tanger-Med et la zone ;\nPossibilité d’obtenir une dispense de caution définitive pour le transfert des marchandises entre Medhub et l’ensemble des bureaux douaniers ;\nPossibilités d’obtenir le certificat d’origine pour les marchandises exportées à partir de Medhub.\n\n06",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2019,
+                "years_mentioned": [
+                  2019
+                ],
+                "reference_period": {
+                  "type": "year",
+                  "year": 2019,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "brochure_secteur_logistique_subsection_004",
+          "title": "La zone d’activités économiques de Fnideq",
+          "chunks": [
+            {
+              "chunk_id": "brochure_secteur_logistique_chunk_004",
+              "content_type": "industrial_zone",
+              "semantic_tags": [
+                "fnideq_economic_zone",
+                "industrial_zone",
+                "logistics_sector"
+              ],
+              "heading_path": [
+                "Secteur de la logistique",
+                "La zone d’activités économiques de Fnideq"
+              ],
+              "page_start": 7,
+              "page_end": 8,
+              "source_spans": [
+                {
+                  "page": 7,
+                  "text": "La zone d’activités économiques de Fnideq\n\nLa création de la Zone d’Activités Economiques Commerciales de Fnideq, permet aux entreprises de développer leurs échanges commerciaux de gros et de détail grâce aux importants flux de marchandises générés par la montée en puissance du port Tanger Med.\n\nPremière en son genre au niveau national et située à une vingtaine de kilomètres du premier port de l’Afrique et de la Méditerranée, la ZAEF est dotée d’infrastructures et d’équipements répondant aux normes internationales. La première tranche de ce projet, d’une superficie de 10 ha, est constituée de 76 entrepôts en plus de toutes les commodités et installations communes nécessaires à son fonctionnement. Elle représente une offre moderne et adaptée aux activités de commerce et de négoce.\n\nA terme, la zone s’étalera sur une superficie totale de 95 ha destinée exclusivement aux activités de distribution et du commerce et présentant plusieurs avantages :\n\nUn mode de gestion adapté et aux meilleurs standards à l’image des zones d’accélération industrielles de la Région ;\nUn mode de fonctionnement et un système logistique dédiés et conçus avec l’implication des différents acteurs régionaux et nationaux concernés ;\nUn accompagnement convergent et personnalisé de la part de tous les intervenants dans la fluidification des flux de la zone ;\nToutes les formalités de dédouanement et de déclaration à l’import et visites physiques se feront au sein du complexe Tanger Med ;\nFacilitation des paiements entre commerçants et importateurs dans la Zone en MAD comme en devises ;\nUn différé de paiement des droits et taxes de 30 jours à compter de la vente de la marchandise est accordé aux commerçants ;\nAutorisation permanente de transfert des produits de vente en dirhams vers le compte en devises ;\nDurée illimités de stockage à l’intérieur de la zone.\n\n07"
+                },
+                {
+                  "page": 8,
+                  "text": "Une plate-forme industrielle intégrée\n\nEn plus des 13 zones industrielles déjà opérationnelles dans la région Tanger–Tétouan–Al Hoceima sur une surface d’environ 2.000 Ha dont environ 1200 sous forme de zone d’accélération industrielle, et mise à part le projet de la cité Mohammed VI Tanger Tech qui s’étale sur une surface de 2100 ha et avec un budget d’environ 10 Milliards de Dirhams, 13 autres projets de nouvelles zones industrielles et d’activités économiques ont été lancées au niveau de la région pour une surface totale d’environ 630 Ha et pour un budget total estimatif de 2,5 Milliards MAD permettant la création à terme environ 80 000 emplois. A cela s’ajoute une réserve foncière d’environ 4000 Ha relevant de la grande plateforme industrielle de Tanger Med, à même de répondre aux besoins des investisseurs pour les 25 prochaines années.\n\nLa grande plate-forme industrielle Tanger-Med\nEUROPE\nStrait of Gibraltar\nPort Complex\nLogistics Free Zone — 150 ha Logistics\nTangier\nAtlantic Ocean\nTanger Free Zone — 400 ha Automotive, Aeronautics, Textile\nTanger Automotive City — 600 ha Automotive\nRenault Tanger Med — 300 ha Largest Car Plant in Africa\nTetouan Park — 150 ha Light industrial units, Light Processing\nTetouan Shore — 20 ha Services, Offshoring\nTETOUAN\nMediterranean Sea\n\nInfrastructures de classe mondiale\n\nLe complexe portuaire Tanger-Med est un projet intégré, aux dimensions multiples qu’elles soient économiques ou territoriales. Ancré aux flux mondiaux des échanges, la réussite de Tanger Med réside dans sa capacité à développer une plateforme portuaire performante et réellement intégrée autour des activités complémentaires de transbordement, d’import export, de logistique à valeur ajoutée, et de services maritimes et portuaires lui permettant de se positionner aux rangs de ses compétiteurs.\n\n08"
+                }
+              ],
+              "text": "La zone d’activités économiques de Fnideq\n\nLa création de la Zone d’Activités Economiques Commerciales de Fnideq, permet aux entreprises de développer leurs échanges commerciaux de gros et de détail grâce aux importants flux de marchandises générés par la montée en puissance du port Tanger Med.\n\nPremière en son genre au niveau national et située à une vingtaine de kilomètres du premier port de l’Afrique et de la Méditerranée, la ZAEF est dotée d’infrastructures et d’équipements répondant aux normes internationales. La première tranche de ce projet, d’une superficie de 10 ha, est constituée de 76 entrepôts en plus de toutes les commodités et installations communes nécessaires à son fonctionnement. Elle représente une offre moderne et adaptée aux activités de commerce et de négoce.\n\nA terme, la zone s’étalera sur une superficie totale de 95 ha destinée exclusivement aux activités de distribution et du commerce et présentant plusieurs avantages :\n\nUn mode de gestion adapté et aux meilleurs standards à l’image des zones d’accélération industrielles de la Région ;\nUn mode de fonctionnement et un système logistique dédiés et conçus avec l’implication des différents acteurs régionaux et nationaux concernés ;\nUn accompagnement convergent et personnalisé de la part de tous les intervenants dans la fluidification des flux de la zone ;\nToutes les formalités de dédouanement et de déclaration à l’import et visites physiques se feront au sein du complexe Tanger Med ;\nFacilitation des paiements entre commerçants et importateurs dans la Zone en MAD comme en devises ;\nUn différé de paiement des droits et taxes de 30 jours à compter de la vente de la marchandise est accordé aux commerçants ;\nAutorisation permanente de transfert des produits de vente en dirhams vers le compte en devises ;\nDurée illimités de stockage à l’intérieur de la zone.\n\n07\n\nUne plate-forme industrielle intégrée\n\nEn plus des 13 zones industrielles déjà opérationnelles dans la région Tanger–Tétouan–Al Hoceima sur une surface d’environ 2.000 Ha dont environ 1200 sous forme de zone d’accélération industrielle, et mise à part le projet de la cité Mohammed VI Tanger Tech qui s’étale sur une surface de 2100 ha et avec un budget d’environ 10 Milliards de Dirhams, 13 autres projets de nouvelles zones industrielles et d’activités économiques ont été lancées au niveau de la région pour une surface totale d’environ 630 Ha et pour un budget total estimatif de 2,5 Milliards MAD permettant la création à terme environ 80 000 emplois. A cela s’ajoute une réserve foncière d’environ 4000 Ha relevant de la grande plateforme industrielle de Tanger Med, à même de répondre aux besoins des investisseurs pour les 25 prochaines années.\n\nLa grande plate-forme industrielle Tanger-Med\nEUROPE\nStrait of Gibraltar\nPort Complex\nLogistics Free Zone — 150 ha Logistics\nTangier\nAtlantic Ocean\nTanger Free Zone — 400 ha Automotive, Aeronautics, Textile\nTanger Automotive City — 600 ha Automotive\nRenault Tanger Med — 300 ha Largest Car Plant in Africa\nTetouan Park — 150 ha Light industrial units, Light Processing\nTetouan Shore — 20 ha Services, Offshoring\nTETOUAN\nMediterranean Sea\n\nInfrastructures de classe mondiale\n\nLe complexe portuaire Tanger-Med est un projet intégré, aux dimensions multiples qu’elles soient économiques ou territoriales. Ancré aux flux mondiaux des échanges, la réussite de Tanger Med réside dans sa capacité à développer une plateforme portuaire performante et réellement intégrée autour des activités complémentaires de transbordement, d’import export, de logistique à valeur ajoutée, et de services maritimes et portuaires lui permettant de se positionner aux rangs de ses compétiteurs.\n\n08",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "brochure_secteur_logistique_subsection_005",
+          "title": "Le complexe portuaire Tanger Med s’étend sur I. Il englobe :",
+          "chunks": [
+            {
+              "chunk_id": "brochure_secteur_logistique_chunk_005",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "logistics_infrastructure",
+                "logistics_sector",
+                "regional_statistics",
+                "tanger_med"
+              ],
+              "heading_path": [
+                "Secteur de la logistique",
+                "Le complexe portuaire Tanger Med s’étend sur I. Il englobe :"
+              ],
+              "page_start": 9,
+              "page_end": 10,
+              "source_spans": [
+                {
+                  "page": 9,
+                  "text": "Le complexe portuaire Tanger Med s’étend sur I. Il englobe :\n\nLe Port Tanger Med 1\nComprend deux terminaux à conteneurs, un terminal ferroviaire, un terminal hydrocarbures, un terminal marchandises diverses, et un terminal véhicules.\n\nLe Port Tanger Med 2\nComprend deux terminaux à conteneurs.\n\nLe Port Tanger Med Passagers et Rouliers\nComprend les zones d’accès et d’inspection frontalières, les quais d’embarquements passagers et TIR, les zones de régulations, et la gare maritime.\n\nLa Zone Franche Logistique\nS’étend sur une superficie à terme de 200 ha, est destinée aux activités de logistique à valeur ajoutée.\n\nLe port Tanger-Med profite de sa position géographique unique sur le détroit de Gibraltar, lui garantissant un accès direct aux principales lignes maritimes Est-Ouest avec “zéro déviation” et le connectant chaque semaine vers plus de 180 ports et 70 pays dans les 5 continents à travers plusieurs armateurs.\n\nConjugué au point de distance minimale Afrique-Europe (14 km), le port devient un pont maritime entre les deux continents à travers plus de 20 départs chaque jour pour les camions TIR et passagers.\n\nTANGER MED II — 2019\n6 MILLIONS DE CONTENEURS\n2,8 KM DE QUAIS\n4,8 KM DE DIGUES\n160 HA DE TERRE-PLEIN\n2 POSTES PÉTROLIERS\n\nTANGER MED PASSAGERS ET ROULIERS — 2010\n7 MILLIONS DE PASSAGERS\n1 MILLION DE VÉHICULES\n8 POSTES À QUAIS\n35 HA DE TERRE-PLEIN\n30 HA D’ESPACES SUPPORTS\n\nTANGER MED I — 2007\n3 MILLIONS DE CONTENEURS\n1,6 KM DE QUAIS\n2,6 KM DE DIGUES\n140 HA DE TERRE-PLEIN\n2 POSTES PÉTROLIERS\nDESSERTE PAR VOIE FERRÉE\n\nEn outre, la mise en service de la ligne ferroviaire à haute vitesse entre Tanger et Casablanca a contribué à l’amélioration de l’accessibilité de la Région de Tanger–Tétouan–Al Hoceima en réduisant la durée du trajet à 2h10 min au lieu de 4h30.\n\n09"
+                },
+                {
+                  "page": 10,
+                  "text": "À cela s’ajoute un réseau routier et autoroutier reliant la région avec le reste du Royaume d’une longueur respective de 164 km soit 9% du réseau autoroutier national et 228 km de voies expresses. La région dispose aussi de trois aéroports internationaux :\n– Ibn Battouta à Tanger\n– Sania Rmel à Tétouan\n– Charif Idrissi à Al Hoceima\nd’une capacité d’accueil global de 1,8 millions de voyageurs.\n\nLégende cartographique :\nAutoroutes\nVoies express\nRocade méditerranéenne\nRoute nationale\nAéroport\nVoie ferrée\nLigne à Grande Vitesse (LGV)\nComplexe portuaire Tanger Med\nPort de passagers\nPort de pêche\n\nQuelques chiffres clés du secteur en 2021\n\n50,8% taux d’activité au niveau régional\n\n10,9% contribution au PIB National\n\n413 905 de flux logistiques, soit une progression de 28% par rapport à l’année 2020\n\n7,17 millions EVP ont été traités dans le complexe portuaire Tanger Med, en croissance de 24% par rapport à 2020\n\n429 509 véhicules neufs ont été manutentionnés sur les deux terminaux à véhicules du port Tanger Med en 2021, en croissance de 20% par rapport à l’année précédente dont 250 532 véhicules de Renault destinés à l’export\n\nUn trafic rouliers de 407 459 camions TIR traités au niveau du port Tanger Med en croissance de 14% par rapport à 2020\n\n10"
+                }
+              ],
+              "text": "Le complexe portuaire Tanger Med s’étend sur I. Il englobe :\n\nLe Port Tanger Med 1\nComprend deux terminaux à conteneurs, un terminal ferroviaire, un terminal hydrocarbures, un terminal marchandises diverses, et un terminal véhicules.\n\nLe Port Tanger Med 2\nComprend deux terminaux à conteneurs.\n\nLe Port Tanger Med Passagers et Rouliers\nComprend les zones d’accès et d’inspection frontalières, les quais d’embarquements passagers et TIR, les zones de régulations, et la gare maritime.\n\nLa Zone Franche Logistique\nS’étend sur une superficie à terme de 200 ha, est destinée aux activités de logistique à valeur ajoutée.\n\nLe port Tanger-Med profite de sa position géographique unique sur le détroit de Gibraltar, lui garantissant un accès direct aux principales lignes maritimes Est-Ouest avec “zéro déviation” et le connectant chaque semaine vers plus de 180 ports et 70 pays dans les 5 continents à travers plusieurs armateurs.\n\nConjugué au point de distance minimale Afrique-Europe (14 km), le port devient un pont maritime entre les deux continents à travers plus de 20 départs chaque jour pour les camions TIR et passagers.\n\nTANGER MED II — 2019\n6 MILLIONS DE CONTENEURS\n2,8 KM DE QUAIS\n4,8 KM DE DIGUES\n160 HA DE TERRE-PLEIN\n2 POSTES PÉTROLIERS\n\nTANGER MED PASSAGERS ET ROULIERS — 2010\n7 MILLIONS DE PASSAGERS\n1 MILLION DE VÉHICULES\n8 POSTES À QUAIS\n35 HA DE TERRE-PLEIN\n30 HA D’ESPACES SUPPORTS\n\nTANGER MED I — 2007\n3 MILLIONS DE CONTENEURS\n1,6 KM DE QUAIS\n2,6 KM DE DIGUES\n140 HA DE TERRE-PLEIN\n2 POSTES PÉTROLIERS\nDESSERTE PAR VOIE FERRÉE\n\nEn outre, la mise en service de la ligne ferroviaire à haute vitesse entre Tanger et Casablanca a contribué à l’amélioration de l’accessibilité de la Région de Tanger–Tétouan–Al Hoceima en réduisant la durée du trajet à 2h10 min au lieu de 4h30.\n\n09\n\nÀ cela s’ajoute un réseau routier et autoroutier reliant la région avec le reste du Royaume d’une longueur respective de 164 km soit 9% du réseau autoroutier national et 228 km de voies expresses. La région dispose aussi de trois aéroports internationaux :\n– Ibn Battouta à Tanger\n– Sania Rmel à Tétouan\n– Charif Idrissi à Al Hoceima\nd’une capacité d’accueil global de 1,8 millions de voyageurs.\n\nLégende cartographique :\nAutoroutes\nVoies express\nRocade méditerranéenne\nRoute nationale\nAéroport\nVoie ferrée\nLigne à Grande Vitesse (LGV)\nComplexe portuaire Tanger Med\nPort de passagers\nPort de pêche\n\nQuelques chiffres clés du secteur en 2021\n\n50,8% taux d’activité au niveau régional\n\n10,9% contribution au PIB National\n\n413 905 de flux logistiques, soit une progression de 28% par rapport à l’année 2020\n\n7,17 millions EVP ont été traités dans le complexe portuaire Tanger Med, en croissance de 24% par rapport à 2020\n\n429 509 véhicules neufs ont été manutentionnés sur les deux terminaux à véhicules du port Tanger Med en 2021, en croissance de 20% par rapport à l’année précédente dont 250 532 véhicules de Renault destinés à l’export\n\nUn trafic rouliers de 407 459 camions TIR traités au niveau du port Tanger Med en croissance de 14% par rapport à 2020\n\n10",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2007,
+                  2010,
+                  2019,
+                  2020,
+                  2021
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "subsection_id": "brochure_secteur_logistique_subsection_006",
+          "title": "Principaux opérateurs logistiques installés dans la région",
+          "chunks": [
+            {
+              "chunk_id": "brochure_secteur_logistique_chunk_006",
+              "content_type": "table",
+              "semantic_tags": [
+                "contact_information",
+                "logistics_operators",
+                "logistics_sector"
+              ],
+              "heading_path": [
+                "Secteur de la logistique",
+                "Principaux opérateurs logistiques installés dans la région"
+              ],
+              "page_start": 11,
+              "page_end": 12,
+              "source_spans": [
+                {
+                  "page": 11,
+                  "text": "Principaux opérateurs logistiques installés dans la région\n\nMAERSK\nAPM TERMINALS — Lifting Global Trade\nEUROGATE\nCMA CGM\nDACHSER — Intelligent Logistics\nGEFCO\nDB SCHENKER\nDHL\nWLC — Warehousing Logistic Company\nBOLLORÉ LOGISTICS\n3M — Science. Applied to Life.\nDECATHLON\nTE Connectivity\nKASAI\nCEVA LOGISTICS\n\n11"
+                },
+                {
+                  "page": 12,
+                  "text": "المركز الجهوي للاستثمار\nطنجة - تطوان - الحسيمة\nCENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TETOUAN - AL HOCEIMA\n\nRoyaume du Maroc\nMinistère de l’Intérieur\nWilaya de la Région\nTanger - Tétouan - Al Hoceima\n\nAvenue Omar Ibn Al Khatab, Tanger, Morocco\n+212 539 34 23 03\n+212 539 94 33 14\ninfo@investangier.com\nwww.investangier.com"
+                }
+              ],
+              "text": "Principaux opérateurs logistiques installés dans la région\n\nMAERSK\nAPM TERMINALS — Lifting Global Trade\nEUROGATE\nCMA CGM\nDACHSER — Intelligent Logistics\nGEFCO\nDB SCHENKER\nDHL\nWLC — Warehousing Logistic Company\nBOLLORÉ LOGISTICS\n3M — Science. Applied to Life.\nDECATHLON\nTE Connectivity\nKASAI\nCEVA LOGISTICS\n\n11\n\nالمركز الجهوي للاستثمار\nطنجة - تطوان - الحسيمة\nCENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TETOUAN - AL HOCEIMA\n\nRoyaume du Maroc\nMinistère de l’Intérieur\nWilaya de la Région\nTanger - Tétouan - Al Hoceima\n\nAvenue Omar Ibn Al Khatab, Tanger, Morocco\n+212 539 34 23 03\n+212 539 94 33 14\ninfo@investangier.com\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

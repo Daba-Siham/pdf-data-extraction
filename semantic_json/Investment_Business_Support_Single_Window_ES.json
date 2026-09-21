@@ -1,0 +1,618 @@
+{
+  "schema_version": "2.2",
+  "document_id": "investment_business_support_single_window_es",
+  "document_family_id": "investment_business_support_single_window",
+  "metadata": {
+    "title": "Apoyo a los inversores y las empresas",
+    "filename": "Investment_Business_Support_Single_Window_ES.json",
+    "language": "es",
+    "document_type": "single_window_services",
+    "publisher": "CRI Tanger-Tétouan-Al Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "publication_year": null,
+    "reference_period": {
+      "year": null,
+      "type": null,
+      "semester": null,
+      "quarter": null,
+      "label": null,
+      "start_date": null,
+      "end_date": null
+    },
+    "topics": [
+      "business_support",
+      "contact_information",
+      "digital_services",
+      "entrepreneurship_support",
+      "financing_support",
+      "investment_facilitation",
+      "investment_guide",
+      "investment_procedures",
+      "investment_support",
+      "investor_services",
+      "open_innovation",
+      "regional_attractiveness",
+      "single_window",
+      "territorial_intelligence",
+      "training_support"
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_001",
+      "title": "Centro Regional de Inversiones — presentación",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_001_sub_01",
+          "title": "Centro Regional de Inversiones — presentación",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0001",
+              "content_type": "narrative",
+              "semantic_tags": [
+                "business_support",
+                "investment_facilitation"
+              ],
+              "heading_path": [
+                "Centro Regional de Inversiones — presentación"
+              ],
+              "page_start": 1,
+              "page_end": 1,
+              "source_spans": [
+                {
+                  "page": 1,
+                  "text": "CENTRO REGIONAL DE INVERSIONES\nDE LA REGIÓN TÁNGER-TETUÁN-ALHUCEMAS\n\nINVERSIONES Y NEGOCIOS\nVENTANILLA ÚNICA DE ASESORAMIENTO\n\n¡Una vez aquí, está en todas partes!\n\nwww.investangier.com"
+                }
+              ],
+              "text": "CENTRO REGIONAL DE INVERSIONES\nDE LA REGIÓN TÁNGER-TETUÁN-ALHUCEMAS\n\nINVERSIONES Y NEGOCIOS\nVENTANILLA ÚNICA DE ASESORAMIENTO\n\n¡Una vez aquí, está en todas partes!\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_002",
+      "title": "El CRI al servicio de los inversores",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_002_sub_01",
+          "title": "El CRI al servicio de los inversores",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0002",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "investment_facilitation",
+                "investor_services"
+              ],
+              "heading_path": [
+                "El CRI al servicio de los inversores"
+              ],
+              "page_start": 3,
+              "page_end": 3,
+              "source_spans": [
+                {
+                  "page": 3,
+                  "text": "EL CRI DE LA REGIÓN TÁNGER-TETUÁN-ALHUCEMAS\nAL SERVICIO DE LOS INVERSORES\n\nDe acuerdo con las Altas Orientaciones Reales, la reforma de los Centros Regionales de Inversión (CRI), impulsada por la ley 47-18, entró en vigor en diciembre de 2019. Ha fijado las bases para una importante transformación estructural, organizativa y procedimental mediante, por un lado, la transformación de los CRI en entidades públicas con personalidad jurídica y autonomía financiera y, por otro lado, la implementación de un nuevo modelo de gestión que combina gobernanza participativa, apertura al ecosistema institucional y socioeconómico, y celeridad en el tratamiento de los expedientes y la toma de decisiones.\n\nVENTANILLA ÚNICA\n\nLa inteligencia de negocios\nPlanificación estratégica regional\nOferta territorial\nMarketing y promoción territorial\nApoyo al inversor\nExpedición de autorizaciones administrativas de forma 100% digital\nConciliación\n\nObjetivos de la reforma:\n• Simplificación del proceso del inversor a través de la agilización de los procedimientos y el control de los plazos mediante la CRUI.\n• Reforzamiento de la oferta de servicios de los CRI.\n• Mejora de la atractividad y la oferta territorial en términos de inversión y estímulo económico.\n• Armonización de prácticas, mejora de la calidad de los servicios ofrecidos y transformación digital de los CRI para una mayor satisfacción de los usuarios.\n\n03"
+                }
+              ],
+              "text": "EL CRI DE LA REGIÓN TÁNGER-TETUÁN-ALHUCEMAS\nAL SERVICIO DE LOS INVERSORES\n\nDe acuerdo con las Altas Orientaciones Reales, la reforma de los Centros Regionales de Inversión (CRI), impulsada por la ley 47-18, entró en vigor en diciembre de 2019. Ha fijado las bases para una importante transformación estructural, organizativa y procedimental mediante, por un lado, la transformación de los CRI en entidades públicas con personalidad jurídica y autonomía financiera y, por otro lado, la implementación de un nuevo modelo de gestión que combina gobernanza participativa, apertura al ecosistema institucional y socioeconómico, y celeridad en el tratamiento de los expedientes y la toma de decisiones.\n\nVENTANILLA ÚNICA\n\nLa inteligencia de negocios\nPlanificación estratégica regional\nOferta territorial\nMarketing y promoción territorial\nApoyo al inversor\nExpedición de autorizaciones administrativas de forma 100% digital\nConciliación\n\nObjetivos de la reforma:\n• Simplificación del proceso del inversor a través de la agilización de los procedimientos y el control de los plazos mediante la CRUI.\n• Reforzamiento de la oferta de servicios de los CRI.\n• Mejora de la atractividad y la oferta territorial en términos de inversión y estímulo económico.\n• Armonización de prácticas, mejora de la calidad de los servicios ofrecidos y transformación digital de los CRI para una mayor satisfacción de los usuarios.\n\n03",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2019
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_003",
+      "title": "Oferta de servicios del CRI",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_003_sub_01",
+          "title": "Oferta de servicios del CRI",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0003",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "investor_services"
+              ],
+              "heading_path": [
+                "Oferta de servicios del CRI"
+              ],
+              "page_start": 4,
+              "page_end": 4,
+              "source_spans": [
+                {
+                  "page": 4,
+                  "text": "NUESTRA OFERTA DE SERVICIOS\n\nEl CRI TTA también interviene ahora en la intermediación y conciliación para la resolución amistosa de disputas entre inversores y administraciones. Además, contribuye a la elaboración y despliegue de estrategias de promoción de la inversión regional y de espacios integrados de desarrollo territorial, así como a la implementación de la política estatal de desarrollo, incentivo, promoción y atracción de inversiones a nivel regional.\n\nEl CRI ofrece una amplia gama de servicios tanto para impulsar la economía y la atractividad territorial, como para beneficiar a los promotores de proyectos y mejorar la competitividad de las empresas a lo largo de su ciclo de vida.\n\nOferta: Ciclo de vida de la empresa\n\nINICIO\n\nFacilitador:\n• Creación de empresas\n• Autorizaciones administrativas\n• Proporcionar soluciones de terrenos adecuados\n\nAcompañante:\n• Acceso a financiamiento\n• Acceso a RRHH\n• Acceso a formaciones\n\nConsejero Experto:\n• Sensibilización\n• Orientación\n\nCRECIMIENTO / MADUREZ\n\nFacilitador:\n• Ayuda para la sostenibilidad\n• Seguimiento posterior a la creación\n• Incentivos\n• Seguimiento de la ejecución de acuerdos\n\nAcompañante:\n• Conexiones y networking\n• Seguimiento de la realización y desarrollo del proyecto\n\nConsejero Experto:\n• Consejo\n• Conciliación\n\nAsesoramiento y acompañamiento\n\nOrientación y apoyo personalizado y comunitario a los emprendedores e inversores, asistencia en el proceso de creación de su empresa, identificación de sus necesidades y propuesta de soluciones adecuadas que le permitan implementar su proyecto de manera rápida y viable.\n\nEn este sentido, el Centro Regional de Inversión de la región de Tánger - Tetuán - Alhucemas amplía su oferta de servicios para inversores y promotores de proyectos a través del lanzamiento de la primera plataforma digital comunitaria de acompañamiento, llamada “Manar Al Moustatmir”.\n\n04"
+                }
+              ],
+              "text": "NUESTRA OFERTA DE SERVICIOS\n\nEl CRI TTA también interviene ahora en la intermediación y conciliación para la resolución amistosa de disputas entre inversores y administraciones. Además, contribuye a la elaboración y despliegue de estrategias de promoción de la inversión regional y de espacios integrados de desarrollo territorial, así como a la implementación de la política estatal de desarrollo, incentivo, promoción y atracción de inversiones a nivel regional.\n\nEl CRI ofrece una amplia gama de servicios tanto para impulsar la economía y la atractividad territorial, como para beneficiar a los promotores de proyectos y mejorar la competitividad de las empresas a lo largo de su ciclo de vida.\n\nOferta: Ciclo de vida de la empresa\n\nINICIO\n\nFacilitador:\n• Creación de empresas\n• Autorizaciones administrativas\n• Proporcionar soluciones de terrenos adecuados\n\nAcompañante:\n• Acceso a financiamiento\n• Acceso a RRHH\n• Acceso a formaciones\n\nConsejero Experto:\n• Sensibilización\n• Orientación\n\nCRECIMIENTO / MADUREZ\n\nFacilitador:\n• Ayuda para la sostenibilidad\n• Seguimiento posterior a la creación\n• Incentivos\n• Seguimiento de la ejecución de acuerdos\n\nAcompañante:\n• Conexiones y networking\n• Seguimiento de la realización y desarrollo del proyecto\n\nConsejero Experto:\n• Consejo\n• Conciliación\n\nAsesoramiento y acompañamiento\n\nOrientación y apoyo personalizado y comunitario a los emprendedores e inversores, asistencia en el proceso de creación de su empresa, identificación de sus necesidades y propuesta de soluciones adecuadas que le permitan implementar su proyecto de manera rápida y viable.\n\nEn este sentido, el Centro Regional de Inversión de la región de Tánger - Tetuán - Alhucemas amplía su oferta de servicios para inversores y promotores de proyectos a través del lanzamiento de la primera plataforma digital comunitaria de acompañamiento, llamada “Manar Al Moustatmir”.\n\n04",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_004",
+      "title": "Manar Al Moustatmir — solicitudes digitales",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_004_sub_01",
+          "title": "Manar Al Moustatmir — solicitudes digitales",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0004",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "digital_services",
+                "investment_support"
+              ],
+              "heading_path": [
+                "Manar Al Moustatmir — solicitudes digitales"
+              ],
+              "page_start": 5,
+              "page_end": 5,
+              "source_spans": [
+                {
+                  "page": 5,
+                  "text": "Manar Al Moustatmir permite a los inversores y promotores de proyectos que necesiten asesoramiento específico presentar, dar seguimiento y gestionar su solicitud de manera digital.\n\nLa plataforma también permite orientar a los usuarios hacia rutas estándar u otras personalizadas, según sus necesidades, después de una clasificación realizada por el ecosistema de inversión en base a un cuestionario de identificación y perfil completado en la plataforma durante su registro. De esta manera, los inversores y promotores de proyectos pueden ponerse en contacto directamente con la entidad acompañante correspondiente, seguir el progreso de su proceso y evaluar el servicio proporcionado por cada socio.\n\nEn este sentido, Manar Al Moustatmir fortalece la sinergia y la complementariedad de los esfuerzos realizados por diversas entidades de acompañamiento y financiamiento, tanto públicas como privadas y de la sociedad civil, en el marco de un único punto de contacto virtual para el acompañamiento de promotores de proyectos e inversores.\n\nEmisión de documentos y autorizaciones para su inversión\n\nNos encargamos de manera integral y de principio a fin de los trámites relacionados con los procedimientos de inversión de la manera más eficiente y optimizada posible, a través de nuestros puntos de contacto únicos, con una toma de decisiones en un plazo máximo de 30 días a partir de la fecha de presentación del expediente completo en la plataforma digital www.cri-invest.ma.\n\nSeguimiento y apoyo para la sostenibilidad\n\nBrindamos un seguimiento y asistencia personalizada durante la implementación y desarrollo de sus proyectos, con un apoyo comunitario para superar cualquier obstáculo y enfrentar sus desafíos, y garantizar la sostenibilidad de su negocio, asegurando una mayor presencia en el mercado a través de la creación de redes con el ecosistema de inversión.\n\nCreación de empresas\n\nNos encargamos de todo el proceso administrativo relacionado con la creación de su empresa, ofreciendo asesoramiento legal y técnico.\n\n05"
+                }
+              ],
+              "text": "Manar Al Moustatmir permite a los inversores y promotores de proyectos que necesiten asesoramiento específico presentar, dar seguimiento y gestionar su solicitud de manera digital.\n\nLa plataforma también permite orientar a los usuarios hacia rutas estándar u otras personalizadas, según sus necesidades, después de una clasificación realizada por el ecosistema de inversión en base a un cuestionario de identificación y perfil completado en la plataforma durante su registro. De esta manera, los inversores y promotores de proyectos pueden ponerse en contacto directamente con la entidad acompañante correspondiente, seguir el progreso de su proceso y evaluar el servicio proporcionado por cada socio.\n\nEn este sentido, Manar Al Moustatmir fortalece la sinergia y la complementariedad de los esfuerzos realizados por diversas entidades de acompañamiento y financiamiento, tanto públicas como privadas y de la sociedad civil, en el marco de un único punto de contacto virtual para el acompañamiento de promotores de proyectos e inversores.\n\nEmisión de documentos y autorizaciones para su inversión\n\nNos encargamos de manera integral y de principio a fin de los trámites relacionados con los procedimientos de inversión de la manera más eficiente y optimizada posible, a través de nuestros puntos de contacto únicos, con una toma de decisiones en un plazo máximo de 30 días a partir de la fecha de presentación del expediente completo en la plataforma digital www.cri-invest.ma.\n\nSeguimiento y apoyo para la sostenibilidad\n\nBrindamos un seguimiento y asistencia personalizada durante la implementación y desarrollo de sus proyectos, con un apoyo comunitario para superar cualquier obstáculo y enfrentar sus desafíos, y garantizar la sostenibilidad de su negocio, asegurando una mayor presencia en el mercado a través de la creación de redes con el ecosistema de inversión.\n\nCreación de empresas\n\nNos encargamos de todo el proceso administrativo relacionado con la creación de su empresa, ofreciendo asesoramiento legal y técnico.\n\n05",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_005",
+      "title": "Incentivos y soluciones de financiación",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_005_sub_01",
+          "title": "Incentivos y soluciones de financiación",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0005",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "financing_support",
+                "investment_support"
+              ],
+              "heading_path": [
+                "Incentivos y soluciones de financiación"
+              ],
+              "page_start": 6,
+              "page_end": 6,
+              "source_spans": [
+                {
+                  "page": 6,
+                  "text": "Incentivos\n\nPonemos a su disposición todas las ofertas de incentivos, así como soluciones de financiamiento y ayuda financiera ofrecidas por nuestros socios públicos y privados a nivel nacional y regional, en un enfoque de convergencia de programas de apoyo implementados por el Estado.\n\nSoluciones para terrenos\n\nProporcionamos soluciones para terrenos adecuadas para la realización de sus proyectos de inversión.\n\nPANORAMA DES ZONES ÉCONOMIQUES & INDUSTRIELLES\nRÉGION TANGER-TETOUAN-AL HOCEIMA\n\nConciliación\n\nOfrecemos propuestas de soluciones negociadas y adaptadas para lograr una resolución amistosa de los conflictos entre los inversores y las administraciones y organismos públicos durante la realización o explotación de los proyectos de inversión.\n\nEn este sentido, el CRI TTA pone a su disposición una plataforma electrónica “e-requête” para presentar y dar seguimiento en línea a sus reclamaciones, las cuales son tratadas en un plazo máximo de 72 horas.\n\nUna inteligencia económica y territorial al servicio de la inversión\n\nPonemos a su disposición la información necesaria sobre el territorio (tejido económico, fiscal, legal, clima de negocios, costos de factores de producción, oportunidades de inversión, etc.) que es útil durante todo el desarrollo de su proyecto.\n\nEscanear el código para acceder a la página\n\nwww.investangier.com\n06"
+                }
+              ],
+              "text": "Incentivos\n\nPonemos a su disposición todas las ofertas de incentivos, así como soluciones de financiamiento y ayuda financiera ofrecidas por nuestros socios públicos y privados a nivel nacional y regional, en un enfoque de convergencia de programas de apoyo implementados por el Estado.\n\nSoluciones para terrenos\n\nProporcionamos soluciones para terrenos adecuadas para la realización de sus proyectos de inversión.\n\nPANORAMA DES ZONES ÉCONOMIQUES & INDUSTRIELLES\nRÉGION TANGER-TETOUAN-AL HOCEIMA\n\nConciliación\n\nOfrecemos propuestas de soluciones negociadas y adaptadas para lograr una resolución amistosa de los conflictos entre los inversores y las administraciones y organismos públicos durante la realización o explotación de los proyectos de inversión.\n\nEn este sentido, el CRI TTA pone a su disposición una plataforma electrónica “e-requête” para presentar y dar seguimiento en línea a sus reclamaciones, las cuales son tratadas en un plazo máximo de 72 horas.\n\nUna inteligencia económica y territorial al servicio de la inversión\n\nPonemos a su disposición la información necesaria sobre el territorio (tejido económico, fiscal, legal, clima de negocios, costos de factores de producción, oportunidades de inversión, etc.) que es útil durante todo el desarrollo de su proyecto.\n\nEscanear el código para acceder a la página\n\nwww.investangier.com\n06",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_006",
+      "title": "Planificación estratégica territorial",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_006_sub_01",
+          "title": "Planificación estratégica territorial",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0006",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "regional_attractiveness",
+                "territorial_intelligence"
+              ],
+              "heading_path": [
+                "Planificación estratégica territorial"
+              ],
+              "page_start": 7,
+              "page_end": 7,
+              "source_spans": [
+                {
+                  "page": 7,
+                  "text": "Contribución a la planificación estratégica territorial\n\nPonemos nuestra experiencia al servicio de los actores locales para fortalecer y desarrollar la atractividad regional.\n\nDesarrollo y promoción de la oferta territorial\n\nDesarrollamos el potencial de la región y su oferta para una mayor visibilidad en diversos canales y una mayor atracción para nuestro público objetivo.\n\nPromoción de la inversión, el emprendimiento y el fomento de la innovación\n\nEl CRI TTA ha lanzado el primer concurso internacional de innovación y open innovation “SMART TERRITORY, INVESTMENT & ENTREPRENEURSHIP DIGITAL CHALLENGE” en colaboración con la Agencia para la Promoción y Desarrollo del Norte (APDN) y la Fundación Tanger-Med.\n\nEsta primera edición se basa en 9 desafíos derivados de las especificidades regionales de manera inclusiva, organizados en tres grandes temáticas: inteligencia y transformación digital, atractividad territorial y economía sostenible, con el objetivo de valorizar y promover el potencial económico de la región a nivel mundial en diversos sectores prometedores.\n\nEsta iniciativa, la primera de su tipo en Marruecos, está dirigida a ganadores y estudiantes de grandes escuelas, startups, inversores y promotores de proyectos innovadores nacionales e internacionales. Durante los 3 meses del concurso, los participantes recibirán un acompañamiento personalizado de parte de mentores seleccionados por los organizadores, a través de reuniones, encuentros empresariales y varios seminarios de co-creación en tres idiomas (árabe, francés e inglés), tanto presenciales como en línea, con expertos en los diferentes campos de los desafíos.\n\nTambién se llevó a cabo una caravana que recorrió todas las ciudades de la región para identificar las potencialidades y desafíos de cada territorio e involucrar al mayor número posible de promotores de proyectos.\n\nLa participación en este concurso se realizará completamente de forma digital a través de una plataforma dedicada diseñada específicamente para este propósito, que permitirá canalizar los esfuerzos de acompañamiento proporcionados por el ecosistema de inversión.\n\n07"
+                }
+              ],
+              "text": "Contribución a la planificación estratégica territorial\n\nPonemos nuestra experiencia al servicio de los actores locales para fortalecer y desarrollar la atractividad regional.\n\nDesarrollo y promoción de la oferta territorial\n\nDesarrollamos el potencial de la región y su oferta para una mayor visibilidad en diversos canales y una mayor atracción para nuestro público objetivo.\n\nPromoción de la inversión, el emprendimiento y el fomento de la innovación\n\nEl CRI TTA ha lanzado el primer concurso internacional de innovación y open innovation “SMART TERRITORY, INVESTMENT & ENTREPRENEURSHIP DIGITAL CHALLENGE” en colaboración con la Agencia para la Promoción y Desarrollo del Norte (APDN) y la Fundación Tanger-Med.\n\nEsta primera edición se basa en 9 desafíos derivados de las especificidades regionales de manera inclusiva, organizados en tres grandes temáticas: inteligencia y transformación digital, atractividad territorial y economía sostenible, con el objetivo de valorizar y promover el potencial económico de la región a nivel mundial en diversos sectores prometedores.\n\nEsta iniciativa, la primera de su tipo en Marruecos, está dirigida a ganadores y estudiantes de grandes escuelas, startups, inversores y promotores de proyectos innovadores nacionales e internacionales. Durante los 3 meses del concurso, los participantes recibirán un acompañamiento personalizado de parte de mentores seleccionados por los organizadores, a través de reuniones, encuentros empresariales y varios seminarios de co-creación en tres idiomas (árabe, francés e inglés), tanto presenciales como en línea, con expertos en los diferentes campos de los desafíos.\n\nTambién se llevó a cabo una caravana que recorrió todas las ciudades de la región para identificar las potencialidades y desafíos de cada territorio e involucrar al mayor número posible de promotores de proyectos.\n\nLa participación en este concurso se realizará completamente de forma digital a través de una plataforma dedicada diseñada específicamente para este propósito, que permitirá canalizar los esfuerzos de acompañamiento proporcionados por el ecosistema de inversión.\n\n07",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_007",
+      "title": "Innovación y emprendimiento",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_007_sub_01",
+          "title": "Innovación y emprendimiento",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0007",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "entrepreneurship_support",
+                "open_innovation"
+              ],
+              "heading_path": [
+                "Innovación y emprendimiento"
+              ],
+              "page_start": 8,
+              "page_end": 8,
+              "source_spans": [
+                {
+                  "page": 8,
+                  "text": "Esta iniciativa, primera de su tipo a nivel nacional, tiene como objetivos:\n\n• Promover el espíritu de innovación y emprendimiento en la región.\n• Contribuir al impulso económico y al fortalecimiento de la oferta territorial regional.\n• Brindar apoyo personalizado y comunitario a todos los portadores de proyectos involucrados.\n\nLa primera edición de este concurso internacional en 2022 registró la inscripción de 1 162 candidatos y 232 proyectos provenientes de los territorios de la región TTA, otras regiones de Marruecos y una veintena de países de los cinco continentes.\n\nDespués de las primeras fases de preselección, 20 proyectos finalistas presentaron su propuesta el mismo día ante un gran jurado compuesto por personalidades destacadas y actores del ecosistema de inversión regional y nacional.\n\n1 162 inscripciones\n232 proyectos\n+20 nacionalidades\n\nEntre los finalistas:\n• 10 proyectos abordaron los desafíos de la primera temática, Atractividad Territorial.\n• 4 proyectos se enfocaron en los desafíos de la segunda temática, Economía Sostenible.\n• 6 proyectos finalistas intentaron encontrar soluciones a los desafíos de la última temática, Inteligencia y Transformación Digital.\n\n08"
+                }
+              ],
+              "text": "Esta iniciativa, primera de su tipo a nivel nacional, tiene como objetivos:\n\n• Promover el espíritu de innovación y emprendimiento en la región.\n• Contribuir al impulso económico y al fortalecimiento de la oferta territorial regional.\n• Brindar apoyo personalizado y comunitario a todos los portadores de proyectos involucrados.\n\nLa primera edición de este concurso internacional en 2022 registró la inscripción de 1 162 candidatos y 232 proyectos provenientes de los territorios de la región TTA, otras regiones de Marruecos y una veintena de países de los cinco continentes.\n\nDespués de las primeras fases de preselección, 20 proyectos finalistas presentaron su propuesta el mismo día ante un gran jurado compuesto por personalidades destacadas y actores del ecosistema de inversión regional y nacional.\n\n1 162 inscripciones\n232 proyectos\n+20 nacionalidades\n\nEntre los finalistas:\n• 10 proyectos abordaron los desafíos de la primera temática, Atractividad Territorial.\n• 4 proyectos se enfocaron en los desafíos de la segunda temática, Economía Sostenible.\n• 6 proyectos finalistas intentaron encontrar soluciones a los desafíos de la última temática, Inteligencia y Transformación Digital.\n\n08",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2022
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_008",
+      "title": "Actos y procedimientos de inversión",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_008_sub_01",
+          "title": "Actos y procedimientos de inversión",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0008",
+              "content_type": "procedure",
+              "semantic_tags": [
+                "business_support",
+                "investment_facilitation",
+                "investment_procedures"
+              ],
+              "heading_path": [
+                "Actos y procedimientos de inversión"
+              ],
+              "page_start": 9,
+              "page_end": 9,
+              "source_spans": [
+                {
+                  "page": 9,
+                  "text": "ACTOS Y PROCEDIMIENTOS DE INVERSIÓN POR CATEGORÍA\n\nAceptabilidad de los proyectos\n\nEstudio de impacto medioambiental\n\nBienes y terrenos:\n• Autorización de cesión de terreno.\n• Autorización de alquiler de terreno.\n• AVNA (Attestation de Vocation Non Agricole) provisional y definitiva.\n• Autorización de ocupación temporal.\n• Autorización de ocupación temporal del dominio forestal y fijación de la tasa.\n• Asignación de lotes en zonas dedicadas a la actividad económica.\n\nIncentivos:\n• Convenios de inversión con el Estado.\n• Adenda al convenio de inversión. Gobierno.\n\nAutorizaciones urbanísticas:\n• Autorización para parcelar terrenos dentro de un perímetro de riego.\n• Inversión en zonas costeras no desarrolladas.\n• Autorización para crear grupos de viviendas.\n• Permiso de construcción.\n• Autorización para subdividir terrenos.\n\nExplotación:\n• Autorización de instalación o ejercicio de una actividad industrial, comercial o de servicios en una zona de aceleración industrial de exportación.\n• Clasificación técnica provisional de un establecimiento turístico.\n• Clasificación de explotación de un establecimiento turístico.\n\n09"
+                }
+              ],
+              "text": "ACTOS Y PROCEDIMIENTOS DE INVERSIÓN POR CATEGORÍA\n\nAceptabilidad de los proyectos\n\nEstudio de impacto medioambiental\n\nBienes y terrenos:\n• Autorización de cesión de terreno.\n• Autorización de alquiler de terreno.\n• AVNA (Attestation de Vocation Non Agricole) provisional y definitiva.\n• Autorización de ocupación temporal.\n• Autorización de ocupación temporal del dominio forestal y fijación de la tasa.\n• Asignación de lotes en zonas dedicadas a la actividad económica.\n\nIncentivos:\n• Convenios de inversión con el Estado.\n• Adenda al convenio de inversión. Gobierno.\n\nAutorizaciones urbanísticas:\n• Autorización para parcelar terrenos dentro de un perímetro de riego.\n• Inversión en zonas costeras no desarrolladas.\n• Autorización para crear grupos de viviendas.\n• Permiso de construcción.\n• Autorización para subdividir terrenos.\n\nExplotación:\n• Autorización de instalación o ejercicio de una actividad industrial, comercial o de servicios en una zona de aceleración industrial de exportación.\n• Clasificación técnica provisional de un establecimiento turístico.\n• Clasificación de explotación de un establecimiento turístico.\n\n09",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_009",
+      "title": "Investangier Academy",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_009_sub_01",
+          "title": "Investangier Academy",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0009",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "training_support"
+              ],
+              "heading_path": [
+                "Investangier Academy"
+              ],
+              "page_start": 10,
+              "page_end": 10,
+              "source_spans": [
+                {
+                  "page": 10,
+                  "text": "INVESTANGIER ACADEMY\n\nInvestangier Academy es un programa de formación comunitaria dedicado a todas las personas que deseen familiarizarse con los conceptos básicos necesarios para iniciar un proyecto empresarial.\n\nActualmente, este programa se está dando en 5 provincias de la región en forma de una serie de sesiones informativas, con una sesión por semana, que trata de diferentes temas como educación financiera, acceso a fuentes de financiamiento, procesos de creación y gestión de una empresa, entre otros.\n\nEstas formaciones son impartidas conjuntamente por colaboradores del CRI y otros socios, como bancos, administraciones y gabinetes.\n\nLas formaciones son gratuitas y generalmente son grupos de 15 a 25 participantes.\n\n10"
+                }
+              ],
+              "text": "INVESTANGIER ACADEMY\n\nInvestangier Academy es un programa de formación comunitaria dedicado a todas las personas que deseen familiarizarse con los conceptos básicos necesarios para iniciar un proyecto empresarial.\n\nActualmente, este programa se está dando en 5 provincias de la región en forma de una serie de sesiones informativas, con una sesión por semana, que trata de diferentes temas como educación financiera, acceso a fuentes de financiamiento, procesos de creación y gestión de una empresa, entre otros.\n\nEstas formaciones son impartidas conjuntamente por colaboradores del CRI y otros socios, como bancos, administraciones y gabinetes.\n\nLas formaciones son gratuitas y generalmente son grupos de 15 a 25 participantes.\n\n10",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_010",
+      "title": "Ventanilla única virtual Manar Al Moustatmir",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_010_sub_01",
+          "title": "Ventanilla única virtual Manar Al Moustatmir",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0010",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "digital_services",
+                "investment_support",
+                "single_window"
+              ],
+              "heading_path": [
+                "Ventanilla única virtual Manar Al Moustatmir"
+              ],
+              "page_start": 11,
+              "page_end": 11,
+              "source_spans": [
+                {
+                  "page": 11,
+                  "text": "MANAR AL MOUSTATMIR\n\nPrimera ventanilla única comunitaria virtual de asesoramiento a los inversores\n\n• Estructura la acción colectiva, optimiza el proceso de asesoramiento y mejora la experiencia del inversor en la región.\n• Agrupa todos los servicios de acompañamiento ofrecidos por el ecosistema del CRI a inversores y emprendedores.\n• Permite una calificación previa de las necesidades de acompañamiento y una perfilación de los inscritos.\n• Proporciona programas de acompañamiento estándar y personalizados adaptados a las necesidades expresadas por los inversores.\n• Más de 100 socios de acompañamiento que ofrecen una amplia gama de servicios de acompañamiento hasta la fecha de hoy.\n• Permite el seguimiento en tiempo real del progreso del programa y su adaptación.\n• Ofrece al beneficiario la posibilidad de evaluar el servicio de acompañamiento recibido.\n\n11"
+                }
+              ],
+              "text": "MANAR AL MOUSTATMIR\n\nPrimera ventanilla única comunitaria virtual de asesoramiento a los inversores\n\n• Estructura la acción colectiva, optimiza el proceso de asesoramiento y mejora la experiencia del inversor en la región.\n• Agrupa todos los servicios de acompañamiento ofrecidos por el ecosistema del CRI a inversores y emprendedores.\n• Permite una calificación previa de las necesidades de acompañamiento y una perfilación de los inscritos.\n• Proporciona programas de acompañamiento estándar y personalizados adaptados a las necesidades expresadas por los inversores.\n• Más de 100 socios de acompañamiento que ofrecen una amplia gama de servicios de acompañamiento hasta la fecha de hoy.\n• Permite el seguimiento en tiempo real del progreso del programa y su adaptación.\n• Ofrece al beneficiario la posibilidad de evaluar el servicio de acompañamiento recibido.\n\n11",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_011",
+      "title": "Guía de la oferta territorial",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_011_sub_01",
+          "title": "Guía de la oferta territorial",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0011",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "investment_guide"
+              ],
+              "heading_path": [
+                "Guía de la oferta territorial"
+              ],
+              "page_start": 12,
+              "page_end": 12,
+              "source_spans": [
+                {
+                  "page": 12,
+                  "text": "GUÍA DE LA OFERTA TERRITORIAL DE LAS OPORTUNIDADES DE INVERSIÓN Y ASESORAMIENTO\n\nEl Centro Regional de Inversiones de la región Tánger-Tetuán-Alhucemas lanzó una nueva guía sobre “La oferta territorial de las oportunidades de inversión y asesoramiento”. Un entregable, fruto de varios meses de trabajo, convergencia, ideación e inteligencia colectiva entre los diferentes actores económicos de la región.\n\nLa guía incluye también un banco de proyectos listo para utilizar, en diversos sectores y territorios, contiene 50 oportunidades de inversión en toda la región, y traza un mapa de los actores de acompañamiento que intervienen en toda la cadena de valor empresarial, con el objetivo de orientar a los inversores hacia nuevas áreas de inversión y facilitarles el acceso, a través de un enfoque optimizado y personalizado en nuestro portal de acompañamiento digital Manar Al Moustatmir, y toda la información relacionada con las ofertas de asesoramiento propuestas por los organismos especializados en la materia, cada uno según su ámbito de intervención.\n\nCon esta nueva guía, sencilla y práctica, los inversores y los emprendedores de proyectos encontrarán su camino hacia el mundo del emprendimiento y la inversión, y descubrirán todas las herramientas necesarias para el éxito de sus proyectos.\n\nEscanear para descargar\n\n12"
+                }
+              ],
+              "text": "GUÍA DE LA OFERTA TERRITORIAL DE LAS OPORTUNIDADES DE INVERSIÓN Y ASESORAMIENTO\n\nEl Centro Regional de Inversiones de la región Tánger-Tetuán-Alhucemas lanzó una nueva guía sobre “La oferta territorial de las oportunidades de inversión y asesoramiento”. Un entregable, fruto de varios meses de trabajo, convergencia, ideación e inteligencia colectiva entre los diferentes actores económicos de la región.\n\nLa guía incluye también un banco de proyectos listo para utilizar, en diversos sectores y territorios, contiene 50 oportunidades de inversión en toda la región, y traza un mapa de los actores de acompañamiento que intervienen en toda la cadena de valor empresarial, con el objetivo de orientar a los inversores hacia nuevas áreas de inversión y facilitarles el acceso, a través de un enfoque optimizado y personalizado en nuestro portal de acompañamiento digital Manar Al Moustatmir, y toda la información relacionada con las ofertas de asesoramiento propuestas por los organismos especializados en la materia, cada uno según su ámbito de intervención.\n\nCon esta nueva guía, sencilla y práctica, los inversores y los emprendedores de proyectos encontrarán su camino hacia el mundo del emprendimiento y la inversión, y descubrirán todas las herramientas necesarias para el éxito de sus proyectos.\n\nEscanear para descargar\n\n12",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "investment_business_support_single_window_es_phase3f_sec_012",
+      "title": "Contacto del CRI",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "investment_business_support_single_window_es_phase3f_sec_012_sub_01",
+          "title": "Contacto del CRI",
+          "chunks": [
+            {
+              "chunk_id": "investment_business_support_single_window_es_phase3f_0012",
+              "content_type": "contact_information",
+              "semantic_tags": [
+                "business_support",
+                "contact_information"
+              ],
+              "heading_path": [
+                "Contacto del CRI"
+              ],
+              "page_start": 13,
+              "page_end": 13,
+              "source_spans": [
+                {
+                  "page": 13,
+                  "text": "¡Una vez aquí, está en todas partes!\n\nAvenida Omar Ibn El Khattab\n(Cerca de la sede de la Wilaya de Tanger - Tetuan - Alhucemas)\n\nsupport@investangier.com\n\nTel:\n+(212) 0539 94 68 24\n+(212) 0539 34 23 03\n\nFax:\n+(212) 0539 94 33 14\n\nwww.investangier.com\nwww.cri-invest.ma\nwww.manaralmoustatmir.ma"
+                }
+              ],
+              "text": "¡Una vez aquí, está en todas partes!\n\nAvenida Omar Ibn El Khattab\n(Cerca de la sede de la Wilaya de Tanger - Tetuan - Alhucemas)\n\nsupport@investangier.com\n\nTel:\n+(212) 0539 94 68 24\n+(212) 0539 34 23 03\n\nFax:\n+(212) 0539 94 33 14\n\nwww.investangier.com\nwww.cri-invest.ma\nwww.manaralmoustatmir.ma",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

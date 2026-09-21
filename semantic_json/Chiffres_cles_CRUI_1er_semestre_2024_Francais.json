@@ -1,0 +1,367 @@
+{
+  "schema_version": "2.2",
+  "document_id": "chiffres_cles_crui_1er_semestre_2024_francais",
+  "document_family_id": "crui_key_figures_2024_h1",
+  "metadata": {
+    "title": "Chiffres clés et statistiques",
+    "filename": "Chiffres_cles_CRUI_1er_semestre_2024_Francais.json",
+    "language": "fr",
+    "document_type": "key_figures",
+    "publisher": "CRI Tanger-Tétouan-Al Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "publication_year": null,
+    "reference_period": {
+      "year": 2024,
+      "type": "semester",
+      "semester": 1,
+      "quarter": null,
+      "label": "1er semestre 2024",
+      "start_date": null,
+      "end_date": null
+    },
+    "topics": [
+      "approved_projects",
+      "closing_message",
+      "crui_activity",
+      "industrial_investment",
+      "investment_amount",
+      "projected_jobs",
+      "projects_reviewed",
+      "sector_distribution"
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_francais_section_01",
+      "title": "Une fois vous êtes ici, vous êtes partout !",
+      "topic_id": "crui_activity",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_francais_subsection_01",
+          "title": "Une fois vous êtes ici, vous êtes partout !",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_francais_chunk_001",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "crui_activity"
+              ],
+              "heading_path": [
+                "Une fois vous êtes ici, vous êtes partout !"
+              ],
+              "page_start": 1,
+              "page_end": 1,
+              "source_spans": [
+                {
+                  "page": 1,
+                  "text": "Une fois vous êtes ici, vous êtes partout !\n\nCHIFFRES CLÉS DE LA CRUI\n1ER SEMESTRE 2024\n\nCENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TÉTOUAN - AL HOCEIMA\n\nwww.investangier.com"
+                }
+              ],
+              "text": "Une fois vous êtes ici, vous êtes partout !\n\nCHIFFRES CLÉS DE LA CRUI\n1ER SEMESTRE 2024\n\nCENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TÉTOUAN - AL HOCEIMA\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [
+                  2024
+                ],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_francais_section_02",
+      "title": "Une fois vous êtes ici, vous êtes partout !",
+      "topic_id": "projects_reviewed",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_francais_subsection_02",
+          "title": "Une fois vous êtes ici, vous êtes partout !",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_francais_chunk_002",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "projects_reviewed"
+              ],
+              "heading_path": [
+                "Une fois vous êtes ici, vous êtes partout !"
+              ],
+              "page_start": 2,
+              "page_end": 2,
+              "source_spans": [
+                {
+                  "page": 2,
+                  "text": "Une fois vous êtes ici, vous êtes partout !\n\n433\nNombre de projets instruits par la CRUI avec avis définitif\n\n379\nProjets approuvés soit 87,5% des projets statués en CRUI\n\n40,76 Milliards MAD d’investissement soit +72% par rapport au 1er semestre 2023\n\n45 630\nEmplois attendus à terme\n\nwww.investangier.com"
+                }
+              ],
+              "text": "Une fois vous êtes ici, vous êtes partout !\n\n433\nNombre de projets instruits par la CRUI avec avis définitif\n\n379\nProjets approuvés soit 87,5% des projets statués en CRUI\n\n40,76 Milliards MAD d’investissement soit +72% par rapport au 1er semestre 2023\n\n45 630\nEmplois attendus à terme\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [
+                  2023
+                ],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_francais_section_03",
+      "title": "Une fois vous êtes ici, vous êtes partout !",
+      "topic_id": "sector_distribution",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_francais_subsection_03",
+          "title": "Une fois vous êtes ici, vous êtes partout !",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_francais_chunk_003",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "sector_distribution",
+                "investment_amount"
+              ],
+              "heading_path": [
+                "Une fois vous êtes ici, vous êtes partout !"
+              ],
+              "page_start": 3,
+              "page_end": 3,
+              "source_spans": [
+                {
+                  "page": 3,
+                  "text": "Une fois vous êtes ici, vous êtes partout !\n\nRépartition des volumes d’investissement par secteur d’activité\n\nLe secteur de l’industrie continue sa croissance exceptionnelle avec plus de la moitié des montants d’investissement approuvés.\n\nTotal des investissements approuvés : 40,76 Milliards MAD\n\nIndustrie : 54%\nTourisme : 22%\nÉnergie et mines : 15%\nServices divers : 6%\nCommerce : 2%\nBTP : 1%\n\nwww.investangier.com"
+                }
+              ],
+              "text": "Une fois vous êtes ici, vous êtes partout !\n\nRépartition des volumes d’investissement par secteur d’activité\n\nLe secteur de l’industrie continue sa croissance exceptionnelle avec plus de la moitié des montants d’investissement approuvés.\n\nTotal des investissements approuvés : 40,76 Milliards MAD\n\nIndustrie : 54%\nTourisme : 22%\nÉnergie et mines : 15%\nServices divers : 6%\nCommerce : 2%\nBTP : 1%\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_francais_section_04",
+      "title": "Une fois vous êtes ici, vous êtes partout !",
+      "topic_id": "industrial_investment",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_francais_subsection_04",
+          "title": "Une fois vous êtes ici, vous êtes partout !",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_francais_chunk_004",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "sector_distribution",
+                "industrial_investment",
+                "investment_amount",
+                "projected_jobs"
+              ],
+              "heading_path": [
+                "Une fois vous êtes ici, vous êtes partout !"
+              ],
+              "page_start": 4,
+              "page_end": 4,
+              "source_spans": [
+                {
+                  "page": 4,
+                  "text": "Une fois vous êtes ici, vous êtes partout !\n\nLe secteur industriel est le premier pourvoyeur d’emplois à terme avec une part de 83%.\n\nIndustrie : 83%\nTourisme : 7%\nAutres secteurs : 10%\n\nwww.investangier.com"
+                }
+              ],
+              "text": "Une fois vous êtes ici, vous êtes partout !\n\nLe secteur industriel est le premier pourvoyeur d’emplois à terme avec une part de 83%.\n\nIndustrie : 83%\nTourisme : 7%\nAutres secteurs : 10%\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_francais_section_05",
+      "title": "Une fois vous êtes ici, vous êtes partout !",
+      "topic_id": "crui_activity",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_francais_subsection_05",
+          "title": "Une fois vous êtes ici, vous êtes partout !",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_francais_chunk_005",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "crui_activity"
+              ],
+              "heading_path": [
+                "Une fois vous êtes ici, vous êtes partout !"
+              ],
+              "page_start": 5,
+              "page_end": 5,
+              "source_spans": [
+                {
+                  "page": 5,
+                  "text": "Une fois vous êtes ici, vous êtes partout !\n\n121\nRéunions de la CRUI\n(La Commission Régionale Unifiée d’Investissement)\n\nwww.investangier.com"
+                }
+              ],
+              "text": "Une fois vous êtes ici, vous êtes partout !\n\n121\nRéunions de la CRUI\n(La Commission Régionale Unifiée d’Investissement)\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_francais_section_06",
+      "title": "Une fois vous êtes ici, vous êtes partout !",
+      "topic_id": "approved_projects",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_francais_subsection_06",
+          "title": "Une fois vous êtes ici, vous êtes partout !",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_francais_chunk_006",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "approved_projects",
+                "investment_amount",
+                "projected_jobs"
+              ],
+              "heading_path": [
+                "Une fois vous êtes ici, vous êtes partout !"
+              ],
+              "page_start": 6,
+              "page_end": 6,
+              "source_spans": [
+                {
+                  "page": 6,
+                  "text": "Une fois vous êtes ici, vous êtes partout !\n\n16\nProjets de conventions d’investissement approuvés\n\n9,54 milliards MAD d’investissement\n6 525 emplois directs projetés\n\nVentilation sectorielle des montants d’investissement des conventions approuvées par la CRUI :\n\nTourisme et loisirs : 78%\nIndustrie : 11%\nLogistique : 11%\n\nPhoto : Royal Mansour Tamuda Bay\n\nwww.investangier.com"
+                }
+              ],
+              "text": "Une fois vous êtes ici, vous êtes partout !\n\n16\nProjets de conventions d’investissement approuvés\n\n9,54 milliards MAD d’investissement\n6 525 emplois directs projetés\n\nVentilation sectorielle des montants d’investissement des conventions approuvées par la CRUI :\n\nTourisme et loisirs : 78%\nIndustrie : 11%\nLogistique : 11%\n\nPhoto : Royal Mansour Tamuda Bay\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "chiffres_cles_crui_1er_semestre_2024_francais_section_07",
+      "title": "Une fois que vous êtes ici, vous êtes partout !",
+      "topic_id": "closing_message",
+      "subsections": [
+        {
+          "subsection_id": "chiffres_cles_crui_1er_semestre_2024_francais_subsection_07",
+          "title": "Une fois que vous êtes ici, vous êtes partout !",
+          "chunks": [
+            {
+              "chunk_id": "chiffres_cles_crui_1er_semestre_2024_francais_chunk_007",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "closing_message"
+              ],
+              "heading_path": [
+                "Une fois que vous êtes ici, vous êtes partout !"
+              ],
+              "page_start": 7,
+              "page_end": 7,
+              "source_spans": [
+                {
+                  "page": 7,
+                  "text": "Une fois que vous êtes ici, vous êtes partout !\n\nwww.investangier.ma\nwww.manaralmoustatmir.ma"
+                }
+              ],
+              "text": "Une fois que vous êtes ici, vous êtes partout !\n\nwww.investangier.ma\nwww.manaralmoustatmir.ma",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2024,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": "semester",
+                  "year": 2024,
+                  "semester": 1,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1903 @@
+{
+  "schema_version": "2.2",
+  "document_id": "nv_guide_cout_facteurs_cri_2024",
+  "document_family_id": "production_factor_cost_guide_2024",
+  "metadata": {
+    "title": "Coût des facteurs de production",
+    "filename": "Nv_Guide_Cout_facteurs_CRI_2024.json",
+    "language": "fr",
+    "document_type": "cost_guide",
+    "publisher": "CRI Tanger-Tétouan-Al Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "publication_year": 2024,
+    "reference_period": {
+      "year": 2024,
+      "type": "edition",
+      "semester": null,
+      "quarter": null,
+      "label": "2024",
+      "start_date": null,
+      "end_date": null
+    },
+    "topics": [
+      "banking_cost",
+      "business_support",
+      "certification_cost",
+      "company_creation_cost",
+      "construction_cost",
+      "contact_information",
+      "cost_guide_2024",
+      "customs_cost",
+      "electricity_cost",
+      "fisheries",
+      "industrial_land_cost",
+      "insurance",
+      "labor_cost",
+      "legal_information",
+      "production_costs",
+      "quality_of_life",
+      "regional_statistics",
+      "telecom_cost",
+      "training_cost",
+      "transport_cost",
+      "water_cost"
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_001",
+      "title": "Couverture — coûts des facteurs de production",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_001_sub_01",
+          "title": "Couverture — coûts des facteurs de production",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0001",
+              "content_type": "narrative",
+              "semantic_tags": [
+                "cost_guide_2024",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Couverture — coûts des facteurs de production"
+              ],
+              "page_start": 1,
+              "page_end": 1,
+              "source_spans": [
+                {
+                  "page": 1,
+                  "text": "CENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TÉTOUAN - AL HOCEIMA\n\nINVESTANGIER\nTANGER - TÉTOUAN - AL HOCEIMA\n\nCOÛT DE FACTEURS DE PRODUCTION\nDANS LA RÉGION\nTANGER-TÉTOUAN-AL HOCEIMA\n\nÉdition 2024"
+                }
+              ],
+              "text": "CENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TÉTOUAN - AL HOCEIMA\n\nINVESTANGIER\nTANGER - TÉTOUAN - AL HOCEIMA\n\nCOÛT DE FACTEURS DE PRODUCTION\nDANS LA RÉGION\nTANGER-TÉTOUAN-AL HOCEIMA\n\nÉdition 2024",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2024
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_002",
+      "title": "Préambule",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_002_sub_01",
+          "title": "Préambule",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0002",
+              "content_type": "narrative",
+              "semantic_tags": [
+                "production_costs"
+              ],
+              "heading_path": [
+                "Préambule"
+              ],
+              "page_start": 3,
+              "page_end": 3,
+              "source_spans": [
+                {
+                  "page": 3,
+                  "text": "Préambule\n\nDans un monde économique de plus en plus complexe et dynamique, la maîtrise des coûts des facteurs de production est devenue un impératif stratégique pour les entreprises de toutes tailles et de tous secteurs. La capacité à évaluer avec précision ces coûts est essentielle pour prendre des décisions éclairées, établir des prix compétitifs, et garantir la rentabilité à long terme.\n\nCe guide a été élaboré dans le but de fournir une ressource exhaustive qui aborde de manière approfondie les différents éléments constitutifs des coûts des facteurs de production. Nous y examinerons en détail les principaux types de facteurs de production.\n\nPour chaque catégorie, nous proposerons une analyse des coûts associés, en mettant en lumière les tendances actuelles du marché, les influences économiques.\n\nEn outre, nous avons intégré des outils pratiques, tels que des tableaux comparatifs, des modèles d’analyse et des check-lists, pour aider les lecteurs à appliquer ces concepts à leur propre contexte professionnel.\n\nCe travail s’inscrit dans notre engagement à offrir une approche exhaustive et accessible, permettant ainsi aux professionnels, entrepreneurs et décideurs de naviguer efficacement dans le paysage économique actuel.\n\nEn somme, ce guide vise non seulement à informer, mais également à inspirer des actions concrètes qui peuvent conduire à une gestion plus efficiente des ressources, à une réduction des coûts et, en fin de compte, à une amélioration de la rentabilité.\n\nNous espérons que vous trouverez ce contenu utile et stimulant dans vos démarches professionnelles."
+                }
+              ],
+              "text": "Préambule\n\nDans un monde économique de plus en plus complexe et dynamique, la maîtrise des coûts des facteurs de production est devenue un impératif stratégique pour les entreprises de toutes tailles et de tous secteurs. La capacité à évaluer avec précision ces coûts est essentielle pour prendre des décisions éclairées, établir des prix compétitifs, et garantir la rentabilité à long terme.\n\nCe guide a été élaboré dans le but de fournir une ressource exhaustive qui aborde de manière approfondie les différents éléments constitutifs des coûts des facteurs de production. Nous y examinerons en détail les principaux types de facteurs de production.\n\nPour chaque catégorie, nous proposerons une analyse des coûts associés, en mettant en lumière les tendances actuelles du marché, les influences économiques.\n\nEn outre, nous avons intégré des outils pratiques, tels que des tableaux comparatifs, des modèles d’analyse et des check-lists, pour aider les lecteurs à appliquer ces concepts à leur propre contexte professionnel.\n\nCe travail s’inscrit dans notre engagement à offrir une approche exhaustive et accessible, permettant ainsi aux professionnels, entrepreneurs et décideurs de naviguer efficacement dans le paysage économique actuel.\n\nEn somme, ce guide vise non seulement à informer, mais également à inspirer des actions concrètes qui peuvent conduire à une gestion plus efficiente des ressources, à une réduction des coûts et, en fin de compte, à une amélioration de la rentabilité.\n\nNous espérons que vous trouverez ce contenu utile et stimulant dans vos démarches professionnelles.",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_003",
+      "title": "Sommaire",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_003_sub_01",
+          "title": "Sommaire",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0003",
+              "content_type": "table",
+              "semantic_tags": [
+                "production_costs"
+              ],
+              "heading_path": [
+                "Sommaire"
+              ],
+              "page_start": 4,
+              "page_end": 5,
+              "source_spans": [
+                {
+                  "page": 4,
+                  "text": "SOMMAIRE\n\nCoût de création d’une société — 01\nHonoraires de l’architecte — 03\nCoût du foncier — 05\nPrix des matériaux de construction — 07\nCoût de la construction — 11\n\nMain d’œuvre — 13\n• Types de contrats de travail — 14\n• Salaires — 14\n• Prime d’ancienneté — 14\n• Durée de travail — 15\n• Durée de congé — 15\n• Jours fériés — 15\n• Sécurité sociale — 17\n• Accident de travail — 18\n• Assurance responsabilité civile — 19\n\nÉnergie, AEP et assainissement — 20\n• Produits énergétiques — 21\n• Électricité — 21\n• Eau — 25\n• Assainissement — 26"
+                },
+                {
+                  "page": 5,
+                  "text": "SOMMAIRE\n\nTransports — 27\n• Transport public et du personnel — 28\n• Transports routiers — 28\n• Transport ferroviaire — 29\n• Transport maritime — 30\n• Transport aérien — 32\n\nTarifs des droits d’importation — 35\nCoûts de la certification — 39\nTélécommunications — 41\nRéseau bancaire — 43\nFormation — 44\nComparatif des principaux postes de coûts de production à l’échelle internationale — 49\n\nCadre de vie et usage — 52\n• Coûts de l’enseignement supérieur — 53\n• Coûts de l’enseignement primaire et secondaire — 54\n• Coût des nuitées d’hôtels — 54\n• Coût de location des voitures — 55\n• Référentiel des prix immobiliers — 56\n• Nombre d’hôpitaux publics et privés et nombre de lits — 56"
+                }
+              ],
+              "text": "SOMMAIRE\n\nCoût de création d’une société — 01\nHonoraires de l’architecte — 03\nCoût du foncier — 05\nPrix des matériaux de construction — 07\nCoût de la construction — 11\n\nMain d’œuvre — 13\n• Types de contrats de travail — 14\n• Salaires — 14\n• Prime d’ancienneté — 14\n• Durée de travail — 15\n• Durée de congé — 15\n• Jours fériés — 15\n• Sécurité sociale — 17\n• Accident de travail — 18\n• Assurance responsabilité civile — 19\n\nÉnergie, AEP et assainissement — 20\n• Produits énergétiques — 21\n• Électricité — 21\n• Eau — 25\n• Assainissement — 26\n\nSOMMAIRE\n\nTransports — 27\n• Transport public et du personnel — 28\n• Transports routiers — 28\n• Transport ferroviaire — 29\n• Transport maritime — 30\n• Transport aérien — 32\n\nTarifs des droits d’importation — 35\nCoûts de la certification — 39\nTélécommunications — 41\nRéseau bancaire — 43\nFormation — 44\nComparatif des principaux postes de coûts de production à l’échelle internationale — 49\n\nCadre de vie et usage — 52\n• Coûts de l’enseignement supérieur — 53\n• Coûts de l’enseignement primaire et secondaire — 54\n• Coût des nuitées d’hôtels — 54\n• Coût de location des voitures — 55\n• Référentiel des prix immobiliers — 56\n• Nombre d’hôpitaux publics et privés et nombre de lits — 56",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_004",
+      "title": "Coût de création d’une société",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_004_sub_01",
+          "title": "Coût de création d’une société",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0004",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "company_creation_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Coût de création d’une société"
+              ],
+              "page_start": 6,
+              "page_end": 7,
+              "source_spans": [
+                {
+                  "page": 6,
+                  "text": "COÛT DE CRÉATION D’UNE SOCIÉTÉ"
+                },
+                {
+                  "page": 7,
+                  "text": "2\nCOÛT DE CRÉATION D’UNE SOCIÉTÉ\nCertificat Négatif (CN)\n230 Dhs pour les sociétés (Personnes morales)\n170 Dhs pour les sociétés (Personnes physiques)\nEnregistrement du capital et des statuts\n1000 Dh si le capital ne dépasse pas 500 000 Dh.\n1% si le capital dépasse 500 000 Dh.\n200 Dh pour les Procès-Verbaux + timbre de 20 Dhs par feuille pour le statut \n+ timbre de 2 Dh par signature légalisée.\nInscription à la patente et identification fiscale\nSans frais\nAnnonce au journal d’annonce légales (JAL) et au Bulletin Officiel\nFrais variables\nBulletin de notification des identifiants\nSans frais\nEtablissement des statuts\nA Définir avec le cabinet juridique\nBlocage du capital \nBlocage de 1⁄4 du capital.\nLa banque délivre une attestation de blocage sur présentation les pièces \njustificatives suivantes : les statuts, copie du Certificat Négatif, les bulletins \nde souscriptions (Société Anonyme et Société en Commandites par Actions) \net le montant du capital libéré.\nPour la SARL, pas obligatoire si le capital ne dépasse pas 100000 Dh.\nDépôt des statuts Inscription au registre de commerce \nPour personnes morales : 350 Dh (Dépôt des statuts: 200Dh, immatriculation\nau RC : 150 Dh)\nPour personnes physiques : 150 Dh\nAffiliation à la C.N.S. S \nSans frais"
+                }
+              ],
+              "text": "COÛT DE CRÉATION D’UNE SOCIÉTÉ\n\n2\nCOÛT DE CRÉATION D’UNE SOCIÉTÉ\nCertificat Négatif (CN)\n230 Dhs pour les sociétés (Personnes morales)\n170 Dhs pour les sociétés (Personnes physiques)\nEnregistrement du capital et des statuts\n1000 Dh si le capital ne dépasse pas 500 000 Dh.\n1% si le capital dépasse 500 000 Dh.\n200 Dh pour les Procès-Verbaux + timbre de 20 Dhs par feuille pour le statut \n+ timbre de 2 Dh par signature légalisée.\nInscription à la patente et identification fiscale\nSans frais\nAnnonce au journal d’annonce légales (JAL) et au Bulletin Officiel\nFrais variables\nBulletin de notification des identifiants\nSans frais\nEtablissement des statuts\nA Définir avec le cabinet juridique\nBlocage du capital \nBlocage de 1⁄4 du capital.\nLa banque délivre une attestation de blocage sur présentation les pièces \njustificatives suivantes : les statuts, copie du Certificat Négatif, les bulletins \nde souscriptions (Société Anonyme et Société en Commandites par Actions) \net le montant du capital libéré.\nPour la SARL, pas obligatoire si le capital ne dépasse pas 100000 Dh.\nDépôt des statuts Inscription au registre de commerce \nPour personnes morales : 350 Dh (Dépôt des statuts: 200Dh, immatriculation\nau RC : 150 Dh)\nPour personnes physiques : 150 Dh\nAffiliation à la C.N.S. S \nSans frais",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_005",
+      "title": "Honoraires de l’architecte",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_005_sub_01",
+          "title": "Honoraires de l’architecte",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0005",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "construction_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Honoraires de l’architecte"
+              ],
+              "page_start": 8,
+              "page_end": 9,
+              "source_spans": [
+                {
+                  "page": 8,
+                  "text": "HONORAIRES DE L’ARCHITECTE"
+                },
+                {
+                  "page": 9,
+                  "text": "4\nHONORAIRES DE L’ARCHITECTE\nNb: Tarif peut être soumis à négociation suivant l’architecte sélectionné\nSource : Ordre des architectes\nHabitat du RDC au R+3 maximum, dont surface totale de planchers couverts \nne dépasse pas 500m2 et figurant en zone d’Habitat économique sur les \nplans d’aménagement\nType de construction Taux\nmin\nVillas en bande\nVillas en bande de standing\nVillas jumelées\nVillas jumelées de standing\nVillas isolées de standing\nVillas en bande\nVillas en bande de standing\nVillas jumelées\nVillas jumelées de standing\nVillas isolées de standing\nHabitat en immeubles collectifs et bureaux à R+4 et plus\nHabitat en immeubles collectifs de moyen standing et bureaux à R+4 et plus\nHabitat en immeubles collectifs de haut standing et bureaux à R+4 et plus\nAménagements :\n- Intérieur en surface à 50 m2\n- Divers Agences et locaux commerciaux\nHangars agricoles\nHangars et dépôts industriels\nÉcoles, Collèges, Lycées, Mosquées\nUsines\nHôtel 2* résidence touristique, maison d’hôtel, établissement de santé \n(centre hémodialyse, laboratoire)\nHôtel 3*\nCliniques\nHôtel 4*\nHôtel 5* et équipement de haut standing\n3%\n5%\n5%\n5%\n5%\n5%"
+                }
+              ],
+              "text": "HONORAIRES DE L’ARCHITECTE\n\n4\nHONORAIRES DE L’ARCHITECTE\nNb: Tarif peut être soumis à négociation suivant l’architecte sélectionné\nSource : Ordre des architectes\nHabitat du RDC au R+3 maximum, dont surface totale de planchers couverts \nne dépasse pas 500m2 et figurant en zone d’Habitat économique sur les \nplans d’aménagement\nType de construction Taux\nmin\nVillas en bande\nVillas en bande de standing\nVillas jumelées\nVillas jumelées de standing\nVillas isolées de standing\nVillas en bande\nVillas en bande de standing\nVillas jumelées\nVillas jumelées de standing\nVillas isolées de standing\nHabitat en immeubles collectifs et bureaux à R+4 et plus\nHabitat en immeubles collectifs de moyen standing et bureaux à R+4 et plus\nHabitat en immeubles collectifs de haut standing et bureaux à R+4 et plus\nAménagements :\n- Intérieur en surface à 50 m2\n- Divers Agences et locaux commerciaux\nHangars agricoles\nHangars et dépôts industriels\nÉcoles, Collèges, Lycées, Mosquées\nUsines\nHôtel 2* résidence touristique, maison d’hôtel, établissement de santé \n(centre hémodialyse, laboratoire)\nHôtel 3*\nCliniques\nHôtel 4*\nHôtel 5* et équipement de haut standing\n3%\n5%\n5%\n5%\n5%\n5%",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_006",
+      "title": "Coût du foncier",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_006_sub_01",
+          "title": "Coût du foncier",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0006",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "industrial_land_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Coût du foncier"
+              ],
+              "page_start": 10,
+              "page_end": 11,
+              "source_spans": [
+                {
+                  "page": 10,
+                  "text": "COÛT DU FONCIER"
+                },
+                {
+                  "page": 11,
+                  "text": "6\nCOÛT DU FONCIER\nZone Activité Prix moyen\nTanger Free Zone Multisectoriel Location : Entre de 5,5 euros-6,5 euros /m2/mois \n(Bâtiment clé en main)\nZone industrielle \nde Tanger Multisectoriel Location (Privé) : 50 dhs/m2/mois (Bâtiment clé \nen main)\nZone industrielle \nde Gueznaia Multisectoriel Location (Privé) : 50 dhs/m2/mois (Bâtiment clé \nen main)\nCité Mohammed \nVI / Tanger-Tech\nSmart CityMultisectoriel Cession (voir avec l’amenageur de la zone)\nZAE Assilah Multisectoriel Cession : Entre 600-700 Dhs/m2 (Terrain \naménagé)\nTanger \nAutomotive City \n(TAC)\nPrincipalement \ndes activités de \nl’automobile\nCession : 80 euros/ m2 (Terrain aménagé)\nLocation (Privé) : Entre de 5 euros-6 euros /m2/\nmois\nMed Hub (ZL) Activités \nlogistiques\nLocation : 7 euros/m2/mois (Bâtiment clé en \nmain)\nZAE Fnideq Commerciale\net logistique\nLocation : 50 dhs/ m2/mois (Bâtiment clé en \nmain)\nTétouan Shore Outsourcing\net de services\nLocation : 90 dhs HT H charges/m2/mois \n(Plateau bureaux)\nTétouan park Multisectoriel\nCession : Entre 700-900 Dhs/m2 (Terrain \naménagé)\nLocation : Entre 45-55 Dhs/m2/mois (Bâtiment \nclé en main)\nPolygone Mlaleh Multisectoriel\nCession :\n- 750 dhs pour les lots à partir de 8 000 m2\n- 800 dhs pour les lots à partir de 4 000 m2\n- 900 dhs pour les lots à partir de 2 000 m2\n- 1 000 dhs pour les lots de 1 200 m2\n- 2 700 dhs/1 000 m2 à 3 500 dhs/ 550 m2 pour \nles showrooms\nAgropole du \nLoukkos Agroalimentaire Cession : à partir de 445 Dhs/m2 Terrain \naménagé)\nZAE Ait Kamra Multisectoriel Cession : à partir de 300 Dhs/m2/mois (Terrain \naménagé)"
+                }
+              ],
+              "text": "COÛT DU FONCIER\n\n6\nCOÛT DU FONCIER\nZone Activité Prix moyen\nTanger Free Zone Multisectoriel Location : Entre de 5,5 euros-6,5 euros /m2/mois \n(Bâtiment clé en main)\nZone industrielle \nde Tanger Multisectoriel Location (Privé) : 50 dhs/m2/mois (Bâtiment clé \nen main)\nZone industrielle \nde Gueznaia Multisectoriel Location (Privé) : 50 dhs/m2/mois (Bâtiment clé \nen main)\nCité Mohammed \nVI / Tanger-Tech\nSmart CityMultisectoriel Cession (voir avec l’amenageur de la zone)\nZAE Assilah Multisectoriel Cession : Entre 600-700 Dhs/m2 (Terrain \naménagé)\nTanger \nAutomotive City \n(TAC)\nPrincipalement \ndes activités de \nl’automobile\nCession : 80 euros/ m2 (Terrain aménagé)\nLocation (Privé) : Entre de 5 euros-6 euros /m2/\nmois\nMed Hub (ZL) Activités \nlogistiques\nLocation : 7 euros/m2/mois (Bâtiment clé en \nmain)\nZAE Fnideq Commerciale\net logistique\nLocation : 50 dhs/ m2/mois (Bâtiment clé en \nmain)\nTétouan Shore Outsourcing\net de services\nLocation : 90 dhs HT H charges/m2/mois \n(Plateau bureaux)\nTétouan park Multisectoriel\nCession : Entre 700-900 Dhs/m2 (Terrain \naménagé)\nLocation : Entre 45-55 Dhs/m2/mois (Bâtiment \nclé en main)\nPolygone Mlaleh Multisectoriel\nCession :\n- 750 dhs pour les lots à partir de 8 000 m2\n- 800 dhs pour les lots à partir de 4 000 m2\n- 900 dhs pour les lots à partir de 2 000 m2\n- 1 000 dhs pour les lots de 1 200 m2\n- 2 700 dhs/1 000 m2 à 3 500 dhs/ 550 m2 pour \nles showrooms\nAgropole du \nLoukkos Agroalimentaire Cession : à partir de 445 Dhs/m2 Terrain \naménagé)\nZAE Ait Kamra Multisectoriel Cession : à partir de 300 Dhs/m2/mois (Terrain \naménagé)",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_007",
+      "title": "Prix des matériaux de construction — introduction",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_007_sub_01",
+          "title": "Prix des matériaux de construction — introduction",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0007",
+              "content_type": "table",
+              "semantic_tags": [
+                "construction_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Prix des matériaux de construction — introduction"
+              ],
+              "page_start": 12,
+              "page_end": 12,
+              "source_spans": [
+                {
+                  "page": 12,
+                  "text": "PRIX DES MATÉRIAUX DE CONSTRUCTION"
+                }
+              ],
+              "text": "PRIX DES MATÉRIAUX DE CONSTRUCTION",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_008",
+      "title": "Matériaux, menuiserie et quincaillerie",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_008_sub_01",
+          "title": "Matériaux, menuiserie et quincaillerie",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0008",
+              "content_type": "table",
+              "semantic_tags": [
+                "construction_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Matériaux, menuiserie et quincaillerie"
+              ],
+              "page_start": 13,
+              "page_end": 14,
+              "source_spans": [
+                {
+                  "page": 13,
+                  "text": "8\nCorps Activité Produit Unité\nPrix\nmoyen \n(Dhs)\nGros\nœuvre\nAgglomérés\net articles\nen ciment\nou en PVC\nAgglomérés U 9\nHourdis U 8\nBuse en béton ou PVC Ml 40-1600\nBordures U 120\nPoutres préfabriquées M2 900\nBéton\nprêt-à-l ‘emploi M3 900-2000\nCiment\nCPJ 35 U 78\nCPJ 45 U 83\nMatériaux\nen terre cuite\nBriques creuses U 1,1\nTuiles U 3\nProduits issus\ndes minéraux\nSables M3 280\nGravettes M3 180\nMoellons M3 160\nAcier\nAcier haute adhérence KG 9,3\nAcier doux KG 9,8\nBéton\nB20 M3 820\nB25 M3 880\nEtanchéité Produits\nd’étanchéité\nBitume KG 15\nCarton bitumé M2 55\nRevêtement\nArticles divers en \ncéramique,ciment\net bois\nCarreaux grès M2 400\nCarreaux granito M2 220\nCarreaux ciment M2 300\nCarreaux de faïence M2 60\nParquet M2 240\nPlinthe ML 25\nProduits\nen marbre\net granit\nMarbre local M2 450\nMarbre importé M2 600\nGranit M2 300\nPRIX DES MATÉRIAUX DE CONSTRUCTION"
+                },
+                {
+                  "page": 14,
+                  "text": "9\nMenuiserie\n-\n Quincaillerie\nBois\nSapin rouge M3 4 600\nContre-plaqué M2 70\nHêtre M3 13 000\nCèdre M3 17 000\nQuincaillerie\nSerrure U 250\nPoignet U 120\nPaumelle U 80\nAluminium châssis\nQualité Economique M2 400\nQualité Moyenne M2 600\nVolet roulant\nVR Aluminium M2 900\nVR PVC M2 300\nPlomberie\n-\nSanitaire\nRetube Canalisation en retube Ml 60-100\nPolypropylène \nRandom\nTube PPR Ml 50-200\nCuivre Tuyaux Ml 60-170\nPlastique Buse en PVC Ml 40-1600\nArticles\net produits\nsanitaires\nLavabo U 1 200\nReceveur/Douche U 800\nEvier U 700\nSiège à l’anglaise U 1 400\nSiège à la turque U 200\nBaignoire U 4 000\nBidet U 600\nRobinetterie U 2 000\nElectricité Articles électricités\nTubage ML 2,5\nFilerie et câble ML 3,5\nInterrupteur U 40\nPrise U 45\nTableau U 3 000\nCorps Activité Produit Unité\nPrix\nmoyen \n(Dhs)"
+                }
+              ],
+              "text": "8\nCorps Activité Produit Unité\nPrix\nmoyen \n(Dhs)\nGros\nœuvre\nAgglomérés\net articles\nen ciment\nou en PVC\nAgglomérés U 9\nHourdis U 8\nBuse en béton ou PVC Ml 40-1600\nBordures U 120\nPoutres préfabriquées M2 900\nBéton\nprêt-à-l ‘emploi M3 900-2000\nCiment\nCPJ 35 U 78\nCPJ 45 U 83\nMatériaux\nen terre cuite\nBriques creuses U 1,1\nTuiles U 3\nProduits issus\ndes minéraux\nSables M3 280\nGravettes M3 180\nMoellons M3 160\nAcier\nAcier haute adhérence KG 9,3\nAcier doux KG 9,8\nBéton\nB20 M3 820\nB25 M3 880\nEtanchéité Produits\nd’étanchéité\nBitume KG 15\nCarton bitumé M2 55\nRevêtement\nArticles divers en \ncéramique,ciment\net bois\nCarreaux grès M2 400\nCarreaux granito M2 220\nCarreaux ciment M2 300\nCarreaux de faïence M2 60\nParquet M2 240\nPlinthe ML 25\nProduits\nen marbre\net granit\nMarbre local M2 450\nMarbre importé M2 600\nGranit M2 300\nPRIX DES MATÉRIAUX DE CONSTRUCTION\n\n9\nMenuiserie\n-\n Quincaillerie\nBois\nSapin rouge M3 4 600\nContre-plaqué M2 70\nHêtre M3 13 000\nCèdre M3 17 000\nQuincaillerie\nSerrure U 250\nPoignet U 120\nPaumelle U 80\nAluminium châssis\nQualité Economique M2 400\nQualité Moyenne M2 600\nVolet roulant\nVR Aluminium M2 900\nVR PVC M2 300\nPlomberie\n-\nSanitaire\nRetube Canalisation en retube Ml 60-100\nPolypropylène \nRandom\nTube PPR Ml 50-200\nCuivre Tuyaux Ml 60-170\nPlastique Buse en PVC Ml 40-1600\nArticles\net produits\nsanitaires\nLavabo U 1 200\nReceveur/Douche U 800\nEvier U 700\nSiège à l’anglaise U 1 400\nSiège à la turque U 200\nBaignoire U 4 000\nBidet U 600\nRobinetterie U 2 000\nElectricité Articles électricités\nTubage ML 2,5\nFilerie et câble ML 3,5\nInterrupteur U 40\nPrise U 45\nTableau U 3 000\nCorps Activité Produit Unité\nPrix\nmoyen \n(Dhs)",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2000
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_009",
+      "title": "Peinture, vitrerie et plâtre",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_009_sub_01",
+          "title": "Peinture, vitrerie et plâtre",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0009",
+              "content_type": "table",
+              "semantic_tags": [
+                "construction_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Peinture, vitrerie et plâtre"
+              ],
+              "page_start": 15,
+              "page_end": 15,
+              "source_spans": [
+                {
+                  "page": 15,
+                  "text": "10\nPeinture \nVitrerie & \nPlâtre\nPeinture\nPeinture KG 40\nVernis KG 50\nLaqué KG 70\nEnduit peinture KG 15\nChaux et Plâtre\nPlâtre KG 2\nChaux M2 5\nVerre\nDemi Double M2 270\nDouble M2 100\nCouverture\nCharpente métallique KG 30-35\nPanneaux sandwich M2 600\nCorps Activité Produit Unité\nPrix\nmoyen \n(Dhs)\nSource :\n-Ministère de l’Aménagement du territoire national, de l’urbanisme, de l’habitat et de la politique \nde la ville ;\n-Association des Industries de la Quincaillerie et Métallurgiques de Bâtiment."
+                }
+              ],
+              "text": "10\nPeinture \nVitrerie & \nPlâtre\nPeinture\nPeinture KG 40\nVernis KG 50\nLaqué KG 70\nEnduit peinture KG 15\nChaux et Plâtre\nPlâtre KG 2\nChaux M2 5\nVerre\nDemi Double M2 270\nDouble M2 100\nCouverture\nCharpente métallique KG 30-35\nPanneaux sandwich M2 600\nCorps Activité Produit Unité\nPrix\nmoyen \n(Dhs)\nSource :\n-Ministère de l’Aménagement du territoire national, de l’urbanisme, de l’habitat et de la politique \nde la ville ;\n-Association des Industries de la Quincaillerie et Métallurgiques de Bâtiment.",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_010",
+      "title": "Coût de la construction",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_010_sub_01",
+          "title": "Coût de la construction",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0010",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "construction_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Coût de la construction"
+              ],
+              "page_start": 16,
+              "page_end": 17,
+              "source_spans": [
+                {
+                  "page": 16,
+                  "text": "COÛT DE LA CONSTRUCTION"
+                },
+                {
+                  "page": 17,
+                  "text": "12\nCOÛT DE LA CONSTRUCTION \nNb: Le coût approximatif pour la construction d’une unité industrielle (Comprenant tous les \ncorps de métier) varie entre 3 500 et 4 000 dirhams par m2, selon les spécificités techniques du \nbâtiment.\nSource : Ordre des architectes\nHabitat du RDC au R+3 maximum, dont surface totale de planchers \ncouverts ne dépasse pas 500m2 et figurant en zone d’Habitat \néconomique sur les plans d’aménagement\nPrix TTC Type de construction\nHabitat en immeubles collectifs de moyen standing et bureaux à R+4 \net plus\nVillas en bande\nVillas jumelées de standing\nVillas isolées de standing\nHangars et dépôts industriels\nUsines\nPetit aménagement (Intérieur en surface à 50m2) \nHabitat en immeubles collectifs et bureaux à R+4 et plus\nHabitat en immeubles collectifs de haut standing et bureaux à R+4 \net plus\nVillas en bande de standing\nVillas jumelées\nVillas isolées\nHangars agricoles\nEcoles, Collèges, lycées, Mosquées\nHôtel 2* résidence touristique, maison d’hôtel, établissement de santé \n(centre hémodialyse, laboratoire)\nCliniques\nHôtel 5* et équipement de haut standing\nGrands aménagements\nHôtel 3*\nHôtel 4*\n1 900\n3 700\n3 500\n6 000\n2 500\n5 000\n4 000\n1 500\n3 500\n5 500\n9 000\n4 500\n5 000\n7 000\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\n2 500"
+                }
+              ],
+              "text": "COÛT DE LA CONSTRUCTION\n\n12\nCOÛT DE LA CONSTRUCTION \nNb: Le coût approximatif pour la construction d’une unité industrielle (Comprenant tous les \ncorps de métier) varie entre 3 500 et 4 000 dirhams par m2, selon les spécificités techniques du \nbâtiment.\nSource : Ordre des architectes\nHabitat du RDC au R+3 maximum, dont surface totale de planchers \ncouverts ne dépasse pas 500m2 et figurant en zone d’Habitat \néconomique sur les plans d’aménagement\nPrix TTC Type de construction\nHabitat en immeubles collectifs de moyen standing et bureaux à R+4 \net plus\nVillas en bande\nVillas jumelées de standing\nVillas isolées de standing\nHangars et dépôts industriels\nUsines\nPetit aménagement (Intérieur en surface à 50m2) \nHabitat en immeubles collectifs et bureaux à R+4 et plus\nHabitat en immeubles collectifs de haut standing et bureaux à R+4 \net plus\nVillas en bande de standing\nVillas jumelées\nVillas isolées\nHangars agricoles\nEcoles, Collèges, lycées, Mosquées\nHôtel 2* résidence touristique, maison d’hôtel, établissement de santé \n(centre hémodialyse, laboratoire)\nCliniques\nHôtel 5* et équipement de haut standing\nGrands aménagements\nHôtel 3*\nHôtel 4*\n1 900\n3 700\n3 500\n6 000\n2 500\n5 000\n4 000\n1 500\n3 500\n5 500\n9 000\n4 500\n5 000\n7 000\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\nDhs/m2\n2 500",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_011",
+      "title": "Main-d’œuvre et salaires",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_011_sub_01",
+          "title": "Main-d’œuvre et salaires",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0011",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "labor_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Main-d’œuvre et salaires"
+              ],
+              "page_start": 18,
+              "page_end": 19,
+              "source_spans": [
+                {
+                  "page": 18,
+                  "text": "MAIN D’ŒUVRE"
+                },
+                {
+                  "page": 19,
+                  "text": "14\nMAIN D’ŒUVRE\n Types de contrats de travail\n Salaires\nIl est librement débattu entre employeur et salarié, mais il ne peut être inférieur, selon \nles Secteurs d’activité, au Salaire Minimum Interprofessionnel Garanti (SMIG:16,29 \nDH/H). \nSource : Bulletin officiel du 19/10/2023\n Prime d’ancienneté\nTous les travailleurs doivent percevoir, en sus de leur salaire, une prime d’ancienneté \nde 5 % du salaire après 2 ans de service continu ou non dans le même établissement \nou chez le même employeur ;\nSource : ANAPEC\n8 000 – 9 000\nSalaire net moyen mensuel\n6 000\nSalaire net moyen mensuel\n3 500 - 4 000\nSalaire net moyen mensuel\nIngénieur\nProfil (Débutant)\nCadre moyen\nProfil (Débutant)\naprès 5 ans\nde service\naprès 12 ans\nde service\naprès 20 ans\n10% 15% 20% de service\nTechnicien\nProfil (Débutant)"
+                }
+              ],
+              "text": "MAIN D’ŒUVRE\n\n14\nMAIN D’ŒUVRE\n Types de contrats de travail\n Salaires\nIl est librement débattu entre employeur et salarié, mais il ne peut être inférieur, selon \nles Secteurs d’activité, au Salaire Minimum Interprofessionnel Garanti (SMIG:16,29 \nDH/H). \nSource : Bulletin officiel du 19/10/2023\n Prime d’ancienneté\nTous les travailleurs doivent percevoir, en sus de leur salaire, une prime d’ancienneté \nde 5 % du salaire après 2 ans de service continu ou non dans le même établissement \nou chez le même employeur ;\nSource : ANAPEC\n8 000 – 9 000\nSalaire net moyen mensuel\n6 000\nSalaire net moyen mensuel\n3 500 - 4 000\nSalaire net moyen mensuel\nIngénieur\nProfil (Débutant)\nCadre moyen\nProfil (Débutant)\naprès 5 ans\nde service\naprès 12 ans\nde service\naprès 20 ans\n10% 15% 20% de service\nTechnicien\nProfil (Débutant)",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2023
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_012",
+      "title": "Durée du travail",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_012_sub_01",
+          "title": "Durée du travail",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0012",
+              "content_type": "legal_information",
+              "semantic_tags": [
+                "legal_information",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Durée du travail"
+              ],
+              "page_start": 20,
+              "page_end": 20,
+              "source_spans": [
+                {
+                  "page": 20,
+                  "text": "15\n Durée du travail\nLa législation du travail autorise le salarié à travailler 44 heures par semaine pour \nle secteur non agricole.\nLe plafond des heures supplémentaires autorisées a été établi à 80 heures par \nan pour chaque travailleur, avec possibilité de le relever à 100 heures, après avis \ndes représentants des salariés dans l’entreprise (art 196 et décret n° 2.04.570 du \n29 décembre 2004 fixant les conditions d’emploi des salariés au-delà de la durée \nnormale de travail).\nLes heures supplémentaires sont facturées + 25% entre 5 et 22 heures et + 50%\nentre 22 heures et 5 heures.\n Durée de congé\nSauf dispositions plus favorables du contrat de travail, de la convention collective \nde travail, du règlement intérieur ou des usages, tout salarié a droit, après six mois \nde service continu dans la même entreprise ou chez le même employeur, à un \ncongé annuel payé dont la durée est fixée comme suit :\nUn jour et demi de travail effectif par mois de service ;\nDeux jours de travail effectif par mois de service pour les salariés âgés de moins de \ndix-huit ans.\n Jours fériés \nSelon le code du travail marocain, il est interdit aux employeurs d’occuper les \nemployés pendant les jours fériés, ce qui est puni par la loi. Cependant, la période \nde congé peut être récupérée, pendant les 30 jours suivant le jour férié, soit par \ndes heures supplémentaires (tant que le nombre total d’heures de travail journalier \nn’excède pas 10, et ne coïncide pas avec un autre jour férié national, ou les jours de \nrepos hebdomadaires des salaries).\nL’employeur doit quand même faire connaître à l’agent chargé de l’inspection du \ntravail, par écrit, les dates auxquelles aura lieu la récupération."
+                }
+              ],
+              "text": "15\n Durée du travail\nLa législation du travail autorise le salarié à travailler 44 heures par semaine pour \nle secteur non agricole.\nLe plafond des heures supplémentaires autorisées a été établi à 80 heures par \nan pour chaque travailleur, avec possibilité de le relever à 100 heures, après avis \ndes représentants des salariés dans l’entreprise (art 196 et décret n° 2.04.570 du \n29 décembre 2004 fixant les conditions d’emploi des salariés au-delà de la durée \nnormale de travail).\nLes heures supplémentaires sont facturées + 25% entre 5 et 22 heures et + 50%\nentre 22 heures et 5 heures.\n Durée de congé\nSauf dispositions plus favorables du contrat de travail, de la convention collective \nde travail, du règlement intérieur ou des usages, tout salarié a droit, après six mois \nde service continu dans la même entreprise ou chez le même employeur, à un \ncongé annuel payé dont la durée est fixée comme suit :\nUn jour et demi de travail effectif par mois de service ;\nDeux jours de travail effectif par mois de service pour les salariés âgés de moins de \ndix-huit ans.\n Jours fériés \nSelon le code du travail marocain, il est interdit aux employeurs d’occuper les \nemployés pendant les jours fériés, ce qui est puni par la loi. Cependant, la période \nde congé peut être récupérée, pendant les 30 jours suivant le jour férié, soit par \ndes heures supplémentaires (tant que le nombre total d’heures de travail journalier \nn’excède pas 10, et ne coïncide pas avec un autre jour férié national, ou les jours de \nrepos hebdomadaires des salaries).\nL’employeur doit quand même faire connaître à l’agent chargé de l’inspection du \ntravail, par écrit, les dates auxquelles aura lieu la récupération.",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2004
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_013",
+      "title": "Jours fériés",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_013_sub_01",
+          "title": "Jours fériés",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0013",
+              "content_type": "table",
+              "semantic_tags": [
+                "legal_information",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Jours fériés"
+              ],
+              "page_start": 21,
+              "page_end": 21,
+              "source_spans": [
+                {
+                  "page": 21,
+                  "text": "16\nSource : Code du travail\nJour férié Date Nombre de \njours\nNouvel an 1\ner janvier 1 jour\nManifeste de l’indépendance 11 janvier 1 jour\nNouvel an Amazigh 14 janvier 1 jour\nFête du travail 1\ner mai 1 jour\nFête du trône 30 juillet 1 jour\nLibération de Oued Eddahab 14 août 1 jour\nRévolution du Roi et du Peuple 20 août 1 jour\nFête de la jeunesse 21 août 1 jour\nLa marche verte 6 novembre 1 jour\nFête de l’Indépendance 18 novembre 1 jour\n1\ner Moharram Selon le calendrier \nreligieux 1 jour\nAid al Mawlid Selon le calendrier \nreligieux 1 jour\nAid el Fitr Selon le calendrier \nreligieux 2 jours\nAid Al Adha Selon le calendrier \nreligieux 2 jours"
+                }
+              ],
+              "text": "16\nSource : Code du travail\nJour férié Date Nombre de \njours\nNouvel an 1\ner janvier 1 jour\nManifeste de l’indépendance 11 janvier 1 jour\nNouvel an Amazigh 14 janvier 1 jour\nFête du travail 1\ner mai 1 jour\nFête du trône 30 juillet 1 jour\nLibération de Oued Eddahab 14 août 1 jour\nRévolution du Roi et du Peuple 20 août 1 jour\nFête de la jeunesse 21 août 1 jour\nLa marche verte 6 novembre 1 jour\nFête de l’Indépendance 18 novembre 1 jour\n1\ner Moharram Selon le calendrier \nreligieux 1 jour\nAid al Mawlid Selon le calendrier \nreligieux 1 jour\nAid el Fitr Selon le calendrier \nreligieux 2 jours\nAid Al Adha Selon le calendrier \nreligieux 2 jours",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_014",
+      "title": "Sécurité sociale",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_014_sub_01",
+          "title": "Sécurité sociale",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0014",
+              "content_type": "legal_information",
+              "semantic_tags": [
+                "labor_cost",
+                "legal_information",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Sécurité sociale"
+              ],
+              "page_start": 22,
+              "page_end": 22,
+              "source_spans": [
+                {
+                  "page": 22,
+                  "text": "17\n Sécurité sociale\nTout employeur est tenu de procéder à son affiliation à la Caisse Nationale de \nSécurité Sociale (CNSS), ainsi qu’à l’immatriculation de ses salariés et apprentis à \nla caisse.\nLes taux suivants s’appliquent à l’entreprise, quelle que soit son activité, sauf pour \nles Marins pêcheurs :\n* Dont 0,57% relatif à l’Indemnité pour perte d’emploi réparti comme suit : la charge patronale \nest de 0,38% et la charge salariale est de 0,19%.\nSource : CNSS\nCatégorie de \nprestation Base de calcul Taux Charge \npatronale\nTaux \nCharge \nSalariale\nTaux \nGlobal\nPrestations\nFamiliales\nLe total des salaires\nréels de la période\n(mois/trimestre)\n6,40% -- 6,40%\nPrestations\nsociales à\ncourt terme*\nLe total des salaires \nplafonnés (chacun\nplafonné à 6000 dhs)\n1,05% 0,52% 1,57%\nPrestations\nsociales\nà long terme\nLe total des salaires \nplafonnés (chacun\nplafonné à 6000 dhs)\n7,93% 3,96% 11,89%\nAssurance\nMaladie\nObligatoire\nLe total des salaires réels \nde la période\n(mois/trimestre)\n4,11% 2,26% 6,37%"
+                }
+              ],
+              "text": "17\n Sécurité sociale\nTout employeur est tenu de procéder à son affiliation à la Caisse Nationale de \nSécurité Sociale (CNSS), ainsi qu’à l’immatriculation de ses salariés et apprentis à \nla caisse.\nLes taux suivants s’appliquent à l’entreprise, quelle que soit son activité, sauf pour \nles Marins pêcheurs :\n* Dont 0,57% relatif à l’Indemnité pour perte d’emploi réparti comme suit : la charge patronale \nest de 0,38% et la charge salariale est de 0,19%.\nSource : CNSS\nCatégorie de \nprestation Base de calcul Taux Charge \npatronale\nTaux \nCharge \nSalariale\nTaux \nGlobal\nPrestations\nFamiliales\nLe total des salaires\nréels de la période\n(mois/trimestre)\n6,40% -- 6,40%\nPrestations\nsociales à\ncourt terme*\nLe total des salaires \nplafonnés (chacun\nplafonné à 6000 dhs)\n1,05% 0,52% 1,57%\nPrestations\nsociales\nà long terme\nLe total des salaires \nplafonnés (chacun\nplafonné à 6000 dhs)\n7,93% 3,96% 11,89%\nAssurance\nMaladie\nObligatoire\nLe total des salaires réels \nde la période\n(mois/trimestre)\n4,11% 2,26% 6,37%",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_015",
+      "title": "Cotisations des marins pêcheurs",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_015_sub_01",
+          "title": "Cotisations des marins pêcheurs",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0015",
+              "content_type": "legal_information",
+              "semantic_tags": [
+                "fisheries",
+                "labor_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Cotisations des marins pêcheurs"
+              ],
+              "page_start": 23,
+              "page_end": 23,
+              "source_spans": [
+                {
+                  "page": 23,
+                  "text": "18\nCas particulier des marins pêcheurs :\nLa cotisation au titre du régime général est assise sur les recettes brutes du bateau \nde pêche. Les taux de cotisation appliqués sont fixés comme suit :\nLa cotisation au titre du régime AMO est assise sur les recettes brutes du bateau de \npêche. Les taux de cotisation appliqués sont fixés comme suit :\n Accident de travail\nLa prime d’assurance souscrite pour les cas d’accident de travail se calcule comme \ntel :\nTaux techniques* X La masse salariale annuelle de l’entreprise\n*Le taux technique varie généralement de 0,9% à 7,5% en fonction des risques engagées lors \nde l’activité professionnelle.\nCette obligation réglementaire permet au salarié, lorsque le caractère professionnel \nde l’accident est reconnu, de bénéficier d’une prise en charge des prestations en \nnature, d’une indemnité journalière et le cas échéant d’une rente. \nCes trois éléments sont définis comme suit : \n݉ Les prestations en nature : comprennent les frais médicaux et pharmaceutiques \nainsi que les frais d’appareillage et de prothèse, L’assistance d’une tierce personne \npour les besoins de la vie courante, Les frais funéraires en cas de décès. \n݉ Les Indemnités journalières (IJ) : L’indemnité journalière est égale aux deux tiers de \nla rémunération quotidienne à compter du premier jour suivant la date d’accident \nou de la révélation de la maladie professionnelle. \n݉ L’Indemnité pour Incapacité Physique Permanente (IPP) : elle correspond à un\ncapital en cas d’IPP inférieure à 10%, ou à une rente viagère en cas d’IPP supérieure \nou égale à 10%. \nChalutiers\nChalutiers\n4,65% du total du \nproduit de la vente \ndu poisson pêché\n1,36% du total du \nproduit de la vente \ndu poisson pêché\nPêche artisanale\nPêche artisanale\n6% du total du \nproduit de la vente \ndu poisson pêché.\n1,70% du total du \nproduit de la vente \ndu poisson pêché."
+                }
+              ],
+              "text": "18\nCas particulier des marins pêcheurs :\nLa cotisation au titre du régime général est assise sur les recettes brutes du bateau \nde pêche. Les taux de cotisation appliqués sont fixés comme suit :\nLa cotisation au titre du régime AMO est assise sur les recettes brutes du bateau de \npêche. Les taux de cotisation appliqués sont fixés comme suit :\n Accident de travail\nLa prime d’assurance souscrite pour les cas d’accident de travail se calcule comme \ntel :\nTaux techniques* X La masse salariale annuelle de l’entreprise\n*Le taux technique varie généralement de 0,9% à 7,5% en fonction des risques engagées lors \nde l’activité professionnelle.\nCette obligation réglementaire permet au salarié, lorsque le caractère professionnel \nde l’accident est reconnu, de bénéficier d’une prise en charge des prestations en \nnature, d’une indemnité journalière et le cas échéant d’une rente. \nCes trois éléments sont définis comme suit : \n݉ Les prestations en nature : comprennent les frais médicaux et pharmaceutiques \nainsi que les frais d’appareillage et de prothèse, L’assistance d’une tierce personne \npour les besoins de la vie courante, Les frais funéraires en cas de décès. \n݉ Les Indemnités journalières (IJ) : L’indemnité journalière est égale aux deux tiers de \nla rémunération quotidienne à compter du premier jour suivant la date d’accident \nou de la révélation de la maladie professionnelle. \n݉ L’Indemnité pour Incapacité Physique Permanente (IPP) : elle correspond à un\ncapital en cas d’IPP inférieure à 10%, ou à une rente viagère en cas d’IPP supérieure \nou égale à 10%. \nChalutiers\nChalutiers\n4,65% du total du \nproduit de la vente \ndu poisson pêché\n1,36% du total du \nproduit de la vente \ndu poisson pêché\nPêche artisanale\nPêche artisanale\n6% du total du \nproduit de la vente \ndu poisson pêché.\n1,70% du total du \nproduit de la vente \ndu poisson pêché.",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_016",
+      "title": "Assurance responsabilité civile",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_016_sub_01",
+          "title": "Assurance responsabilité civile",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0016",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "insurance",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Assurance responsabilité civile"
+              ],
+              "page_start": 24,
+              "page_end": 24,
+              "source_spans": [
+                {
+                  "page": 24,
+                  "text": "19\n Assurance responsabilité civile (Incendies, explosions, \nécroulement...)\nLorsque le contrat d’assurance souscrit, il doit prévoir une franchise pour la garantie \nresponsabilité civile décennale, le montant de cette franchise est déterminé, par \nouvrage, selon l’un des modes ci-après \na) En pourcentage au montant des dommages. Ce pourcentage fixé au contrat \nne peut excéder 7% ; \nb) Sous forme d’un montant forfaitaire fixé au contrat qui ne peut dépasser :\nCinquante mille (50.000) dirhams, lorsque le montant des travaux de construction \nest inférieur à cing cents millions (500.000.000) de dirhams ;\nCent mille (100.000) dirhams, lorsque le montant des travaux de construction est \nsupérieur ou égal à cinq cents millions (500.000.000) de dirhams.\nc) Le maximum entre les deux montants déterminés par application des modes \na) et b) ci-dessus.\nSource : Loi n° 17-99 portant code des assurances Maroc"
+                }
+              ],
+              "text": "19\n Assurance responsabilité civile (Incendies, explosions, \nécroulement...)\nLorsque le contrat d’assurance souscrit, il doit prévoir une franchise pour la garantie \nresponsabilité civile décennale, le montant de cette franchise est déterminé, par \nouvrage, selon l’un des modes ci-après \na) En pourcentage au montant des dommages. Ce pourcentage fixé au contrat \nne peut excéder 7% ; \nb) Sous forme d’un montant forfaitaire fixé au contrat qui ne peut dépasser :\nCinquante mille (50.000) dirhams, lorsque le montant des travaux de construction \nest inférieur à cing cents millions (500.000.000) de dirhams ;\nCent mille (100.000) dirhams, lorsque le montant des travaux de construction est \nsupérieur ou égal à cinq cents millions (500.000.000) de dirhams.\nc) Le maximum entre les deux montants déterminés par application des modes \na) et b) ci-dessus.\nSource : Loi n° 17-99 portant code des assurances Maroc",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_017",
+      "title": "Énergie et électricité",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_017_sub_01",
+          "title": "Énergie et électricité",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0017",
+              "content_type": "table",
+              "semantic_tags": [
+                "electricity_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Énergie et électricité"
+              ],
+              "page_start": 25,
+              "page_end": 29,
+              "source_spans": [
+                {
+                  "page": 25,
+                  "text": "ÉNERGIE, AEP ET ASSAINISSEMENT"
+                },
+                {
+                  "page": 26,
+                  "text": "21\nENERGIE, AEP ET ASSAINISSEMENT\n Produits énergétiques (Prix au mois d’aout 2024)\nLes prix du gaz butane conditionné se présentent comme suit :\nLes prix d’achat du Charbon via marché international se présentent comme suit :\n3 333.33 Dhs/T\n1250 Dhs/TC\n40 Dhs\n20 Dhs 10 Dhs\n1 Tonne\n1 Tonne\n12 Kg\n6 Kg 3 Kg\nDiesel \n≈ 12,56/l Coût (MAD)\nFuel destiné à la\nproduction énergétique \n≈ 5 200/t Coût (MAD)\nGaz naturel compressé \nEn cours de prospection\nPropane\n≈ 11,76 à 13,23/ kg Coût (MAD)\nOxygène médical \n120/m3 Coût (MAD)\nEssence \n≈ 14,65/l Coût (MAD)\nFuel Industriel \n≈ 4 600/t Coût (MAD)\nOxygène industriel\n80/m3 Coût (MAD)\nCO2\n130/kg Coût (MAD)"
+                },
+                {
+                  "page": 27,
+                  "text": "22\nUsage Tranches de \nconsommation\nRedevance de \nconsommation\nen DH/kWh/mois\nEclairage patenté\n0 - 150 kWh 1,5636 \n>150kWh 1,7877 \nForce motrice\n(Ascenseurs/\nPiscines...)\n 0 - 100 kWh 1,4046 \n101 - 500 kWh 1,5264 \n>500kWh 1,7375 \nRedevances fixes \nBasse Tension\nNombre\nde fils\nAmpérage du \nCompteur En DH/mois\nHors TFZ\n2 Fils\n5A-10A 23,48 \n15A-25A 38,41 \n30A-50A 47,89 \n60A-120A 47,89 \n4 Fils\n5A-10A 51,82 \n15A-25A 77,74 \n30A-50A 106,76 \n60A-120A 155,47 \nLes prix d’achat du gaz naturel via l’ONHYM, arrivé en centrale se présentent \ncomme suit :\nSource 1 : www.mem.gov.ma \nSource 2 : www.finances.gov.ma\nSource 3 : www.onhym.com\n Electricité (Amendis)\n430 Dhs/MWh"
+                },
+                {
+                  "page": 28,
+                  "text": "23\nTarifs\nMoyenne \ntension\nHORS TFZ TFZ\nRedevance de \nconsommation \nen\nDH/kWh/mois\nRedevance\nde puissance en \nDH/kVa/an\nRedevance de \nconsommation\nen\nDH/kWh/mois\nRedevance de \npuissance en \nDH/kVa/an\nHeures\nPointes 1,30486\n522,31 \n1,19860\n531,47 Heures\nPleines 0,98314 0,90862\nHeures \nCreuses 0,76504 0,72005\nTranches de \nconsommation \nmensuelle\nPrix du KWh\nTarif basse \ntension \nProfessionnel\nClients force\nmotrice,\nindustriels et\nagricoles\n0 à 100 kWh 1,3639\n101 à 500 kWh 1,4663\n> à 500 kWh 1,6758\nClients patentés\n0 à 150 kWh 1,5146\n> à 150 kWh 1,7090\nSource : Amendis\n Electricité (ONEE -Branche électricité)\nEclairage Public : le prix du kWh est fixé à 1,3558 DH\nEclairage Administratif : le prix du kWh est fixé à 1,6452 DH"
+                },
+                {
+                  "page": 29,
+                  "text": "24\nPrix\nTarif\nGénéral (MT)\nEst constitué \nd’une prime fixe \npour la facturation \nde la puissance \nsouscrite et un \nprix de kWh par \nposte horaire\nPrime fixe par KVA et par An 512,62\nRedevance de\nconsommation\npar kWh\net par mois\nHeures de pointe 1,4157\nHeures pleines 1,0101\nHeures creuses 0,7398\nOptions\ntarifaires\nPrime \nfixe\nkW/An\nPrix par kWh\nHeures de \npointes\nHeures \nnormales\nHiver Eté Hiver Eté\nTarif vert\nLe tarif vert est \ndestiné aux clients \nparticuliers ou \nsociétés exerçant \nune activité agricole \nreconnue par une \nattestation délivrée \npar les services \ncompétents du \nMinistère de \nl’Agriculture\nTrès Longue\nUtilisation\n>5500h\n2 844,18 0,6874 0,6457 0,6228 0,5984\nMoyenne\nUtilisation\n(2500-5500 h)\n1 279,88 1,3548 0,7724 1,0657 0,6755\nCourte\nUtilisation\n< 2500 h\n568,84 2,0220 0,8988 1,4646 0,7474\nSource : ONEE -Branche électricité-"
+                }
+              ],
+              "text": "ÉNERGIE, AEP ET ASSAINISSEMENT\n\n21\nENERGIE, AEP ET ASSAINISSEMENT\n Produits énergétiques (Prix au mois d’aout 2024)\nLes prix du gaz butane conditionné se présentent comme suit :\nLes prix d’achat du Charbon via marché international se présentent comme suit :\n3 333.33 Dhs/T\n1250 Dhs/TC\n40 Dhs\n20 Dhs 10 Dhs\n1 Tonne\n1 Tonne\n12 Kg\n6 Kg 3 Kg\nDiesel \n≈ 12,56/l Coût (MAD)\nFuel destiné à la\nproduction énergétique \n≈ 5 200/t Coût (MAD)\nGaz naturel compressé \nEn cours de prospection\nPropane\n≈ 11,76 à 13,23/ kg Coût (MAD)\nOxygène médical \n120/m3 Coût (MAD)\nEssence \n≈ 14,65/l Coût (MAD)\nFuel Industriel \n≈ 4 600/t Coût (MAD)\nOxygène industriel\n80/m3 Coût (MAD)\nCO2\n130/kg Coût (MAD)\n\n22\nUsage Tranches de \nconsommation\nRedevance de \nconsommation\nen DH/kWh/mois\nEclairage patenté\n0 - 150 kWh 1,5636 \n>150kWh 1,7877 \nForce motrice\n(Ascenseurs/\nPiscines...)\n 0 - 100 kWh 1,4046 \n101 - 500 kWh 1,5264 \n>500kWh 1,7375 \nRedevances fixes \nBasse Tension\nNombre\nde fils\nAmpérage du \nCompteur En DH/mois\nHors TFZ\n2 Fils\n5A-10A 23,48 \n15A-25A 38,41 \n30A-50A 47,89 \n60A-120A 47,89 \n4 Fils\n5A-10A 51,82 \n15A-25A 77,74 \n30A-50A 106,76 \n60A-120A 155,47 \nLes prix d’achat du gaz naturel via l’ONHYM, arrivé en centrale se présentent \ncomme suit :\nSource 1 : www.mem.gov.ma \nSource 2 : www.finances.gov.ma\nSource 3 : www.onhym.com\n Electricité (Amendis)\n430 Dhs/MWh\n\n23\nTarifs\nMoyenne \ntension\nHORS TFZ TFZ\nRedevance de \nconsommation \nen\nDH/kWh/mois\nRedevance\nde puissance en \nDH/kVa/an\nRedevance de \nconsommation\nen\nDH/kWh/mois\nRedevance de \npuissance en \nDH/kVa/an\nHeures\nPointes 1,30486\n522,31 \n1,19860\n531,47 Heures\nPleines 0,98314 0,90862\nHeures \nCreuses 0,76504 0,72005\nTranches de \nconsommation \nmensuelle\nPrix du KWh\nTarif basse \ntension \nProfessionnel\nClients force\nmotrice,\nindustriels et\nagricoles\n0 à 100 kWh 1,3639\n101 à 500 kWh 1,4663\n> à 500 kWh 1,6758\nClients patentés\n0 à 150 kWh 1,5146\n> à 150 kWh 1,7090\nSource : Amendis\n Electricité (ONEE -Branche électricité)\nEclairage Public : le prix du kWh est fixé à 1,3558 DH\nEclairage Administratif : le prix du kWh est fixé à 1,6452 DH\n\n24\nPrix\nTarif\nGénéral (MT)\nEst constitué \nd’une prime fixe \npour la facturation \nde la puissance \nsouscrite et un \nprix de kWh par \nposte horaire\nPrime fixe par KVA et par An 512,62\nRedevance de\nconsommation\npar kWh\net par mois\nHeures de pointe 1,4157\nHeures pleines 1,0101\nHeures creuses 0,7398\nOptions\ntarifaires\nPrime \nfixe\nkW/An\nPrix par kWh\nHeures de \npointes\nHeures \nnormales\nHiver Eté Hiver Eté\nTarif vert\nLe tarif vert est \ndestiné aux clients \nparticuliers ou \nsociétés exerçant \nune activité agricole \nreconnue par une \nattestation délivrée \npar les services \ncompétents du \nMinistère de \nl’Agriculture\nTrès Longue\nUtilisation\n>5500h\n2 844,18 0,6874 0,6457 0,6228 0,5984\nMoyenne\nUtilisation\n(2500-5500 h)\n1 279,88 1,3548 0,7724 1,0657 0,6755\nCourte\nUtilisation\n< 2500 h\n568,84 2,0220 0,8988 1,4646 0,7474\nSource : ONEE -Branche électricité-",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2024
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_018",
+      "title": "Eau potable",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_018_sub_01",
+          "title": "Eau potable",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0018",
+              "content_type": "table",
+              "semantic_tags": [
+                "production_costs",
+                "water_cost"
+              ],
+              "heading_path": [
+                "Eau potable"
+              ],
+              "page_start": 30,
+              "page_end": 31,
+              "source_spans": [
+                {
+                  "page": 30,
+                  "text": "25\n Eau (Amendis)\nMode de \nfacturation\nConsommation \nmensuelle Tranches\nRedevance de \nconsommation\nen DH/m3/mois\nRedevance \nfixe en DH /\nClient /mois\nFacturation \nprogressive ≤ 12m3 Tranche 1 0 - 12 m3 6,99 \n10,55\nFacturation \nsélective > 12m3\nTranche 3 13 à 20 m3 10,55 \nTranche 4 > 21 m3 11,94 \nSource : Amendis\nUsage Industriel\n6,22 Redevance de consommation en DH/m3/mois\n10,55 Redevance fixe en DH/Client/mois\nUsage Préférentiel (Bains publics et bornes fontaines)\n6,52 Redevance de consommation en DH/m3/mois\n10,55 Redevance fixe en DH/Client/mois\nUsage Hôtels \n10,30 Redevance de consommation en DH/m3/mois\n10,55 Redevance fixe en DH/Client/mois\nUsage Hôtels, Industriels, Préférentiel\nUsage Professionnel et commercial"
+                },
+                {
+                  "page": 31,
+                  "text": "26\n Eau (ONEE -Branche électricité)\nLocalités\nRedevance fixe \nmensuelle\nen (DH HT)\nPréférentiel \n(Bains publics \net bornes \nfontaines)\nIndustriel Hôtels\nPetits centres\ngérés par l’ONEE 10 7,52 6,98 6,98\nChefchaouen 10 2,92 4,61 4,61\nAl Hoceima 10 6,49 6,05 6,05\nUsage \nHôtels, Industriels, \nPréférentiel\n(Bains publics\net bornes fontaines)\nUsage\nRedevance de \nconsommation\nen DH/m3/mois\nRedevance fixe\n en DH/Client/mois\nIndustriel 3,16 21,09 \nHôtels 3,16 21,09 \nPréférentiel \n(Bains publics \net bornes \nfontaines)\n3,16 21,09 \nSource : Amendis\n Assainissement\nUsage Industriel\n3,16 Redevance de consommation en DH/m3/mois\n21,09 Redevance fixe en DH/Client/mois\nUsage Préférentiel (Bains publics et bornes fontaines)\n3,16 Redevance de consommation en DH/m3/mois\n21,09 Redevance fixe en DH/Client/mois\nUsage Hôtels \n3,16 Redevance de consommation en DH/m3/mois\n21,09 Redevance fixe en DH/Client/mois\nUsage Hôtels, Industriels, Préférentiel (Bains publics et bornes fontaines)\nUsage Professionnel et commercial"
+                }
+              ],
+              "text": "25\n Eau (Amendis)\nMode de \nfacturation\nConsommation \nmensuelle Tranches\nRedevance de \nconsommation\nen DH/m3/mois\nRedevance \nfixe en DH /\nClient /mois\nFacturation \nprogressive ≤ 12m3 Tranche 1 0 - 12 m3 6,99 \n10,55\nFacturation \nsélective > 12m3\nTranche 3 13 à 20 m3 10,55 \nTranche 4 > 21 m3 11,94 \nSource : Amendis\nUsage Industriel\n6,22 Redevance de consommation en DH/m3/mois\n10,55 Redevance fixe en DH/Client/mois\nUsage Préférentiel (Bains publics et bornes fontaines)\n6,52 Redevance de consommation en DH/m3/mois\n10,55 Redevance fixe en DH/Client/mois\nUsage Hôtels \n10,30 Redevance de consommation en DH/m3/mois\n10,55 Redevance fixe en DH/Client/mois\nUsage Hôtels, Industriels, Préférentiel\nUsage Professionnel et commercial\n\n26\n Eau (ONEE -Branche électricité)\nLocalités\nRedevance fixe \nmensuelle\nen (DH HT)\nPréférentiel \n(Bains publics \net bornes \nfontaines)\nIndustriel Hôtels\nPetits centres\ngérés par l’ONEE 10 7,52 6,98 6,98\nChefchaouen 10 2,92 4,61 4,61\nAl Hoceima 10 6,49 6,05 6,05\nUsage \nHôtels, Industriels, \nPréférentiel\n(Bains publics\net bornes fontaines)\nUsage\nRedevance de \nconsommation\nen DH/m3/mois\nRedevance fixe\n en DH/Client/mois\nIndustriel 3,16 21,09 \nHôtels 3,16 21,09 \nPréférentiel \n(Bains publics \net bornes \nfontaines)\n3,16 21,09 \nSource : Amendis\n Assainissement\nUsage Industriel\n3,16 Redevance de consommation en DH/m3/mois\n21,09 Redevance fixe en DH/Client/mois\nUsage Préférentiel (Bains publics et bornes fontaines)\n3,16 Redevance de consommation en DH/m3/mois\n21,09 Redevance fixe en DH/Client/mois\nUsage Hôtels \n3,16 Redevance de consommation en DH/m3/mois\n21,09 Redevance fixe en DH/Client/mois\nUsage Hôtels, Industriels, Préférentiel (Bains publics et bornes fontaines)\nUsage Professionnel et commercial",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_019",
+      "title": "Transports — introduction",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_019_sub_01",
+          "title": "Transports — introduction",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0019",
+              "content_type": "narrative",
+              "semantic_tags": [
+                "production_costs",
+                "transport_cost"
+              ],
+              "heading_path": [
+                "Transports — introduction"
+              ],
+              "page_start": 32,
+              "page_end": 32,
+              "source_spans": [
+                {
+                  "page": 32,
+                  "text": "TRANSPORTS"
+                }
+              ],
+              "text": "TRANSPORTS",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_020",
+      "title": "Transport public et du personnel",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_020_sub_01",
+          "title": "Transport public et du personnel",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0020",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "production_costs",
+                "transport_cost"
+              ],
+              "heading_path": [
+                "Transport public et du personnel"
+              ],
+              "page_start": 33,
+              "page_end": 33,
+              "source_spans": [
+                {
+                  "page": 33,
+                  "text": "28\nTRANSPORTS\n Transport public et du personnel\n - Coût du transport public \n݉ Tarif du Ticket simple pour les lignes urbaines est de 4 dhs ;\n݉ Tarif de la Carte Ikhlas (Abonnement) (Jusqu’à 17% de réduction sur le tarif du \nticket) : Le prix de la carte est de 25 dh, avec une recharge minimum de 20 dh.\n Transports routiers\nLe coût du transport routier est entièrement libéralisé et dépend de plusieurs \nfacteurs, notamment le prix des carburants.\nLa structure du coût global annuel du transport de marchandise par route se \nrépartit à concurrence de 52 % en charges fixes, 39 % en charges variables et 9 % \nen frais de structure. \nA partir de là, le coût moyen de référence pour le transporteur a été estimé à 1,07 \nDH par tonne et par kilomètre. Mais il varie, selon le type de véhicules et le tonnage, \npassant de 2,71 DH /t/km pour les camions bennes de 5,5 t à 0,44 DH/t km pour les \nsemi-remorques citernes de 38 t. \nLe prix moyen au kilomètre a pu être fixé à 7,29 DH en moyenne, variant entre 5,12 DH \npour les 5,5 t et 10,07 DH pour les bennes de 38 t et plus, avec dans cette fourchette, \nune quinzaine de prix selon les catégories.\n - Coût moyen (Transport de personnel par trajet (Minibus de 20 places)\nSource : ALSA \nTrajets Coût (Dhs)\nCentre-ville – Zone industrielle Mghogha 65 - 75\nCentre-ville – TFZ/Zone industrielle Gzenaya 90 - 120\nCentre-ville – Zone Melloussa 120 - 130\nCentre-ville - TAC 140 - 160\nSource : Fédération des transporteurs \nSource : Fédération des transporteurs"
+                }
+              ],
+              "text": "28\nTRANSPORTS\n Transport public et du personnel\n - Coût du transport public \n݉ Tarif du Ticket simple pour les lignes urbaines est de 4 dhs ;\n݉ Tarif de la Carte Ikhlas (Abonnement) (Jusqu’à 17% de réduction sur le tarif du \nticket) : Le prix de la carte est de 25 dh, avec une recharge minimum de 20 dh.\n Transports routiers\nLe coût du transport routier est entièrement libéralisé et dépend de plusieurs \nfacteurs, notamment le prix des carburants.\nLa structure du coût global annuel du transport de marchandise par route se \nrépartit à concurrence de 52 % en charges fixes, 39 % en charges variables et 9 % \nen frais de structure. \nA partir de là, le coût moyen de référence pour le transporteur a été estimé à 1,07 \nDH par tonne et par kilomètre. Mais il varie, selon le type de véhicules et le tonnage, \npassant de 2,71 DH /t/km pour les camions bennes de 5,5 t à 0,44 DH/t km pour les \nsemi-remorques citernes de 38 t. \nLe prix moyen au kilomètre a pu être fixé à 7,29 DH en moyenne, variant entre 5,12 DH \npour les 5,5 t et 10,07 DH pour les bennes de 38 t et plus, avec dans cette fourchette, \nune quinzaine de prix selon les catégories.\n - Coût moyen (Transport de personnel par trajet (Minibus de 20 places)\nSource : ALSA \nTrajets Coût (Dhs)\nCentre-ville – Zone industrielle Mghogha 65 - 75\nCentre-ville – TFZ/Zone industrielle Gzenaya 90 - 120\nCentre-ville – Zone Melloussa 120 - 130\nCentre-ville - TAC 140 - 160\nSource : Fédération des transporteurs \nSource : Fédération des transporteurs",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_021",
+      "title": "Transport ferroviaire",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_021_sub_01",
+          "title": "Transport ferroviaire",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0021",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "production_costs",
+                "transport_cost"
+              ],
+              "heading_path": [
+                "Transport ferroviaire"
+              ],
+              "page_start": 34,
+              "page_end": 34,
+              "source_spans": [
+                {
+                  "page": 34,
+                  "text": "29\n Transport ferroviaire\nLe prix du transport ferroviaire est calculé selon la formule suivante :\nPU =(BP+TVA) *D + (Df+TVA)\nPU : Prix Unitaire\nBP : Barème qui dépend de la nature du produit.\nD : Distance en Kms\nDF : Droit fixe (13.4 Dhs)\nLes barèmes pour les transports de marchandises en petite vitesse par wagon \ncomplet varient de 0,28 DH à 0,42 DH la tonne. Ces prix sont à majorer d’un droit \nfixe et de la TVA.\nLe coût du transport ferroviaire dépend de la nature de la marchandise et des délais \nde livraison. Ainsi, l’ONCF (Office National des Chemins de Fer) a fixé 4 barèmes de \nprix (HT) à la tonne kilométrique suivant le mode de transport adopté :\nSource : ONCF\n0,42 DH/T/Km\n0,30 DH/T/Km\n0,38 DH/T/Km\n0,28 DH/T/Km\nTransport accéléré express pour \nles matières périssables\nTransport normal\nTransport normal accéléré\nTransport petite vitesse"
+                }
+              ],
+              "text": "29\n Transport ferroviaire\nLe prix du transport ferroviaire est calculé selon la formule suivante :\nPU =(BP+TVA) *D + (Df+TVA)\nPU : Prix Unitaire\nBP : Barème qui dépend de la nature du produit.\nD : Distance en Kms\nDF : Droit fixe (13.4 Dhs)\nLes barèmes pour les transports de marchandises en petite vitesse par wagon \ncomplet varient de 0,28 DH à 0,42 DH la tonne. Ces prix sont à majorer d’un droit \nfixe et de la TVA.\nLe coût du transport ferroviaire dépend de la nature de la marchandise et des délais \nde livraison. Ainsi, l’ONCF (Office National des Chemins de Fer) a fixé 4 barèmes de \nprix (HT) à la tonne kilométrique suivant le mode de transport adopté :\nSource : ONCF\n0,42 DH/T/Km\n0,30 DH/T/Km\n0,38 DH/T/Km\n0,28 DH/T/Km\nTransport accéléré express pour \nles matières périssables\nTransport normal\nTransport normal accéléré\nTransport petite vitesse",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_022",
+      "title": "Transport maritime et Tanger Med",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_022_sub_01",
+          "title": "Transport maritime et Tanger Med",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0022",
+              "content_type": "table",
+              "semantic_tags": [
+                "production_costs",
+                "transport_cost"
+              ],
+              "heading_path": [
+                "Transport maritime et Tanger Med"
+              ],
+              "page_start": 35,
+              "page_end": 37,
+              "source_spans": [
+                {
+                  "page": 35,
+                  "text": "30\n Transport maritime\nManutention (Transbordement des cargaisons à bord des navires)\nTrafic Unité\nTarifs 2024\nManutention (Sortie \ndirecte) Manutention Terre\nCéréales (Blé Tendre, \nOrge, Riz...etc.) T 4,14 € 2,64 €\nUrée (Engrais azotés) T 5,30 € NA\nSulfate d’ammonium T 5,04 € NA\nVerres en caisses T 13,84 € NA\nArgile en Vrac T 8,90 € 4,35 €\nCiments en sacs T 8,90 € 4,35 €\nNoyaux et grignons \nd’olive T 8,90 € 4,35 €\nPneus déchiquetés T 8,90 € 4,35 €\nMarchandises en \nbigs bags T 11,30 € 4,35 €\nMarchandises \npalettisées et Autres T 11,30 € 4,35 €\nBiomasse T 13,01 € 4,66 €\nFerraille T 9,02 € 4,66 €\nBois M3 8,29 € 3,73 €\nBobines < 10 T T 5,14 € 3,69 + location \nmatériel 90 €/Heure\nBobines > 10 T T 9,70 € 11,71 + Location \nmatériel 90 €/Heure\nColis lourds]10T;40T] T 61,83 + 172 €/Shift 28,61 + 172 €/Shift\nColis lourds > 40 T T 73,02 + 273 €/Shift 39,81 + 273 €/Shift\nConteneurs Vides\nou Pleins Mouvement 124,34 €/Mouvement 23,43 €/Mouvement\nPâles à l’export U 2 156,67 € 2 068,93 €\nSource : Marsa Maroc/ Tarifs 2024 _Port de Tanger Med"
+                },
+                {
+                  "page": 36,
+                  "text": "31\nLes prix sont établis à la tonne sauf exception nommément désignées quant aux \nunités de mesure :\n- Mouvements pour les Conteneurs, \n- Pâles à l’unité, \n- Volume (m3) pour le bois.\nTarifs de location d’une Remorque Tanger-Algeciras :\nLe prix moyen de location d’une remorque isolée ou un ensemble routier varie entre \n7 000 et 8 000 Dhs la traversée.\nSource : Transporteurs routiers\nDroits de port sur Marchandises (Port Tanger-Med) :\nLes prix sont établis à la tonne sauf exception nommément désignées quant aux \nunités de mesure : \n- EVP pour les Conteneurs, correspond à 1 conteneur de 20 pieds de long (environ \n6,096 mètres), 8 pieds de large (2,438 m) et 9.5 pieds de haut (environ 2,7 m)\n- Volume (droit au m3) pour le bois\n- Unité pour les pâles\nLes marchandises dangereuses se verront facturer les droits de port sur \nmarchandises majorés de 50%.\nTrafic\nTarifs en euros 2024\nImport Export\nColis lourds 1,56 1,56\nBobines de tôle 1,56 1,56\nMarchandises en Bigs Bags 0,84 0,84\nMarchandises palettisées et Autres 0,84 0,84\nBois 0,62 0,62\nFerraille 1,56 1,56\nPâles 29,65 29,65\nVerres en caisses 0,84 0,84\nCéréales 0,72 0,72\nAutres marchandises en vrac 1,04 1,04\nConteneurs pleins ou vides 37,88 37,88\nSource : Marsa Maroc/ Tarifs 2024 _Port de Tanger Med"
+                },
+                {
+                  "page": 37,
+                  "text": "32\nTarifs de transport maritime depuis le Port Tanger-Med\nPort\nd’export Port de destination\nTarif moyen\nConteneur 20 \npieds\nTarif moyen\nConteneur 40 \npieds\nTanger-Med\nShanghai (Chine) $1 200-$ 2 500 $1 800-$ 3 500\nDubai (EAU) $1 000-$ 2 000 $1 500-$ 3 000\nLos Angeles (USA) $1 500-$ 3 000 $2 000-$ 4 000\nRotterdam (Pays-Bas) $1 300-$ 2 700 $2 000-$ 4 000\nAntwerp (Anvers, Belgique) $1 300-$ 2 700 $2 000-$ 4 000\nIzmir (Turquie) $1 100-$ 2 300 $1 600-$ 3 200\nSource : Association des transitaires Port de Tanger Med\n Transport aérien\nEn général, le fret aérien devient rentable lorsque vous envoyez une parcelle \nsupérieure à 100/150 Kgs (tout dépend de la destination et des disponibilités). Pour \ntoutes les parcelles inférieures à ce poids, il sera généralement plus compétitif de \npasser directement par une «courrier company» comme DHL, Fedex, TNT...\nLe transporteur considère la valeur la plus importante entre le poids brut et le poids \nvolumétrique (basé sur les dimensions) pour évaluer le coût de l’opération :\n- Le poids brut est le poids sur la balance ;\n- Le poids volumétrique est le volume en mètre cube (Un rapport poids volume de \n1 pour 6 (1 tonne pour 6 m3))\nLa formule : ((L x l x H, en centimètres) / 6 000) \nLe poids facturable de votre expédition sera toujours basé sur le plus grand des \ndeux : le poids réel ou le poids volumétrique."
+                }
+              ],
+              "text": "30\n Transport maritime\nManutention (Transbordement des cargaisons à bord des navires)\nTrafic Unité\nTarifs 2024\nManutention (Sortie \ndirecte) Manutention Terre\nCéréales (Blé Tendre, \nOrge, Riz...etc.) T 4,14 € 2,64 €\nUrée (Engrais azotés) T 5,30 € NA\nSulfate d’ammonium T 5,04 € NA\nVerres en caisses T 13,84 € NA\nArgile en Vrac T 8,90 € 4,35 €\nCiments en sacs T 8,90 € 4,35 €\nNoyaux et grignons \nd’olive T 8,90 € 4,35 €\nPneus déchiquetés T 8,90 € 4,35 €\nMarchandises en \nbigs bags T 11,30 € 4,35 €\nMarchandises \npalettisées et Autres T 11,30 € 4,35 €\nBiomasse T 13,01 € 4,66 €\nFerraille T 9,02 € 4,66 €\nBois M3 8,29 € 3,73 €\nBobines < 10 T T 5,14 € 3,69 + location \nmatériel 90 €/Heure\nBobines > 10 T T 9,70 € 11,71 + Location \nmatériel 90 €/Heure\nColis lourds]10T;40T] T 61,83 + 172 €/Shift 28,61 + 172 €/Shift\nColis lourds > 40 T T 73,02 + 273 €/Shift 39,81 + 273 €/Shift\nConteneurs Vides\nou Pleins Mouvement 124,34 €/Mouvement 23,43 €/Mouvement\nPâles à l’export U 2 156,67 € 2 068,93 €\nSource : Marsa Maroc/ Tarifs 2024 _Port de Tanger Med\n\n31\nLes prix sont établis à la tonne sauf exception nommément désignées quant aux \nunités de mesure :\n- Mouvements pour les Conteneurs, \n- Pâles à l’unité, \n- Volume (m3) pour le bois.\nTarifs de location d’une Remorque Tanger-Algeciras :\nLe prix moyen de location d’une remorque isolée ou un ensemble routier varie entre \n7 000 et 8 000 Dhs la traversée.\nSource : Transporteurs routiers\nDroits de port sur Marchandises (Port Tanger-Med) :\nLes prix sont établis à la tonne sauf exception nommément désignées quant aux \nunités de mesure : \n- EVP pour les Conteneurs, correspond à 1 conteneur de 20 pieds de long (environ \n6,096 mètres), 8 pieds de large (2,438 m) et 9.5 pieds de haut (environ 2,7 m)\n- Volume (droit au m3) pour le bois\n- Unité pour les pâles\nLes marchandises dangereuses se verront facturer les droits de port sur \nmarchandises majorés de 50%.\nTrafic\nTarifs en euros 2024\nImport Export\nColis lourds 1,56 1,56\nBobines de tôle 1,56 1,56\nMarchandises en Bigs Bags 0,84 0,84\nMarchandises palettisées et Autres 0,84 0,84\nBois 0,62 0,62\nFerraille 1,56 1,56\nPâles 29,65 29,65\nVerres en caisses 0,84 0,84\nCéréales 0,72 0,72\nAutres marchandises en vrac 1,04 1,04\nConteneurs pleins ou vides 37,88 37,88\nSource : Marsa Maroc/ Tarifs 2024 _Port de Tanger Med\n\n32\nTarifs de transport maritime depuis le Port Tanger-Med\nPort\nd’export Port de destination\nTarif moyen\nConteneur 20 \npieds\nTarif moyen\nConteneur 40 \npieds\nTanger-Med\nShanghai (Chine) $1 200-$ 2 500 $1 800-$ 3 500\nDubai (EAU) $1 000-$ 2 000 $1 500-$ 3 000\nLos Angeles (USA) $1 500-$ 3 000 $2 000-$ 4 000\nRotterdam (Pays-Bas) $1 300-$ 2 700 $2 000-$ 4 000\nAntwerp (Anvers, Belgique) $1 300-$ 2 700 $2 000-$ 4 000\nIzmir (Turquie) $1 100-$ 2 300 $1 600-$ 3 200\nSource : Association des transitaires Port de Tanger Med\n Transport aérien\nEn général, le fret aérien devient rentable lorsque vous envoyez une parcelle \nsupérieure à 100/150 Kgs (tout dépend de la destination et des disponibilités). Pour \ntoutes les parcelles inférieures à ce poids, il sera généralement plus compétitif de \npasser directement par une «courrier company» comme DHL, Fedex, TNT...\nLe transporteur considère la valeur la plus importante entre le poids brut et le poids \nvolumétrique (basé sur les dimensions) pour évaluer le coût de l’opération :\n- Le poids brut est le poids sur la balance ;\n- Le poids volumétrique est le volume en mètre cube (Un rapport poids volume de \n1 pour 6 (1 tonne pour 6 m3))\nLa formule : ((L x l x H, en centimètres) / 6 000) \nLe poids facturable de votre expédition sera toujours basé sur le plus grand des \ndeux : le poids réel ou le poids volumétrique.",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2024
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_023",
+      "title": "Transport aérien",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_023_sub_01",
+          "title": "Transport aérien",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0023",
+              "content_type": "table",
+              "semantic_tags": [
+                "production_costs",
+                "transport_cost"
+              ],
+              "heading_path": [
+                "Transport aérien"
+              ],
+              "page_start": 38,
+              "page_end": 39,
+              "source_spans": [
+                {
+                  "page": 38,
+                  "text": "33\nSource : Fedex\nTanger-Orly (France) Tanger-Los Angeles (USA)\nPoids Prix Kg \nen Dhs Frais annexes Poids Prix Kg \nen Dhs Frais annexes\n0-45 Kg 17\nPrise en charge: \nForfait 270 MAD \njusqu’à 50 kgs \n+1.10 MAD/kg \nsupplémentaire\nSurcharge \ncarburante :\n5 MAD/KG\n0-45 Kg 41\nPrise en charge:\nForfait 270 MAD \njusqu’à 50 kgs \n+1.10 MAD/kg \nsupplémentaire\nSurcharge \ncarburant :\n7 MAD/KG\n46-100 Kg 15 46-100 Kg 37\n101-250 Kg 13 101-250 Kg 32\n251-500 Kg 12 251-500 Kg 32\n501-1 000 Kg 11,5 501-1 000 Kg 31\n>1 001 5 >1 001 30\nEurope centrale\nAmérique du Nord/ Pays du Golf\n100-46\nDhs\n200-105\nDhs\n36-33\nDhs\n87-80\nDhs\n46-36\nDhs\n105-87\nDhs\n33-30\nDhs\n80-75\nDhs\n0-45 Kg"
+                },
+                {
+                  "page": 39,
+                  "text": "34\nTanger-Shanghai (Chine)\nPoids \nPrix Kg en Dhs\nFrais annexes\n0-45 Kg\n41\nPrise en charge :\nForfait 270 MAD jusqu’à 50 kgs \n+1.10 MAD/kg supplémentaire\nSurcharge carburante :\n7 MAD/KG\n46-100 Kg\n37\n101-250 Kg\n31\n251-500 Kg\n30\n501-1 000 Kg\n29\n>1 001\n28\nSource : RAM (Général Cargo)"
+                }
+              ],
+              "text": "33\nSource : Fedex\nTanger-Orly (France) Tanger-Los Angeles (USA)\nPoids Prix Kg \nen Dhs Frais annexes Poids Prix Kg \nen Dhs Frais annexes\n0-45 Kg 17\nPrise en charge: \nForfait 270 MAD \njusqu’à 50 kgs \n+1.10 MAD/kg \nsupplémentaire\nSurcharge \ncarburante :\n5 MAD/KG\n0-45 Kg 41\nPrise en charge:\nForfait 270 MAD \njusqu’à 50 kgs \n+1.10 MAD/kg \nsupplémentaire\nSurcharge \ncarburant :\n7 MAD/KG\n46-100 Kg 15 46-100 Kg 37\n101-250 Kg 13 101-250 Kg 32\n251-500 Kg 12 251-500 Kg 32\n501-1 000 Kg 11,5 501-1 000 Kg 31\n>1 001 5 >1 001 30\nEurope centrale\nAmérique du Nord/ Pays du Golf\n100-46\nDhs\n200-105\nDhs\n36-33\nDhs\n87-80\nDhs\n46-36\nDhs\n105-87\nDhs\n33-30\nDhs\n80-75\nDhs\n0-45 Kg\n\n34\nTanger-Shanghai (Chine)\nPoids \nPrix Kg en Dhs\nFrais annexes\n0-45 Kg\n41\nPrise en charge :\nForfait 270 MAD jusqu’à 50 kgs \n+1.10 MAD/kg supplémentaire\nSurcharge carburante :\n7 MAD/KG\n46-100 Kg\n37\n101-250 Kg\n31\n251-500 Kg\n30\n501-1 000 Kg\n29\n>1 001\n28\nSource : RAM (Général Cargo)",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_024",
+      "title": "Tarifs des droits d’importation",
+      "topic_id": "customs_cost",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_024_sub_01",
+          "title": "Tarifs des droits d’importation",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0024",
+              "content_type": "table",
+              "semantic_tags": [
+                "customs_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Tarifs des droits d’importation"
+              ],
+              "page_start": 40,
+              "page_end": 43,
+              "source_spans": [
+                {
+                  "page": 40,
+                  "text": "TARIFS DES DROITS D’IMPORTATION"
+                },
+                {
+                  "page": 41,
+                  "text": "36\nNature du \nproduits\nDésignation du produit\nDroit \nd’importation\nUnité \nProduits\nminéraux\net huiles\nminérales\nPierre ponce ; émeri ; corindon naturel, grenat \nnaturel et autres abrasifs naturels\n2,5 \nKg\nArdoise, même dégrossie ou simplement \ndébitée, par sciage ou autrement\n2,5 \nKg\nMarbres, travertins, écaussines et autres \npierres calcaires de taille ou de construction \n30\nKg\nGranit, porphyre, basalte, grès et autres pierres \nde taille ou de construction\n2,5\nKg\nCailloux, graviers, pierres concassées\n2,5\nKg\nCiments hydrauliques (y compris les ciments \nnon pulvérisés dits « clinkers »)\n2,5-17,5\nKg\nMinerais de fer et leurs concentrés, y compris \nles pyrites de fer grillées (cendres de pyrites).\n2,5\nKg\nMinerais de manganèse et leurs concentrés, \ny compris les minerais de manganèse \nferrugineux \n2,5\nKg\nHouilles ; briquettes, boulets et combustibles \nsolides similaires obtenus à partir de la houille.\n2,5\nKg\nGaz de houille, gaz à l’eau, gaz pauvre et gaz \nsimilaires, à l’exclusion des gaz de pétrole et \nautres hydrocarbures gazeux...\n2,5\nKg\nHuiles de pétrole ou de minéraux bitumineux, \nautres que les huiles brutes \n2,5-30\nKg\nGaz de pétrole et autres hydrocarbures gazeux.\n2,5\nKg\nVaseline \n; \nparaffine, \ncire \nde \npétrole \nmicrocristalline, “Slack wax”, ozokérite, cire de \nlignite, cire de tourbe, autres cires minérales \n2,5\nKg\nRésidus et\ndéchets des\nindustries\nalimentaires;\npréparés\npour\nanimaux\nFarines, poudres et agglomérés sous forme de \npellets, de viandes, d’abats, de poissons ou de \ncrustacés, de mollusques \n2,5-30\nKg\nMatières végétales et déchets végétaux, \nrésidus et sous-produits végétaux, même \nagglomérés sous forme de pellets\n2,5-17,5\nKg\nTARIFS DES DROITS D’IMPORTATION"
+                },
+                {
+                  "page": 42,
+                  "text": "37\nNature du \nproduits\nDésignation du produit\nDroit \nd’importation\nUnité \nProduits\ndes\nindustries\nchimiques \nFluor, chlore, brome et iode.\n2,5-30\nKg\nSoufre sublimé ou précipité ; soufre colloïdal.\n10\nKg\nHydrogène, gaz rares et autres éléments non \nmétalliques.\n2,5-30\nKg\nMétaux alcalins ou alcalino-terreux ; métaux \nde terres rares, scandium et yttrium\n2,5\nKg\nAcides \n2,5-30\nKg\nMétaux précieux à l’état colloïdal \n2,5\nKg\nEléments chimiques radioactifs et isotopes \nradioactifs \n2,5\nKg\nMédicaments constitués par des produits \nmélangés entre eux, préparés à des fins \nthérapeutiques ou prophylactiques\n2,5-30\nKg\nMatières\nplastiques et \nouvrages en \ncaoutchouc\nPolymères de l’éthylène, sous formes primaires.\n2,5-17,5\nKg\nPolymères de propylène ou d’autres oléfines, \nsous formes primaires\n2,5\nKg\nPolymères du styrène, sous formes primaires\n2,5-17,5\nKg\nPolymères du chlorure de vinyle ou d’autres \noléfines halogénées, sous formes primaires.\n2,5-17,5\nKg\nRésines de pétrole, résines de coumarone-\nindène, poly terpènes, polysulfures, \n2,5\nKg\nDéchets, rognures et débris de matières \nplastiques\n2,5-17,5\nKg\nTubes et tuyaux et leurs accessoires (joints, \ncoudes, raccords, par Exemple)\n2,5-17,5\nKg\nRevêtements de sols en matières plastiques, \nmême auto-adhésifs, en rouleaux ou sous \nformes de carreaux ou de dalles\n10-17,5\nKg\nBaignoires, douches, éviers, lavabos, bidets, \ncuvettes d’aisance et leurs sièges et couvercles, \nréservoirs de chasse \n17,5\nKg\nGraisses\net huiles\nanimales\nou\nvégétales\nGraisses de porc (y compris le saindoux) et \ngraisses de volailles\n2,5-17,5\nKg\nGraisses des animaux des espèces bovine, \novine ou caprine\n10\nKg\nStéarine solaire, huile de saindoux, oléo-\nstéarine, oléomargarine et huile de suif\n10\nKg\nGraisses et huiles et leurs fractions, de poissons \n10-50\nKg\nHuile d’olive et ses fractions, même raffinées, \n40\nKg"
+                },
+                {
+                  "page": 43,
+                  "text": "38\nNature du \nproduits\nDésignation du produit\nDroit \nd’importation Unité\nBois,\ncharbon\nde bois \nBois de chauffage en rondins, bûches, ramilles, fagots \nou sous formes similaires ; bois en plaquettes ou en \nparticules \n2,5\nKg\nCharbon de bois (y compris le charbon de coques ou \nde noix), même aggloméré\n2,5\nKg\nBois bruts, même écorcés, désaubiérés ou équarris.\n2,5\nM3\nPates\nde bois\net carton\nPâte de bois\n2,5\nKg\nPapiers ou cartons à recycler (déchets et rebuts).\n2,5\nKg\nMatières\ntextiles \nCocons de vers à soie propres au dévidage/Soie grège\nTissus de soie ou de déchets de soie.\n2,5\nKg\nLaines, non cardées ni peignées\nLaine, poils fins ou grossiers, cardés ou peignés\n2,5\nKg\nCoton, non cardé ni peigné.\nDéchets de coton/ Fils à coudre de coton\n2,5\nKg\nVelours et peluches tissés et tissus de chenille\n2,5-30\nKg\nTissus bouclés du genre éponge\n2,5-10\nKg\nTulles, tulles-bobinots et tissus à mailles nouées ; \ndentelles en pièces\n2,5\nKg\nTissus enduits de colle ou de matières amylacées\n10\nKg\nProduits et articles textiles pour usages techniques\n2,5\nKg\nMétaux\ncommuns \nFontes brutes et fontes spiegel en gueuses, saumons \nou autres formes primaires\n2,5\nKg\nFerro-alliages\n2,5\nKg\nProduits ferreux obtenus par réduction directe des \nminerais de fer et autres produits ferreux spongieux\n2,5\nKg\nFer et aciers non alliés en lingots ou autres formes \nprimaires\n2,5\nKg\nProduits laminés plats, en fer ou en aciers non alliés\n10-17,5\nKg\nMattes de cuivre ; cuivre de cément\n2,5\nKg\nMattes de nickel\n2,5\nKg\nAluminium sous forme brute\nBarres et profilés en aluminium\nTôles et bandes en aluminium\nTubes et tuyaux en aluminium\n2,5-30\nKg\nSource : https://www.douane.gov.ma\nPour plus d’information relative aux procédures d’importation et d’exportation, il est préférable de \nconsulter le Guichet Unique National des procédures du Commerce Extérieur: https://www.portnet.ma"
+                }
+              ],
+              "text": "TARIFS DES DROITS D’IMPORTATION\n\n36\nNature du \nproduits\nDésignation du produit\nDroit \nd’importation\nUnité \nProduits\nminéraux\net huiles\nminérales\nPierre ponce ; émeri ; corindon naturel, grenat \nnaturel et autres abrasifs naturels\n2,5 \nKg\nArdoise, même dégrossie ou simplement \ndébitée, par sciage ou autrement\n2,5 \nKg\nMarbres, travertins, écaussines et autres \npierres calcaires de taille ou de construction \n30\nKg\nGranit, porphyre, basalte, grès et autres pierres \nde taille ou de construction\n2,5\nKg\nCailloux, graviers, pierres concassées\n2,5\nKg\nCiments hydrauliques (y compris les ciments \nnon pulvérisés dits « clinkers »)\n2,5-17,5\nKg\nMinerais de fer et leurs concentrés, y compris \nles pyrites de fer grillées (cendres de pyrites).\n2,5\nKg\nMinerais de manganèse et leurs concentrés, \ny compris les minerais de manganèse \nferrugineux \n2,5\nKg\nHouilles ; briquettes, boulets et combustibles \nsolides similaires obtenus à partir de la houille.\n2,5\nKg\nGaz de houille, gaz à l’eau, gaz pauvre et gaz \nsimilaires, à l’exclusion des gaz de pétrole et \nautres hydrocarbures gazeux...\n2,5\nKg\nHuiles de pétrole ou de minéraux bitumineux, \nautres que les huiles brutes \n2,5-30\nKg\nGaz de pétrole et autres hydrocarbures gazeux.\n2,5\nKg\nVaseline \n; \nparaffine, \ncire \nde \npétrole \nmicrocristalline, “Slack wax”, ozokérite, cire de \nlignite, cire de tourbe, autres cires minérales \n2,5\nKg\nRésidus et\ndéchets des\nindustries\nalimentaires;\npréparés\npour\nanimaux\nFarines, poudres et agglomérés sous forme de \npellets, de viandes, d’abats, de poissons ou de \ncrustacés, de mollusques \n2,5-30\nKg\nMatières végétales et déchets végétaux, \nrésidus et sous-produits végétaux, même \nagglomérés sous forme de pellets\n2,5-17,5\nKg\nTARIFS DES DROITS D’IMPORTATION\n\n37\nNature du \nproduits\nDésignation du produit\nDroit \nd’importation\nUnité \nProduits\ndes\nindustries\nchimiques \nFluor, chlore, brome et iode.\n2,5-30\nKg\nSoufre sublimé ou précipité ; soufre colloïdal.\n10\nKg\nHydrogène, gaz rares et autres éléments non \nmétalliques.\n2,5-30\nKg\nMétaux alcalins ou alcalino-terreux ; métaux \nde terres rares, scandium et yttrium\n2,5\nKg\nAcides \n2,5-30\nKg\nMétaux précieux à l’état colloïdal \n2,5\nKg\nEléments chimiques radioactifs et isotopes \nradioactifs \n2,5\nKg\nMédicaments constitués par des produits \nmélangés entre eux, préparés à des fins \nthérapeutiques ou prophylactiques\n2,5-30\nKg\nMatières\nplastiques et \nouvrages en \ncaoutchouc\nPolymères de l’éthylène, sous formes primaires.\n2,5-17,5\nKg\nPolymères de propylène ou d’autres oléfines, \nsous formes primaires\n2,5\nKg\nPolymères du styrène, sous formes primaires\n2,5-17,5\nKg\nPolymères du chlorure de vinyle ou d’autres \noléfines halogénées, sous formes primaires.\n2,5-17,5\nKg\nRésines de pétrole, résines de coumarone-\nindène, poly terpènes, polysulfures, \n2,5\nKg\nDéchets, rognures et débris de matières \nplastiques\n2,5-17,5\nKg\nTubes et tuyaux et leurs accessoires (joints, \ncoudes, raccords, par Exemple)\n2,5-17,5\nKg\nRevêtements de sols en matières plastiques, \nmême auto-adhésifs, en rouleaux ou sous \nformes de carreaux ou de dalles\n10-17,5\nKg\nBaignoires, douches, éviers, lavabos, bidets, \ncuvettes d’aisance et leurs sièges et couvercles, \nréservoirs de chasse \n17,5\nKg\nGraisses\net huiles\nanimales\nou\nvégétales\nGraisses de porc (y compris le saindoux) et \ngraisses de volailles\n2,5-17,5\nKg\nGraisses des animaux des espèces bovine, \novine ou caprine\n10\nKg\nStéarine solaire, huile de saindoux, oléo-\nstéarine, oléomargarine et huile de suif\n10\nKg\nGraisses et huiles et leurs fractions, de poissons \n10-50\nKg\nHuile d’olive et ses fractions, même raffinées, \n40\nKg\n\n38\nNature du \nproduits\nDésignation du produit\nDroit \nd’importation Unité\nBois,\ncharbon\nde bois \nBois de chauffage en rondins, bûches, ramilles, fagots \nou sous formes similaires ; bois en plaquettes ou en \nparticules \n2,5\nKg\nCharbon de bois (y compris le charbon de coques ou \nde noix), même aggloméré\n2,5\nKg\nBois bruts, même écorcés, désaubiérés ou équarris.\n2,5\nM3\nPates\nde bois\net carton\nPâte de bois\n2,5\nKg\nPapiers ou cartons à recycler (déchets et rebuts).\n2,5\nKg\nMatières\ntextiles \nCocons de vers à soie propres au dévidage/Soie grège\nTissus de soie ou de déchets de soie.\n2,5\nKg\nLaines, non cardées ni peignées\nLaine, poils fins ou grossiers, cardés ou peignés\n2,5\nKg\nCoton, non cardé ni peigné.\nDéchets de coton/ Fils à coudre de coton\n2,5\nKg\nVelours et peluches tissés et tissus de chenille\n2,5-30\nKg\nTissus bouclés du genre éponge\n2,5-10\nKg\nTulles, tulles-bobinots et tissus à mailles nouées ; \ndentelles en pièces\n2,5\nKg\nTissus enduits de colle ou de matières amylacées\n10\nKg\nProduits et articles textiles pour usages techniques\n2,5\nKg\nMétaux\ncommuns \nFontes brutes et fontes spiegel en gueuses, saumons \nou autres formes primaires\n2,5\nKg\nFerro-alliages\n2,5\nKg\nProduits ferreux obtenus par réduction directe des \nminerais de fer et autres produits ferreux spongieux\n2,5\nKg\nFer et aciers non alliés en lingots ou autres formes \nprimaires\n2,5\nKg\nProduits laminés plats, en fer ou en aciers non alliés\n10-17,5\nKg\nMattes de cuivre ; cuivre de cément\n2,5\nKg\nMattes de nickel\n2,5\nKg\nAluminium sous forme brute\nBarres et profilés en aluminium\nTôles et bandes en aluminium\nTubes et tuyaux en aluminium\n2,5-30\nKg\nSource : https://www.douane.gov.ma\nPour plus d’information relative aux procédures d’importation et d’exportation, il est préférable de \nconsulter le Guichet Unique National des procédures du Commerce Extérieur: https://www.portnet.ma",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_025",
+      "title": "Coûts de la certification",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_025_sub_01",
+          "title": "Coûts de la certification",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0025",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "certification_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Coûts de la certification"
+              ],
+              "page_start": 44,
+              "page_end": 45,
+              "source_spans": [
+                {
+                  "page": 44,
+                  "text": "COÛTS DE LA CERTIFICATION"
+                },
+                {
+                  "page": 45,
+                  "text": "40\nLes coûts de la certification varient en fonction de plusieurs facteurs. Ceux-ci \nincluent la taille de l’entreprise, la complexité de ses processus, le nombre de sites \nà certifier, et l’état actuel de son système de management environnemental. \nLes principaux coûts associés à la certification sont les suivants :\n ݉\nCoût de la formation des employés sur les exigences de la certification;\n ݉\nCoût des consultants en fonction de leur expérience, de la durée de l’intervention, \net de la complexité du projet. \n ݉\nCoût de l’audit de certification par un organisme de certification accrédité. \n ݉\nCoûts internes : Cela inclut la mise en place de nouvelles procédures, et l’achat de \nnouveaux équipements ou logiciels nécessaires pour se conformer à la norme. \nCOÛTS DE LA CERTIFICATION"
+                }
+              ],
+              "text": "COÛTS DE LA CERTIFICATION\n\n40\nLes coûts de la certification varient en fonction de plusieurs facteurs. Ceux-ci \nincluent la taille de l’entreprise, la complexité de ses processus, le nombre de sites \nà certifier, et l’état actuel de son système de management environnemental. \nLes principaux coûts associés à la certification sont les suivants :\n ݉\nCoût de la formation des employés sur les exigences de la certification;\n ݉\nCoût des consultants en fonction de leur expérience, de la durée de l’intervention, \net de la complexité du projet. \n ݉\nCoût de l’audit de certification par un organisme de certification accrédité. \n ݉\nCoûts internes : Cela inclut la mise en place de nouvelles procédures, et l’achat de \nnouveaux équipements ou logiciels nécessaires pour se conformer à la norme. \nCOÛTS DE LA CERTIFICATION",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_026",
+      "title": "Télécommunications et fibre optique",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_026_sub_01",
+          "title": "Télécommunications et fibre optique",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0026",
+              "content_type": "table",
+              "semantic_tags": [
+                "production_costs",
+                "telecom_cost"
+              ],
+              "heading_path": [
+                "Télécommunications et fibre optique"
+              ],
+              "page_start": 46,
+              "page_end": 47,
+              "source_spans": [
+                {
+                  "page": 46,
+                  "text": "TÉLÉCOMMUNICATIONS"
+                },
+                {
+                  "page": 47,
+                  "text": "42\nFibre optique\nMensualité\nDhs\nIAM\n• Fibre Optique 100Mbps\n• Appels Illimités vers les fixes nationaux\n• 10H vers Mobile National et International \n500\n• Fibre Optique 200Mbps\n• Appels Illimités vers les fixes nationaux \n• 10H vers Mobile National et International\n1 000\n• MT Box Fibre 100 Méga\n• Appels Illimités vers les fixes nationaux \n• 20H vers Mobile National et International\nBouquet MT TV Premium\n700\n• MT Box Fibre 200 Méga\n• Appels Illimités vers les fixes nationaux \n• 20H vers Mobile National et International\nBouquet MT TV Premium\n1 200\nOrange\n• Fibre Optique 50Mbps\n• Appels Illimités vers les fixes nationaux\n• 3H vers Mobile National et International \n349\n• Fibre Optique 100Mbps\n• Appels Illimités vers les fixes nationaux\n• 4H vers Mobile National et International \n449\n• Fibre Optique 200Mbps\n• Appels Illimités vers les fixes nationaux \n• 6H vers Mobile National et International\n649\nINWI\n• Fibre Optique 20Mbps\n• Appels Illimités vers les fixes nationaux \n• 2H vers Mobile National \n249\n• Fibre Optique 50Mbps\n• Appels Illimités vers les fixes nationaux \n• 3H vers Mobile National \n349\n• Fibre Optique 100Mbps\n• Appels Illimités vers les fixes nationaux \n• 4H vers Mobile National et International\n449\nPour plus d’information, il est préférable de consulter les liens des trois opérateurs présents au \nMaroc : Maroc télécom : www.iam.ma Orange : www.Orange.ma Inwi : www.Inwi.ma\nTÉLÉCOMMUNICATIONS"
+                }
+              ],
+              "text": "TÉLÉCOMMUNICATIONS\n\n42\nFibre optique\nMensualité\nDhs\nIAM\n• Fibre Optique 100Mbps\n• Appels Illimités vers les fixes nationaux\n• 10H vers Mobile National et International \n500\n• Fibre Optique 200Mbps\n• Appels Illimités vers les fixes nationaux \n• 10H vers Mobile National et International\n1 000\n• MT Box Fibre 100 Méga\n• Appels Illimités vers les fixes nationaux \n• 20H vers Mobile National et International\nBouquet MT TV Premium\n700\n• MT Box Fibre 200 Méga\n• Appels Illimités vers les fixes nationaux \n• 20H vers Mobile National et International\nBouquet MT TV Premium\n1 200\nOrange\n• Fibre Optique 50Mbps\n• Appels Illimités vers les fixes nationaux\n• 3H vers Mobile National et International \n349\n• Fibre Optique 100Mbps\n• Appels Illimités vers les fixes nationaux\n• 4H vers Mobile National et International \n449\n• Fibre Optique 200Mbps\n• Appels Illimités vers les fixes nationaux \n• 6H vers Mobile National et International\n649\nINWI\n• Fibre Optique 20Mbps\n• Appels Illimités vers les fixes nationaux \n• 2H vers Mobile National \n249\n• Fibre Optique 50Mbps\n• Appels Illimités vers les fixes nationaux \n• 3H vers Mobile National \n349\n• Fibre Optique 100Mbps\n• Appels Illimités vers les fixes nationaux \n• 4H vers Mobile National et International\n449\nPour plus d’information, il est préférable de consulter les liens des trois opérateurs présents au \nMaroc : Maroc télécom : www.iam.ma Orange : www.Orange.ma Inwi : www.Inwi.ma\nTÉLÉCOMMUNICATIONS",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_027",
+      "title": "Crédits et dépôts bancaires",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_027_sub_01",
+          "title": "Crédits et dépôts bancaires",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0027",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "banking_cost",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Crédits et dépôts bancaires"
+              ],
+              "page_start": 48,
+              "page_end": 48,
+              "source_spans": [
+                {
+                  "page": 48,
+                  "text": "43\nCrédits - dépôts bancaires\nTaux débiteurs (%)\nT3-2023\nT4-2023\nT1-2024\nGlobal\n5,36\n5,36\n5,40\nPar objet économique\nComptes débiteurs et crédits de \ntrésorerie\n5,32\n5,37\n5,33\nCrédits à l’équipement\n5,11\n4,91\n5,13\nCrédits immobiliers\n5,21\n5,14\n5,05\nCrédits à la consommation\n7,25\n7,18\n7,22\nPar secteur institutionnel\nCrédits aux particuliers\n5,94\n5,94\n6,09\nCrédits aux entreprises \n5,32\n5,30\n5,26\nPar taille d’entreprise \nTPME\n5,75\n5,70\n5,85\nGrandes entreprises (GE)\n5,05\n5,25\n5,16\nSource : Données de l’enquête trimestrielle de Bank Al-Maghrib auprès du système bancaire"
+                }
+              ],
+              "text": "43\nCrédits - dépôts bancaires\nTaux débiteurs (%)\nT3-2023\nT4-2023\nT1-2024\nGlobal\n5,36\n5,36\n5,40\nPar objet économique\nComptes débiteurs et crédits de \ntrésorerie\n5,32\n5,37\n5,33\nCrédits à l’équipement\n5,11\n4,91\n5,13\nCrédits immobiliers\n5,21\n5,14\n5,05\nCrédits à la consommation\n7,25\n7,18\n7,22\nPar secteur institutionnel\nCrédits aux particuliers\n5,94\n5,94\n6,09\nCrédits aux entreprises \n5,32\n5,30\n5,26\nPar taille d’entreprise \nTPME\n5,75\n5,70\n5,85\nGrandes entreprises (GE)\n5,05\n5,25\n5,16\nSource : Données de l’enquête trimestrielle de Bank Al-Maghrib auprès du système bancaire",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2023,
+                  2024
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_028",
+      "title": "Formation — introduction",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_028_sub_01",
+          "title": "Formation — introduction",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0028",
+              "content_type": "narrative",
+              "semantic_tags": [
+                "production_costs",
+                "training_cost"
+              ],
+              "heading_path": [
+                "Formation — introduction"
+              ],
+              "page_start": 49,
+              "page_end": 49,
+              "source_spans": [
+                {
+                  "page": 49,
+                  "text": "FORMATION"
+                }
+              ],
+              "text": "FORMATION",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_029",
+      "title": "Formation continue",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_029_sub_01",
+          "title": "Formation continue",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0029",
+              "content_type": "service",
+              "semantic_tags": [
+                "production_costs",
+                "training_cost"
+              ],
+              "heading_path": [
+                "Formation continue"
+              ],
+              "page_start": 50,
+              "page_end": 50,
+              "source_spans": [
+                {
+                  "page": 50,
+                  "text": "45\nPour mieux accompagner les entreprises dans la formation continue de leurs \nsalariés, les pouvoirs publics ont mis en place un système de financement de la \nformation en cours d’emploi, matérialisé par : \n L’établissement d’un Contrat Spécial de Formation « CSF » : \nentre l’OFPPT et l’entreprise bénéficiaire :\nOpérateurs de formation :\n- L’entreprise elle - même si elle dispose des compétences nécessaires\n- Des professionnels de la formation\n1- Demandes de Financement Individuelles émanant des entreprises privées \npayant moins de 3 Millions de DHS de Taxe de Formation Professionnelle (TFP) \npar an :\nPlafonds de remboursement :\nFORMATION\nTFP déclarée\nPlafond de remboursement\n0 DHS < TFP Déclarée\n< 20 000 DHS\n10 fois la TFP Déclarée \n(15 fois la TFP Déclarée s’il y a une Etude de \nDiagnostic Stratégique approuvée)\n20 000 DHS ≤ TFP Déclarée \n< 200 000 DHS\n200 000 DHS (300 000 DHS s’il y a une Etude de \nDiagnostic Stratégique approuvée)\n200 \n000 \nDHS \n≤ \nTFP \nDéclarée < 3 MDHS\nTFP Déclarée"
+                }
+              ],
+              "text": "45\nPour mieux accompagner les entreprises dans la formation continue de leurs \nsalariés, les pouvoirs publics ont mis en place un système de financement de la \nformation en cours d’emploi, matérialisé par : \n L’établissement d’un Contrat Spécial de Formation « CSF » : \nentre l’OFPPT et l’entreprise bénéficiaire :\nOpérateurs de formation :\n- L’entreprise elle - même si elle dispose des compétences nécessaires\n- Des professionnels de la formation\n1- Demandes de Financement Individuelles émanant des entreprises privées \npayant moins de 3 Millions de DHS de Taxe de Formation Professionnelle (TFP) \npar an :\nPlafonds de remboursement :\nFORMATION\nTFP déclarée\nPlafond de remboursement\n0 DHS < TFP Déclarée\n< 20 000 DHS\n10 fois la TFP Déclarée \n(15 fois la TFP Déclarée s’il y a une Etude de \nDiagnostic Stratégique approuvée)\n20 000 DHS ≤ TFP Déclarée \n< 200 000 DHS\n200 000 DHS (300 000 DHS s’il y a une Etude de \nDiagnostic Stratégique approuvée)\n200 \n000 \nDHS \n≤ \nTFP \nDéclarée < 3 MDHS\nTFP Déclarée",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_030",
+      "title": "Plans de formations groupées et grands établissements",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_030_sub_01",
+          "title": "Plans de formations groupées et grands établissements",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0030",
+              "content_type": "table",
+              "semantic_tags": [
+                "production_costs",
+                "training_cost"
+              ],
+              "heading_path": [
+                "Plans de formations groupées et grands établissements"
+              ],
+              "page_start": 51,
+              "page_end": 52,
+              "source_spans": [
+                {
+                  "page": 51,
+                  "text": "46\n2- Plans de Formations groupées :\nPlafonds de remboursement :\nCes plafonds sont fixés dans le cadre du budget alloué à l’association d’entreprises \nou à la zone industrielle par le comité central des contrats spéciaux de formation \n(CCCSF).\nTaux de remboursement :\nType de l’action\nTaux de remboursement\nFormation Planifiée réalisée\npar un organisme externe\n70% du coût retenu\nFormation non Planifiée réalisée \npar un organisme externe\n40% du coût retenu\nAlphabétisation fonctionnelle\n80% du coût retenu \n(Plafonné à 3000 DH par personne\nalphabétisée)\nFormation planifiée réalisée\nen interne\n70% du coût retenu à raison\nde 800 DH/ jour\nFormation non planifiée réalisée \nen interne\n40% du coût retenu à raison\nde 800 DH/ jour\nFormation de longue durée\n70% du coût retenu qui plafonné\nà 50.000 DH par personne par formation\nType de l’action\nTaux de remboursement\nAction du Plan\nde Formation\nGroupée\n-90% à l’organisme ayant réalisé l’action de formation \ngroupée \n-10% à l’Association des actions réalisées"
+                },
+                {
+                  "page": 52,
+                  "text": "47\n3- Demandes de Financement émanant des Grands Etablissements:\nLes Grands Etablissements sont :\n ݉\nLes Etablissements publics et les sociétés d’Etat (voir liste jointe en annexe 1)\n ݉\nLes Banques, les sociétés d’assurances et les organismes financiers dont l’effectif \ndes salariés est supérieur ou égale à 100 personnes.\n ݉\nLes entreprises privées dont la contribution au titre de «l’Année TFP» est supérieure \nà 3 millions de DHS\n ݉\nPlafonds de Remboursement\n ݉\nLe plafond de remboursement ne peut dépasser 50 % de la TFP Déclarée.\nTaux de remboursement :\nSource : Manuel de procédures relatif aux contrats pour la réalisation des programmes spéciaux \nde formation (CSF)\nType de l’action\nTaux de remboursement\nAction d’Ingénierie de Formation\nréalisée en externe\n40 % du Coût Retenu\nPour \nles \nEtablissements \nPublics \net \nSociétés d’Etat, les frais de déplacement \nsont remboursés dans un plafond de 200 \nDHS/personne/jour\nActions de Formations Planifiées\nActions de Formations\nNon Planifiées\nActions d’Alphabétisation\nFonctionnelle\n80 % du Coût Retenu qui est plafonné\nà 3 000 DHS par personne alphabétisée\nFormation Longue Durée\n40% du coût retenu qui est plafonné\nà 50 000 DHS par personne et par formation"
+                }
+              ],
+              "text": "46\n2- Plans de Formations groupées :\nPlafonds de remboursement :\nCes plafonds sont fixés dans le cadre du budget alloué à l’association d’entreprises \nou à la zone industrielle par le comité central des contrats spéciaux de formation \n(CCCSF).\nTaux de remboursement :\nType de l’action\nTaux de remboursement\nFormation Planifiée réalisée\npar un organisme externe\n70% du coût retenu\nFormation non Planifiée réalisée \npar un organisme externe\n40% du coût retenu\nAlphabétisation fonctionnelle\n80% du coût retenu \n(Plafonné à 3000 DH par personne\nalphabétisée)\nFormation planifiée réalisée\nen interne\n70% du coût retenu à raison\nde 800 DH/ jour\nFormation non planifiée réalisée \nen interne\n40% du coût retenu à raison\nde 800 DH/ jour\nFormation de longue durée\n70% du coût retenu qui plafonné\nà 50.000 DH par personne par formation\nType de l’action\nTaux de remboursement\nAction du Plan\nde Formation\nGroupée\n-90% à l’organisme ayant réalisé l’action de formation \ngroupée \n-10% à l’Association des actions réalisées\n\n47\n3- Demandes de Financement émanant des Grands Etablissements:\nLes Grands Etablissements sont :\n ݉\nLes Etablissements publics et les sociétés d’Etat (voir liste jointe en annexe 1)\n ݉\nLes Banques, les sociétés d’assurances et les organismes financiers dont l’effectif \ndes salariés est supérieur ou égale à 100 personnes.\n ݉\nLes entreprises privées dont la contribution au titre de «l’Année TFP» est supérieure \nà 3 millions de DHS\n ݉\nPlafonds de Remboursement\n ݉\nLe plafond de remboursement ne peut dépasser 50 % de la TFP Déclarée.\nTaux de remboursement :\nSource : Manuel de procédures relatif aux contrats pour la réalisation des programmes spéciaux \nde formation (CSF)\nType de l’action\nTaux de remboursement\nAction d’Ingénierie de Formation\nréalisée en externe\n40 % du Coût Retenu\nPour \nles \nEtablissements \nPublics \net \nSociétés d’Etat, les frais de déplacement \nsont remboursés dans un plafond de 200 \nDHS/personne/jour\nActions de Formations Planifiées\nActions de Formations\nNon Planifiées\nActions d’Alphabétisation\nFonctionnelle\n80 % du Coût Retenu qui est plafonné\nà 3 000 DHS par personne alphabétisée\nFormation Longue Durée\n40% du coût retenu qui est plafonné\nà 50 000 DHS par personne et par formation",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_031",
+      "title": "Formation ANAPEC et secteurs émergents",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_031_sub_01",
+          "title": "Formation ANAPEC et secteurs émergents",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0031",
+              "content_type": "service",
+              "semantic_tags": [
+                "business_support",
+                "production_costs",
+                "training_cost"
+              ],
+              "heading_path": [
+                "Formation ANAPEC et secteurs émergents"
+              ],
+              "page_start": 53,
+              "page_end": 54,
+              "source_spans": [
+                {
+                  "page": 53,
+                  "text": "48\n Formation Contractualisée pour l’emploi de l’ANAPEC :\nObjectifs :\nPermettre aux chercheurs d’emploi (à profil peu adapté) d’acquérir les compétences \nrequises pour occuper des emplois identifiés. \nPopulation cible :\nChercheurs d’emploi diplômés inscrits à l’ANAPEC ayant été sélectionnés par une \nentreprise ou une association professionnelle\ndans le cadre d’une action de recrutement.\nDurée et coût de la formation :\n ݉\nFormation plafonnée à 600 heures par participant.\n ݉\nContribution moyenne de l’Etat de 10.000 dh par bénéficiaire.\n ݉\nMontant maximal pouvant atteindre 24.000 dh (entreprises nouvellement créées, \nentreprises lançant un projet d’investissement, ou opérant dans les nouveaux \nmétiers).\nOpérateurs de formation éligibles :\n ݉\nEtablissements publics et privés de formation professionnelle et d’enseignement \nsupérieur.\n ݉\nCabinets de conseil en formation sélectionnés par le comité régional de l’emploi.\nSource : Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des \nCompétences."
+                },
+                {
+                  "page": 54,
+                  "text": "49\n Formation au profit des secteurs émergents de l’ANAPEC \n(Offshoring, aéronautique, automobile, électronique) :\nObjectifs :\n ݉\nRéussir le recrutement des ressources humaines par le développement de leurs \ncompétences\n ݉\nRépondre aux besoins en formation continue des salariés (2ème et 3ème année \naprès embauche).\n ݉\nContribution de l’Etat à la formation adaptation :\n ݉\nDe 22.000 à 66.000 dhs pour le secteur de l’automobile.\n ݉\nDe 20.000 à 60.000 dhs pour les secteurs de l’aéronautique et de l’électronique.\n ݉\nDe 12.000 à 65.000 dhs pour le secteur de l’offshoring.\n ݉\nFormation à l’embauche (1ére année).\n ݉\nFormation continue (2éme et 3ème année après embauche).\nOpérateurs de formation :\n ݉\nEtablissements publics ou privés et cabinets de conseil (y.c étrangers). \nModalités de mise en œuvre :\n ݉\nDémarrage de la formation après dépôt du dossier (au guichet ANAPEC), avant \nsignature de l’ANAPEC et visa du contrôleur d’Etat.\n ݉\nFormation dispensée selon un plan de formation\n ݉\nValidation des acquis conjointe par l’employeur et l’opérateur de formation.\n ݉\nPaiement au plus tard 60 jours après réception du dossier conforme.\nSource 1: Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des \nCompétences\nSource 2 : Ministère de l’Industrie et du Commerce"
+                }
+              ],
+              "text": "48\n Formation Contractualisée pour l’emploi de l’ANAPEC :\nObjectifs :\nPermettre aux chercheurs d’emploi (à profil peu adapté) d’acquérir les compétences \nrequises pour occuper des emplois identifiés. \nPopulation cible :\nChercheurs d’emploi diplômés inscrits à l’ANAPEC ayant été sélectionnés par une \nentreprise ou une association professionnelle\ndans le cadre d’une action de recrutement.\nDurée et coût de la formation :\n ݉\nFormation plafonnée à 600 heures par participant.\n ݉\nContribution moyenne de l’Etat de 10.000 dh par bénéficiaire.\n ݉\nMontant maximal pouvant atteindre 24.000 dh (entreprises nouvellement créées, \nentreprises lançant un projet d’investissement, ou opérant dans les nouveaux \nmétiers).\nOpérateurs de formation éligibles :\n ݉\nEtablissements publics et privés de formation professionnelle et d’enseignement \nsupérieur.\n ݉\nCabinets de conseil en formation sélectionnés par le comité régional de l’emploi.\nSource : Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des \nCompétences.\n\n49\n Formation au profit des secteurs émergents de l’ANAPEC \n(Offshoring, aéronautique, automobile, électronique) :\nObjectifs :\n ݉\nRéussir le recrutement des ressources humaines par le développement de leurs \ncompétences\n ݉\nRépondre aux besoins en formation continue des salariés (2ème et 3ème année \naprès embauche).\n ݉\nContribution de l’Etat à la formation adaptation :\n ݉\nDe 22.000 à 66.000 dhs pour le secteur de l’automobile.\n ݉\nDe 20.000 à 60.000 dhs pour les secteurs de l’aéronautique et de l’électronique.\n ݉\nDe 12.000 à 65.000 dhs pour le secteur de l’offshoring.\n ݉\nFormation à l’embauche (1ére année).\n ݉\nFormation continue (2éme et 3ème année après embauche).\nOpérateurs de formation :\n ݉\nEtablissements publics ou privés et cabinets de conseil (y.c étrangers). \nModalités de mise en œuvre :\n ݉\nDémarrage de la formation après dépôt du dossier (au guichet ANAPEC), avant \nsignature de l’ANAPEC et visa du contrôleur d’Etat.\n ݉\nFormation dispensée selon un plan de formation\n ݉\nValidation des acquis conjointe par l’employeur et l’opérateur de formation.\n ݉\nPaiement au plus tard 60 jours après réception du dossier conforme.\nSource 1: Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des \nCompétences\nSource 2 : Ministère de l’Industrie et du Commerce",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_032",
+      "title": "Comparatif des coûts de production",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_032_sub_01",
+          "title": "Comparatif des coûts de production",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0032",
+              "content_type": "table",
+              "semantic_tags": [
+                "production_costs",
+                "regional_statistics"
+              ],
+              "heading_path": [
+                "Comparatif des coûts de production"
+              ],
+              "page_start": 55,
+              "page_end": 56,
+              "source_spans": [
+                {
+                  "page": 55,
+                  "text": "COMPARATIF DES PRINCIPAUX POSTES DE COÛTS DE PRODUCTION À L’ÉCHELLE NATIONALE ET INTERNATIONALE"
+                },
+                {
+                  "page": 56,
+                  "text": "51\nPrincipaux coûts de production\nTanger\n(Dhs)\nEspagne\n(€)\nChine\n(€)\nRoumanie\n(€)\nConstruction (Unité industrielle / m2)\n3 500-\n4 000\n1 000\n525\n200\nMain\nd’œuvre\nSalaire/\nMois\nSalaire moyen minimum brute\n3 111,39\n1 134\n310\n610\nIngénieur débutant\n8 000-\n9 000 \n3 150\n1 030\n1 300\nCadre moyen \n6 000\n2 200\n900\n1 000\nTechnicien\n3 500-\n4 000 \n1 500\n642\n815\nEnergie\n(Industrie)\nElectricité\nRedevance\nconsommation\n/KWh (HT)\n0,98314\n0,1534\n0,088\n0,1910\nEau\nRedevance\nconsommation\n/m3 (HT)\n6,22\n0,874\n1,33\n1,24\nAssainissement\nRedevance\nconsommation\n/m3 (HT)\n3,16\n0,251\n0,12\n0,65\nCOMPARATIF DES PRINCIPAUX POSTES DE COÛTS \nDE PRODUCTION À L’ÉCHELLE NATIONALE ET \nINTERNATIONALE"
+                }
+              ],
+              "text": "COMPARATIF DES PRINCIPAUX POSTES DE COÛTS DE PRODUCTION À L’ÉCHELLE NATIONALE ET INTERNATIONALE\n\n51\nPrincipaux coûts de production\nTanger\n(Dhs)\nEspagne\n(€)\nChine\n(€)\nRoumanie\n(€)\nConstruction (Unité industrielle / m2)\n3 500-\n4 000\n1 000\n525\n200\nMain\nd’œuvre\nSalaire/\nMois\nSalaire moyen minimum brute\n3 111,39\n1 134\n310\n610\nIngénieur débutant\n8 000-\n9 000 \n3 150\n1 030\n1 300\nCadre moyen \n6 000\n2 200\n900\n1 000\nTechnicien\n3 500-\n4 000 \n1 500\n642\n815\nEnergie\n(Industrie)\nElectricité\nRedevance\nconsommation\n/KWh (HT)\n0,98314\n0,1534\n0,088\n0,1910\nEau\nRedevance\nconsommation\n/m3 (HT)\n6,22\n0,874\n1,33\n1,24\nAssainissement\nRedevance\nconsommation\n/m3 (HT)\n3,16\n0,251\n0,12\n0,65\nCOMPARATIF DES PRINCIPAUX POSTES DE COÛTS \nDE PRODUCTION À L’ÉCHELLE NATIONALE ET \nINTERNATIONALE",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  1910
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_033",
+      "title": "Cadre de vie — enseignement supérieur",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_033_sub_01",
+          "title": "Cadre de vie — enseignement supérieur",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0033",
+              "content_type": "table",
+              "semantic_tags": [
+                "production_costs",
+                "quality_of_life"
+              ],
+              "heading_path": [
+                "Cadre de vie — enseignement supérieur"
+              ],
+              "page_start": 57,
+              "page_end": 58,
+              "source_spans": [
+                {
+                  "page": 57,
+                  "text": "CADRE DE VIE ET USAGE"
+                },
+                {
+                  "page": 58,
+                  "text": "53\nCoûts de l’enseignement supérieur\nUniversité\nInternationale\nde Rabat (UIR)\nSciences et Santé\n31 000 – 125 000 Dhs/an\nIngénierie et architecture \n67 000 – 88 000 Dhs/an\nSciences sociales\n67 000 Dhs/an\nManagement\n70 000 – 100 000 Dhs/an\nMasters\n67 000 – 75 000 Dhs/an\nAl Akhawayn\nUniversity (AUI)\nAdministration des \naffaires\n100 000 Dhs/an\nSciences sociales et \nhumaines\nSciences de l’ingénierie\nCentre de langues\nMaster et (MBA)\n103 000 – 200 000 Dhs\nAutres écoles\nprivées \nà Tanger\nCycle Ingénierie\n30 000 – 40 000 Dhs/an\nCycle licence Commerce \net gestion\n20 000 – 25 000 Dhs/an\nCycle Masters\n33 000 - 45 000 Dhs\nCADRE DE VIE ET USAGE"
+                }
+              ],
+              "text": "CADRE DE VIE ET USAGE\n\n53\nCoûts de l’enseignement supérieur\nUniversité\nInternationale\nde Rabat (UIR)\nSciences et Santé\n31 000 – 125 000 Dhs/an\nIngénierie et architecture \n67 000 – 88 000 Dhs/an\nSciences sociales\n67 000 Dhs/an\nManagement\n70 000 – 100 000 Dhs/an\nMasters\n67 000 – 75 000 Dhs/an\nAl Akhawayn\nUniversity (AUI)\nAdministration des \naffaires\n100 000 Dhs/an\nSciences sociales et \nhumaines\nSciences de l’ingénierie\nCentre de langues\nMaster et (MBA)\n103 000 – 200 000 Dhs\nAutres écoles\nprivées \nà Tanger\nCycle Ingénierie\n30 000 – 40 000 Dhs/an\nCycle licence Commerce \net gestion\n20 000 – 25 000 Dhs/an\nCycle Masters\n33 000 - 45 000 Dhs\nCADRE DE VIE ET USAGE",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_034",
+      "title": "Missions scolaires",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_034_sub_01",
+          "title": "Missions scolaires",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0034",
+              "content_type": "table",
+              "semantic_tags": [
+                "production_costs",
+                "quality_of_life"
+              ],
+              "heading_path": [
+                "Missions scolaires"
+              ],
+              "page_start": 59,
+              "page_end": 59,
+              "source_spans": [
+                {
+                  "page": 59,
+                  "text": "54\nMissions\nLocalisation\nCoût / an ≈\nMission \nfrançaise\nTanger\nDroits d’inscription\n25 000\nPréélémentaire / \nLycée\n42 510 – 63 220\nMission \nespagnole\nTanger\nTétouan\nAl Hoceima\nLarache\n21 000\nMission \naméricaine\nTanger\nDroits d’inscription\n36 000\nMaternelle / Lycée\n84 500 – 118 500\nCoûts de l’enseignement primaire et secondaire\nCoûts moyens à titre indicatif des nuitées d’hôtels\nLe Prix Moyen par Chambre pratiqué par les Etablissements d’hébergement \nTouristique Classés relevant de la ville de Tanger et M’diq.\nVille de Tanger :\nLuxe\n(Catégorie de l’EHTC)\nHôtel 5*\n(Catégorie de l’EHTC)\nHôtel 4*\n(Catégorie de l’EHTC)\nHôtel 2*\n(Catégorie de l’EHTC)\nHôtel 3*\n(Catégorie de l’EHTC)\n2 400 Dhs (Basse saison)\n4 000 Dhs (Haute saison)\n1 200 Dhs (Basse saison)\n2 000 Dhs (Haute saison)\n700 Dhs (Basse saison)\n1 000 Dhs (Haute saison)\n300 Dhs (Basse saison)\n450 Dhs (Haute saison)\n600 Dhs (Basse saison)\n850 Dhs (Haute saison)"
+                }
+              ],
+              "text": "54\nMissions\nLocalisation\nCoût / an ≈\nMission \nfrançaise\nTanger\nDroits d’inscription\n25 000\nPréélémentaire / \nLycée\n42 510 – 63 220\nMission \nespagnole\nTanger\nTétouan\nAl Hoceima\nLarache\n21 000\nMission \naméricaine\nTanger\nDroits d’inscription\n36 000\nMaternelle / Lycée\n84 500 – 118 500\nCoûts de l’enseignement primaire et secondaire\nCoûts moyens à titre indicatif des nuitées d’hôtels\nLe Prix Moyen par Chambre pratiqué par les Etablissements d’hébergement \nTouristique Classés relevant de la ville de Tanger et M’diq.\nVille de Tanger :\nLuxe\n(Catégorie de l’EHTC)\nHôtel 5*\n(Catégorie de l’EHTC)\nHôtel 4*\n(Catégorie de l’EHTC)\nHôtel 2*\n(Catégorie de l’EHTC)\nHôtel 3*\n(Catégorie de l’EHTC)\n2 400 Dhs (Basse saison)\n4 000 Dhs (Haute saison)\n1 200 Dhs (Basse saison)\n2 000 Dhs (Haute saison)\n700 Dhs (Basse saison)\n1 000 Dhs (Haute saison)\n300 Dhs (Basse saison)\n450 Dhs (Haute saison)\n600 Dhs (Basse saison)\n850 Dhs (Haute saison)",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_035",
+      "title": "Location de voitures",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_035_sub_01",
+          "title": "Location de voitures",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0035",
+              "content_type": "cost_information",
+              "semantic_tags": [
+                "production_costs",
+                "quality_of_life",
+                "transport_cost"
+              ],
+              "heading_path": [
+                "Location de voitures"
+              ],
+              "page_start": 60,
+              "page_end": 60,
+              "source_spans": [
+                {
+                  "page": 60,
+                  "text": "55\nCoûts de location de voiture\nVille de M’diq :\nSource : Délégation du Tourisme\nSource : Prix moyen pratiqué par les Agences de Location de voitures\nLuxe\n(Catégorie de l’EHTC)\nHôtel 5*\n(Catégorie de l’EHTC)\nHôtel 4*\n(Catégorie de l’EHTC)\nHôtel 2*\n(Catégorie de l’EHTC)\nHôtel 3*\n(Catégorie de l’EHTC)\n6 500 Dhs (Basse saison)\n11 500 Dhs (Haute saison)\n4 000 Dhs (Basse saison)\n7 000 Dhs (Haute saison)\n1 500 Dhs (Basse saison)\n3 000 Dhs (Haute saison)\n300 Dhs (Basse saison)\n550 Dhs (Haute saison)\n600 Dhs (Basse saison)\n1 300 Dhs (Haute saison)\n400\n(Dhs)/jour\n500\n(Dhs)/jour\n900\n(Dhs)/jour\n1 000\n(Dhs)/jour\n1 200\n(Dhs)/jour\n1 100\n(Dhs)/jour\nPetite\nvoiture\nMoyenne \nvoiture\nGrande\nvoiture\nSUV voiture\nLuxe voiture\nMonospace \nvoiture"
+                }
+              ],
+              "text": "55\nCoûts de location de voiture\nVille de M’diq :\nSource : Délégation du Tourisme\nSource : Prix moyen pratiqué par les Agences de Location de voitures\nLuxe\n(Catégorie de l’EHTC)\nHôtel 5*\n(Catégorie de l’EHTC)\nHôtel 4*\n(Catégorie de l’EHTC)\nHôtel 2*\n(Catégorie de l’EHTC)\nHôtel 3*\n(Catégorie de l’EHTC)\n6 500 Dhs (Basse saison)\n11 500 Dhs (Haute saison)\n4 000 Dhs (Basse saison)\n7 000 Dhs (Haute saison)\n1 500 Dhs (Basse saison)\n3 000 Dhs (Haute saison)\n300 Dhs (Basse saison)\n550 Dhs (Haute saison)\n600 Dhs (Basse saison)\n1 300 Dhs (Haute saison)\n400\n(Dhs)/jour\n500\n(Dhs)/jour\n900\n(Dhs)/jour\n1 000\n(Dhs)/jour\n1 200\n(Dhs)/jour\n1 100\n(Dhs)/jour\nPetite\nvoiture\nMoyenne \nvoiture\nGrande\nvoiture\nSUV voiture\nLuxe voiture\nMonospace \nvoiture",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_036",
+      "title": "Prix immobiliers et capacité hospitalière",
+      "topic_id": "production_costs",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_036_sub_01",
+          "title": "Prix immobiliers et capacité hospitalière",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0036",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "production_costs",
+                "quality_of_life",
+                "regional_statistics"
+              ],
+              "heading_path": [
+                "Prix immobiliers et capacité hospitalière"
+              ],
+              "page_start": 61,
+              "page_end": 61,
+              "source_spans": [
+                {
+                  "page": 61,
+                  "text": "56\nRéférentiel des prix immobiliers moyens\nNombre d’hôpitaux publics et privés et nombre de lits\nSource : Référentiel des prix de la DR des impôts\nVille\nCatégorie\nNombre\nCapacité \nlitière\nTanger\nHôpitaux généraux\n5\n975\nHôpitaux Spécialisés\n6\n522\nCliniques\n29\n1 237\nTétouan\nHôpitaux généraux\n1\n365\nHôpitaux Spécialisés\n2\n116\nCliniques\n7\n406\nAl Hoceima\nHôpitaux généraux\n3\n351\nHôpitaux Spécialisés\n1\n11\nCliniques\n2\n36\nM’diq-Fnideq\nHôpitaux généraux\n3\n115\nLarache\nHôpitaux généraux\n2\n267\nCliniques\n6\n98\nChefchaouen\nHôpitaux généraux\n1\n186\nOuezzane\nHôpitaux généraux\n1\n113\nTotaux\n69\n4 798\nSource : Direction Régionale de la Santé\nAppartement\nVilla\nVente Prix\nmoyen au m2\nTanger\nM’diq-Fnideq\nLarache\nTétouan\nAl Hoceima\n8 000\n6 600\n5 400\n7 500\n5 600\n12 000\n6 000\n-\n10 000\n-\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs"
+                }
+              ],
+              "text": "56\nRéférentiel des prix immobiliers moyens\nNombre d’hôpitaux publics et privés et nombre de lits\nSource : Référentiel des prix de la DR des impôts\nVille\nCatégorie\nNombre\nCapacité \nlitière\nTanger\nHôpitaux généraux\n5\n975\nHôpitaux Spécialisés\n6\n522\nCliniques\n29\n1 237\nTétouan\nHôpitaux généraux\n1\n365\nHôpitaux Spécialisés\n2\n116\nCliniques\n7\n406\nAl Hoceima\nHôpitaux généraux\n3\n351\nHôpitaux Spécialisés\n1\n11\nCliniques\n2\n36\nM’diq-Fnideq\nHôpitaux généraux\n3\n115\nLarache\nHôpitaux généraux\n2\n267\nCliniques\n6\n98\nChefchaouen\nHôpitaux généraux\n1\n186\nOuezzane\nHôpitaux généraux\n1\n113\nTotaux\n69\n4 798\nSource : Direction Régionale de la Santé\nAppartement\nVilla\nVente Prix\nmoyen au m2\nTanger\nM’diq-Fnideq\nLarache\nTétouan\nAl Hoceima\n8 000\n6 600\n5 400\n7 500\n5 600\n12 000\n6 000\n-\n10 000\n-\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs\nDhs",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_037",
+      "title": "Contact du CRI",
+      "topic_id": "contact_information",
+      "subsections": [
+        {
+          "subsection_id": "nv_guide_cout_facteurs_cri_2024_phase3f_sec_037_sub_01",
+          "title": "Contact du CRI",
+          "chunks": [
+            {
+              "chunk_id": "nv_guide_cout_facteurs_cri_2024_phase3f_0037",
+              "content_type": "contact_information",
+              "semantic_tags": [
+                "contact_information",
+                "production_costs"
+              ],
+              "heading_path": [
+                "Contact du CRI"
+              ],
+              "page_start": 63,
+              "page_end": 63,
+              "source_spans": [
+                {
+                  "page": 63,
+                  "text": "CENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TÉTOUAN - AL HOCEIMA\n\nCRI TTA\n\nP : +212 539 34 23 03\nP : +212 539 94 33 14\nE : info@investangier.com\nW : www.investangier.com\n\nAvenue Omar Ibn Al Khattab,\nTanger"
+                }
+              ],
+              "text": "CENTRE RÉGIONAL D’INVESTISSEMENT\nTANGER - TÉTOUAN - AL HOCEIMA\n\nCRI TTA\n\nP : +212 539 34 23 03\nP : +212 539 94 33 14\nE : info@investangier.com\nW : www.investangier.com\n\nAvenue Omar Ibn Al Khattab,\nTanger",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

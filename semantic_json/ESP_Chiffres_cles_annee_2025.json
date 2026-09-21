@@ -1,0 +1,910 @@
+{
+  "schema_version": "2.2",
+  "document_id": "esp_chiffres_cles_annee_2025",
+  "document_family_id": "chiffres_cles_2025",
+  "metadata": {
+    "title": "Cifras clave y estadísticas",
+    "filename": "ESP_Chiffres_cles_annee_2025.json",
+    "language": "es",
+    "document_type": "key_figures",
+    "publisher": "CRI Tanger-Tétouan-Al Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceima",
+    "publication_year": 2025,
+    "reference_period": {
+      "year": 2025,
+      "type": "year",
+      "semester": null,
+      "quarter": null,
+      "label": "2025",
+      "start_date": null,
+      "end_date": null
+    },
+    "topics": [
+      "approved_projects",
+      "business_creation",
+      "business_support",
+      "closing_message",
+      "conciliation",
+      "crui_activity",
+      "energy_investment",
+      "industrial_investment",
+      "investment_amount",
+      "mre_support",
+      "open_innovation",
+      "piafe",
+      "projected_jobs",
+      "regional_investment_overview",
+      "sector_distribution",
+      "sector_investment",
+      "strategic_partnership",
+      "territorial_promotion",
+      "tourism_investment",
+      "tpme_support"
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_01",
+      "title": "Año 2025",
+      "topic_id": "regional_investment_overview",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_01",
+          "title": "Año 2025",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_001",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "regional_investment_overview"
+              ],
+              "heading_path": [
+                "Año 2025"
+              ],
+              "page_start": 1,
+              "page_end": 1,
+              "source_spans": [
+                {
+                  "page": 1,
+                  "text": "Año 2025\nDINÁMICA DE INVERSIÓN\nTánger - Tetuán - Alhucemas\n\n365 días al servicio de la inversión\n\nwww.investangier.com"
+                }
+              ],
+              "text": "Año 2025\nDINÁMICA DE INVERSIÓN\nTánger - Tetuán - Alhucemas\n\n365 días al servicio de la inversión\n\nwww.investangier.com",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2025,
+                "years_mentioned": [
+                  2025
+                ],
+                "reference_period": {
+                  "type": "year",
+                  "year": 2025,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_02",
+      "title": "Creación de empresas (1/2)",
+      "topic_id": "business_creation",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_02",
+          "title": "Creación de empresas (1/2)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_002",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_creation"
+              ],
+              "heading_path": [
+                "Creación de empresas (1/2)"
+              ],
+              "page_start": 2,
+              "page_end": 2,
+              "source_spans": [
+                {
+                  "page": 2,
+                  "text": "Creación de empresas (1/2)\n\n15 286\nNUEVAS EMPRESAS CREADAS EN 2025\n\nCifras hasta el 31/12/2025\n\n2.ª REGIÓN EN TÉRMINO DE CREACIÓN DE EMPRESAS\nCON APROXIMADAMENTE EL 14 % DEL TOTAL NACIONAL\n\nFuente: OMPIC\n\nwww.investangier.com\n02"
+                }
+              ],
+              "text": "Creación de empresas (1/2)\n\n15 286\nNUEVAS EMPRESAS CREADAS EN 2025\n\nCifras hasta el 31/12/2025\n\n2.ª REGIÓN EN TÉRMINO DE CREACIÓN DE EMPRESAS\nCON APROXIMADAMENTE EL 14 % DEL TOTAL NACIONAL\n\nFuente: OMPIC\n\nwww.investangier.com\n02",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2025,
+                "years_mentioned": [
+                  2025
+                ],
+                "reference_period": {
+                  "type": "year",
+                  "year": 2025,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_03",
+      "title": "Creación de empresas (2/2)",
+      "topic_id": "business_creation",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_03",
+          "title": "Creación de empresas (2/2)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_003",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_creation",
+                "sector_distribution"
+              ],
+              "heading_path": [
+                "Creación de empresas (2/2)"
+              ],
+              "page_start": 3,
+              "page_end": 3,
+              "source_spans": [
+                {
+                  "page": 3,
+                  "text": "Creación de empresas (2/2)\n\nDistribución sectorial de las nuevas empresas creadas\n\n15 286 nuevas empresas en 2025\n\nComercio: 44,0%\nServicios diversos: 16,5%\nConstrucción y actividades inmobiliarias: 15,4%\nIndustrias: 8,2%\nTransportes: 6,9%\nHoteles y restaurantes: 4,7%\nOtras actividades: 4,3%\n\nwww.investangier.com\n03"
+                }
+              ],
+              "text": "Creación de empresas (2/2)\n\nDistribución sectorial de las nuevas empresas creadas\n\n15 286 nuevas empresas en 2025\n\nComercio: 44,0%\nServicios diversos: 16,5%\nConstrucción y actividades inmobiliarias: 15,4%\nIndustrias: 8,2%\nTransportes: 6,9%\nHoteles y restaurantes: 4,7%\nOtras actividades: 4,3%\n\nwww.investangier.com\n03",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2025,
+                "years_mentioned": [
+                  2025
+                ],
+                "reference_period": {
+                  "type": "year",
+                  "year": 2025,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_04",
+      "title": "Balance de la CRUI (1/6)",
+      "topic_id": "crui_activity",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_04",
+          "title": "Balance de la CRUI (1/6)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_004",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "crui_activity"
+              ],
+              "heading_path": [
+                "Balance de la CRUI (1/6)"
+              ],
+              "page_start": 4,
+              "page_end": 4,
+              "source_spans": [
+                {
+                  "page": 4,
+                  "text": "Balance de la CRUI (1/6)\n\n224\nreuniones de la CRUI*\n\n6,44 días\nplazo medio de tramitación en la CRUI\n\n* CRUI: Comisión Regional Unificada de Inversión\n\nwww.investangier.com\n04"
+                }
+              ],
+              "text": "Balance de la CRUI (1/6)\n\n224\nreuniones de la CRUI*\n\n6,44 días\nplazo medio de tramitación en la CRUI\n\n* CRUI: Comisión Regional Unificada de Inversión\n\nwww.investangier.com\n04",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_05",
+      "title": "Balance de la CRUI (2/6)",
+      "topic_id": "crui_activity",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_05",
+          "title": "Balance de la CRUI (2/6)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_005",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "crui_activity",
+                "approved_projects",
+                "investment_amount",
+                "projected_jobs"
+              ],
+              "heading_path": [
+                "Balance de la CRUI (2/6)"
+              ],
+              "page_start": 5,
+              "page_end": 5,
+              "source_spans": [
+                {
+                  "page": 5,
+                  "text": "Balance de la CRUI (2/6)\n\n487 expedientes de inversión aprobados por la CRUI*\n\n80 mil millones MAD de inversiones aprobadas\n\n57 043 empleos proyectados\n\n* CRUI: Comisión Regional Unificada de Inversión\n\nwww.investangier.com\n05"
+                }
+              ],
+              "text": "Balance de la CRUI (2/6)\n\n487 expedientes de inversión aprobados por la CRUI*\n\n80 mil millones MAD de inversiones aprobadas\n\n57 043 empleos proyectados\n\n* CRUI: Comisión Regional Unificada de Inversión\n\nwww.investangier.com\n05",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_06",
+      "title": "Balance de la CRUI (3/6)",
+      "topic_id": "crui_activity",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_06",
+          "title": "Balance de la CRUI (3/6)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_006",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "crui_activity",
+                "sector_distribution"
+              ],
+              "heading_path": [
+                "Balance de la CRUI (3/6)"
+              ],
+              "page_start": 6,
+              "page_end": 6,
+              "source_spans": [
+                {
+                  "page": 6,
+                  "text": "Balance de la CRUI (3/6)\n\nDistribución sectorial de los expedientes de inversión aprobados en la CRUI\n\nSectores:\nEnergía\nIndustria\nTurismo\nServicios\nOtros\n\nPor número de proyectos:\n487 expedientes de inversión\nEnergía: 67%\nIndustria: 15%\nTurismo: 6%\nServicios: 5%\nOtros: 7%\n\nPor importe de inversión:\n80 mil millones MAD\nEnergía: 38%\nIndustria: 28%\nTurismo: 14%\nServicios: 13%\nOtros: 7%\n\nPor número de empleos:\n57 043 empleos\nEnergía: 77%\nIndustria: 11%\nTurismo: 7%\nServicios: 4%\nOtros: 1%\n\nwww.investangier.com\n06"
+                }
+              ],
+              "text": "Balance de la CRUI (3/6)\n\nDistribución sectorial de los expedientes de inversión aprobados en la CRUI\n\nSectores:\nEnergía\nIndustria\nTurismo\nServicios\nOtros\n\nPor número de proyectos:\n487 expedientes de inversión\nEnergía: 67%\nIndustria: 15%\nTurismo: 6%\nServicios: 5%\nOtros: 7%\n\nPor importe de inversión:\n80 mil millones MAD\nEnergía: 38%\nIndustria: 28%\nTurismo: 14%\nServicios: 13%\nOtros: 7%\n\nPor número de empleos:\n57 043 empleos\nEnergía: 77%\nIndustria: 11%\nTurismo: 7%\nServicios: 4%\nOtros: 1%\n\nwww.investangier.com\n06",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_07",
+      "title": "Balance de la CRUI (4/6)",
+      "topic_id": "sector_investment",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_07",
+          "title": "Balance de la CRUI (4/6)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_007",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "sector_investment",
+                "industrial_investment"
+              ],
+              "heading_path": [
+                "Balance de la CRUI (4/6)"
+              ],
+              "page_start": 7,
+              "page_end": 7,
+              "source_spans": [
+                {
+                  "page": 7,
+                  "text": "Balance de la CRUI (4/6)\n\nLa región consolida su vocación industrial, pilar de su desarrollo económico\n\nNúmero de proyectos\nInversión (mil millones MAD)\nEmpleos proyectados\n\n278 expedientes (67% de los proyectos)\n~30 mil millones MAD\n+43 800 empleos proyectados\n~430 ha movilizadas\n\nZonas y valores visibles en el mapa\n(formato: número de proyectos | inversión en mil millones MAD | empleos proyectados):\n\nTanger Free Zone: 67 | 1,30 | 5 464\nZI Gzenaya: 5 | 0,04 | 826\nZAE Assilah: 13 | 0,22 | 1 216\nAgropole de Loukkos: 18 | 0,67 | 1 852\nTangier Tech: 22 | 7,39 | 5 392\nTangier Automotive City: 88 | 10,08 | 21 389\nTetouan Park: 13 | 1,28 | 1 018\nZAE Haidara: 3 | 0,19 | 564\nZAE Ait Kamra: 7 | 0,11 | 295\nZAE Imzouren: 4 | 0,01 | 170\n\nLeyenda:\nZona operacional\nZona en desarrollo/estudio\n\nEligieron la Región en 2025\n\nwww.investangier.com\n07"
+                }
+              ],
+              "text": "Balance de la CRUI (4/6)\n\nLa región consolida su vocación industrial, pilar de su desarrollo económico\n\nNúmero de proyectos\nInversión (mil millones MAD)\nEmpleos proyectados\n\n278 expedientes (67% de los proyectos)\n~30 mil millones MAD\n+43 800 empleos proyectados\n~430 ha movilizadas\n\nZonas y valores visibles en el mapa\n(formato: número de proyectos | inversión en mil millones MAD | empleos proyectados):\n\nTanger Free Zone: 67 | 1,30 | 5 464\nZI Gzenaya: 5 | 0,04 | 826\nZAE Assilah: 13 | 0,22 | 1 216\nAgropole de Loukkos: 18 | 0,67 | 1 852\nTangier Tech: 22 | 7,39 | 5 392\nTangier Automotive City: 88 | 10,08 | 21 389\nTetouan Park: 13 | 1,28 | 1 018\nZAE Haidara: 3 | 0,19 | 564\nZAE Ait Kamra: 7 | 0,11 | 295\nZAE Imzouren: 4 | 0,01 | 170\n\nLeyenda:\nZona operacional\nZona en desarrollo/estudio\n\nEligieron la Región en 2025\n\nwww.investangier.com\n07",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2025,
+                "years_mentioned": [
+                  2025
+                ],
+                "reference_period": {
+                  "type": "year",
+                  "year": 2025,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_08",
+      "title": "Balance de la CRUI (5/6)",
+      "topic_id": "sector_investment",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_08",
+          "title": "Balance de la CRUI (5/6)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_008",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "sector_investment",
+                "tourism_investment"
+              ],
+              "heading_path": [
+                "Balance de la CRUI (5/6)"
+              ],
+              "page_start": 8,
+              "page_end": 8,
+              "source_spans": [
+                {
+                  "page": 8,
+                  "text": "Balance de la CRUI (5/6)\n\nUna fuerte dinámica de inversión turística respaldada por una visión ambiciosa\n\nProyectos operacionales:\n7 establecimientos abiertos en 2025\n+300 habitaciones\n194 millones MAD de inversión\n\nProyectos en curso:\n31 establecimientos en fase de construcción\n2 036 habitaciones adicionales\nincluidas 1 220 habitaciones de 4 estrellas y más\n4,8 mil millones MAD de inversión proyectada\n\nLeyenda del mapa:\nEstablecimiento turístico abierto en 2025\nHabitaciones adicionales abiertas en 2025\nEstablecimiento turístico autorizado en 2025\nHabitaciones adicionales autorizadas en 2025\n\nValores territoriales visibles:\nTanger-Assilah: 3 establecimientos abiertos; 157 habitaciones adicionales abiertas; 19 establecimientos autorizados; 1 643 habitaciones adicionales autorizadas\nFahs Anjra: 2 establecimientos autorizados; 26 habitaciones adicionales autorizadas\nM’Diq-Fnideq: 2 establecimientos autorizados; 119 habitaciones adicionales autorizadas\nTetuán: 1 establecimiento abierto; 63 habitaciones adicionales abiertas; 1 establecimiento autorizado; 9 habitaciones adicionales autorizadas\nChefchaouen: 2 establecimientos abiertos; 24 habitaciones adicionales abiertas; 5 establecimientos autorizados; 215 habitaciones adicionales autorizadas\nAl Hoceima: 2 establecimientos autorizados; 24 habitaciones adicionales autorizadas\nLarache: 1 establecimiento abierto; 50 habitaciones adicionales abiertas\n\nEligieron la Región en 2025\n\nwww.investangier.com\n08"
+                }
+              ],
+              "text": "Balance de la CRUI (5/6)\n\nUna fuerte dinámica de inversión turística respaldada por una visión ambiciosa\n\nProyectos operacionales:\n7 establecimientos abiertos en 2025\n+300 habitaciones\n194 millones MAD de inversión\n\nProyectos en curso:\n31 establecimientos en fase de construcción\n2 036 habitaciones adicionales\nincluidas 1 220 habitaciones de 4 estrellas y más\n4,8 mil millones MAD de inversión proyectada\n\nLeyenda del mapa:\nEstablecimiento turístico abierto en 2025\nHabitaciones adicionales abiertas en 2025\nEstablecimiento turístico autorizado en 2025\nHabitaciones adicionales autorizadas en 2025\n\nValores territoriales visibles:\nTanger-Assilah: 3 establecimientos abiertos; 157 habitaciones adicionales abiertas; 19 establecimientos autorizados; 1 643 habitaciones adicionales autorizadas\nFahs Anjra: 2 establecimientos autorizados; 26 habitaciones adicionales autorizadas\nM’Diq-Fnideq: 2 establecimientos autorizados; 119 habitaciones adicionales autorizadas\nTetuán: 1 establecimiento abierto; 63 habitaciones adicionales abiertas; 1 establecimiento autorizado; 9 habitaciones adicionales autorizadas\nChefchaouen: 2 establecimientos abiertos; 24 habitaciones adicionales abiertas; 5 establecimientos autorizados; 215 habitaciones adicionales autorizadas\nAl Hoceima: 2 establecimientos autorizados; 24 habitaciones adicionales autorizadas\nLarache: 1 establecimiento abierto; 50 habitaciones adicionales abiertas\n\nEligieron la Región en 2025\n\nwww.investangier.com\n08",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2025,
+                "years_mentioned": [
+                  2025
+                ],
+                "reference_period": {
+                  "type": "year",
+                  "year": 2025,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_09",
+      "title": "Balance de la CRUI (6/6)",
+      "topic_id": "sector_investment",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_09",
+          "title": "Balance de la CRUI (6/6)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_009",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "sector_investment",
+                "energy_investment"
+              ],
+              "heading_path": [
+                "Balance de la CRUI (6/6)"
+              ],
+              "page_start": 9,
+              "page_end": 9,
+              "source_spans": [
+                {
+                  "page": 9,
+                  "text": "Balance de la CRUI (6/6)\n\nUna región pionera en energía, motor de competitividad y sostenibilidad para la exportación\n\n11 proyectos aprobados\n~22,4 mil millones MAD\n+770 empleos\n2,4 GW de potencia instalada\n\n2 proyectos solares aprobados\n700 millones DH\n57 MW de potencia instalada\n\n5 proyectos eólicos aprobados\n6,8 mil millones de dirhams\n1,3 GW de potencia instalada\n\n4 proyectos térmicos aprobados\n14,9 mil millones de dirhams\n1,04 GW de potencia instalada\n\nEligieron la Región en 2025\n\nwww.investangier.com\n09"
+                }
+              ],
+              "text": "Balance de la CRUI (6/6)\n\nUna región pionera en energía, motor de competitividad y sostenibilidad para la exportación\n\n11 proyectos aprobados\n~22,4 mil millones MAD\n+770 empleos\n2,4 GW de potencia instalada\n\n2 proyectos solares aprobados\n700 millones DH\n57 MW de potencia instalada\n\n5 proyectos eólicos aprobados\n6,8 mil millones de dirhams\n1,3 GW de potencia instalada\n\n4 proyectos térmicos aprobados\n14,9 mil millones de dirhams\n1,04 GW de potencia instalada\n\nEligieron la Región en 2025\n\nwww.investangier.com\n09",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2025,
+                "years_mentioned": [
+                  2025
+                ],
+                "reference_period": {
+                  "type": "year",
+                  "year": 2025,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_10",
+      "title": "Acompañamiento a las empresas (1/4)",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_10",
+          "title": "Acompañamiento a las empresas (1/4)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_010",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_support"
+              ],
+              "heading_path": [
+                "Acompañamiento a las empresas (1/4)"
+              ],
+              "page_start": 10,
+              "page_end": 10,
+              "source_spans": [
+                {
+                  "page": 10,
+                  "text": "Acompañamiento a las empresas (1/4)\n\n5 500\nempresas / promotores de proyectos acompañados\n\n3 223 beneficiarios\n\nEjes de acompañamiento:\nFacilitación del acceso a la financiación\nRefuerzo de las capacidades empresariales de los promotores de proyectos y de las PYMES\nAyuda a la sostenibilidad y seguimiento post-inversión\nPromoción de la innovación y del emprendimiento\n\nTerritorios indicados en el mapa:\nTanger-Assilah\nFahs-Anjra\nM’Diq-Fnideq\nTetuán\nChefchaouen\nAl Hoceima\nLarache\nOuezzane\n\nValores territoriales visibles en el mapa:\n463\n720\n451\n150\n869\n409\n161\n\nwww.investangier.com\n10"
+                }
+              ],
+              "text": "Acompañamiento a las empresas (1/4)\n\n5 500\nempresas / promotores de proyectos acompañados\n\n3 223 beneficiarios\n\nEjes de acompañamiento:\nFacilitación del acceso a la financiación\nRefuerzo de las capacidades empresariales de los promotores de proyectos y de las PYMES\nAyuda a la sostenibilidad y seguimiento post-inversión\nPromoción de la innovación y del emprendimiento\n\nTerritorios indicados en el mapa:\nTanger-Assilah\nFahs-Anjra\nM’Diq-Fnideq\nTetuán\nChefchaouen\nAl Hoceima\nLarache\nOuezzane\n\nValores territoriales visibles en el mapa:\n463\n720\n451\n150\n869\n409\n161\n\nwww.investangier.com\n10",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_11",
+      "title": "Acompañamiento a las empresas (2/4)",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_11",
+          "title": "Acompañamiento a las empresas (2/4)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_011",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_support",
+                "piafe"
+              ],
+              "heading_path": [
+                "Acompañamiento a las empresas (2/4)"
+              ],
+              "page_start": 11,
+              "page_end": 11,
+              "source_spans": [
+                {
+                  "page": 11,
+                  "text": "Acompañamiento a las empresas (2/4)\n\nBalance del PIAFE* a nivel de la región TTA\n\n4 672 expedientes financiados\n\n~1,14 mil millones MAD de financiación\n\n* PIAFE: Programa Integrado de Apoyo y Financiación de las Empresas\n\nwww.investangier.com\n11"
+                }
+              ],
+              "text": "Acompañamiento a las empresas (2/4)\n\nBalance del PIAFE* a nivel de la región TTA\n\n4 672 expedientes financiados\n\n~1,14 mil millones MAD de financiación\n\n* PIAFE: Programa Integrado de Apoyo y Financiación de las Empresas\n\nwww.investangier.com\n11",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_12",
+      "title": "Acompañamiento a las empresas (3/4)",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_12",
+          "title": "Acompañamiento a las empresas (3/4)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_012",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_support",
+                "conciliation"
+              ],
+              "heading_path": [
+                "Acompañamiento a las empresas (3/4)"
+              ],
+              "page_start": 12,
+              "page_end": 12,
+              "source_spans": [
+                {
+                  "page": 12,
+                  "text": "Acompañamiento a las empresas (3/4)\n\n136\ncasos de conciliación y resolución de conflictos resueltos\n\n96,5%\ntasa de resolución de los expedientes de conciliación tras la intervención del CRI TTA\n\nwww.investangier.com\n12"
+                }
+              ],
+              "text": "Acompañamiento a las empresas (3/4)\n\n136\ncasos de conciliación y resolución de conflictos resueltos\n\n96,5%\ntasa de resolución de los expedientes de conciliación tras la intervención del CRI TTA\n\nwww.investangier.com\n12",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_13",
+      "title": "Acompañamiento a las empresas (4/4)",
+      "topic_id": "business_support",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_13",
+          "title": "Acompañamiento a las empresas (4/4)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_013",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "business_support",
+                "open_innovation"
+              ],
+              "heading_path": [
+                "Acompañamiento a las empresas (4/4)"
+              ],
+              "page_start": 13,
+              "page_end": 13,
+              "source_spans": [
+                {
+                  "page": 13,
+                  "text": "Acompañamiento a las empresas (4/4)\n\nOrganización de la gran final de la 2.ª edición\nTerritory Development Challenge “TDC”\n\nCifras clave:\n120 proyectos presentados\n20 finalistas\n17 mentores\n3 ganadores\n\nLos ganadores:\nLahcen EL MEJDOUBI — MJ BIKE — 1er premio — Proyecto de ecoturismo\nIlham BAQQAL — Beeka Athletic — 2.º premio — Fabricación de ropa deportiva femenina con materiales reciclados\nMohamed EL OUAKRIMI — ECOTIDETECH — 3er premio — Generación de energía verde a partir de las olas y las mareas\n\nwww.investangier.com\n13"
+                }
+              ],
+              "text": "Acompañamiento a las empresas (4/4)\n\nOrganización de la gran final de la 2.ª edición\nTerritory Development Challenge “TDC”\n\nCifras clave:\n120 proyectos presentados\n20 finalistas\n17 mentores\n3 ganadores\n\nLos ganadores:\nLahcen EL MEJDOUBI — MJ BIKE — 1er premio — Proyecto de ecoturismo\nIlham BAQQAL — Beeka Athletic — 2.º premio — Fabricación de ropa deportiva femenina con materiales reciclados\nMohamed EL OUAKRIMI — ECOTIDETECH — 3er premio — Generación de energía verde a partir de las olas y las mareas\n\nwww.investangier.com\n13",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_14",
+      "title": "Promoción y alianzas (1/4)",
+      "topic_id": "territorial_promotion",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_14",
+          "title": "Promoción y alianzas (1/4)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_014",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "territorial_promotion"
+              ],
+              "heading_path": [
+                "Promoción y alianzas (1/4)"
+              ],
+              "page_start": 14,
+              "page_end": 14,
+              "source_spans": [
+                {
+                  "page": 14,
+                  "text": "Promoción y alianzas (1/4)\n\nPromoción territorial: 60 eventos destacados con alcance nacional e internacional\n\n12 eventos a nivel internacional\n38 eventos a nivel regional\n10 eventos nacionales\n\nEventos visibles:\nEconomic mission with CCIS in Copenhague — Enero\nAIM 2025 — Abu Dhabi — Abril\nMatinées de l'industrie — Barcelone — Diciembre\nRencontre Hispano Marocaine à Gérone — Diciembre\nAutomotive Meetings — Tanger — Junio\nJournée portes ouvertes ZAE Fnideq — Junio\nForum Entrepreneuriat — Al Hoceima\nSalon de l’Artisanat — Tétouan — Septiembre\nSIAM 2025 — Meknès — Abril\nLogismed 2025 — Mayo\nIndustry Meeting Days — Casablanca — Julio\nPower-to-X — Marrakech — Octubre\n\nPromoción internacional de la IED a través de “Doing Business in TTA Region”\n\nBalance 2025:\n1 escala\n300 participantes\n30 oportunidades generadas\n\nBarcelona — Diciembre 2023\nExtremadura (Digital) — Abril 2024\nValencia — Julio 2024\nMadrid — Febrero 2025\nBilbao — Septiembre 2026\n\nwww.investangier.com\n14"
+                }
+              ],
+              "text": "Promoción y alianzas (1/4)\n\nPromoción territorial: 60 eventos destacados con alcance nacional e internacional\n\n12 eventos a nivel internacional\n38 eventos a nivel regional\n10 eventos nacionales\n\nEventos visibles:\nEconomic mission with CCIS in Copenhague — Enero\nAIM 2025 — Abu Dhabi — Abril\nMatinées de l'industrie — Barcelone — Diciembre\nRencontre Hispano Marocaine à Gérone — Diciembre\nAutomotive Meetings — Tanger — Junio\nJournée portes ouvertes ZAE Fnideq — Junio\nForum Entrepreneuriat — Al Hoceima\nSalon de l’Artisanat — Tétouan — Septiembre\nSIAM 2025 — Meknès — Abril\nLogismed 2025 — Mayo\nIndustry Meeting Days — Casablanca — Julio\nPower-to-X — Marrakech — Octubre\n\nPromoción internacional de la IED a través de “Doing Business in TTA Region”\n\nBalance 2025:\n1 escala\n300 participantes\n30 oportunidades generadas\n\nBarcelona — Diciembre 2023\nExtremadura (Digital) — Abril 2024\nValencia — Julio 2024\nMadrid — Febrero 2025\nBilbao — Septiembre 2026\n\nwww.investangier.com\n14",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [
+                  2023,
+                  2024,
+                  2025,
+                  2026
+                ],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_15",
+      "title": "Promoción y alianzas (2/4)",
+      "topic_id": "territorial_promotion",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_15",
+          "title": "Promoción y alianzas (2/4)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_015",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "territorial_promotion",
+                "mre_support"
+              ],
+              "heading_path": [
+                "Promoción y alianzas (2/4)"
+              ],
+              "page_start": 15,
+              "page_end": 15,
+              "source_spans": [
+                {
+                  "page": 15,
+                  "text": "Promoción y alianzas (2/4)\n\nDe la movilización al acompañamiento para la inversión de los Marroquíes del Mundo – del 11 al 15 de agosto de 2025\n\nUn dispositivo 360° que incluye 3 acciones principales:\n• Despliegue de una amplia campaña de comunicación, incluyendo publicidad urbana en los ejes estratégicos de las principales ciudades de la región y la instalación de oficinas de acogida en los principales puntos de entrada de los MRE, especialmente en los aeropuertos.\n• Organización de una caravana regional de información, mediante seminarios y encuentros dedicados a los MRE.\n• Puesta en marcha de células de acogida y orientación de proximidad, en la sede de Tánger y en las antenas de Tetuán y Alhucemas.\n\nBalance de la caravana:\n• ~58 000 visualizaciones en redes sociales\n• 120 repercusiones mediáticas (prensa, TV, radio y digital)\n• 150 participantes en seminarios y encuentros temáticos\n• 72 MRE acogidos en la sede y en las anexas del CRI\n• 65 MRE acompañados en los aeropuertos\n• 137 MRE acompañados en total\n• 8 expedientes MRE presentados y acompañados\n\nUna campaña exitosa según las opiniones de los MDM\n\n“El CRI me acompañó, desde mi llegada a Marruecos, en la creación de mi empresa así como en todos los trámites administrativos relacionados con mi proyecto. Invito a mis compatriotas en el extranjero a venir a invertir en Marruecos: el equipo del CRI está disponible, escucha, es multilingüe y realmente facilita todas las etapas…”\n\nMohamed Bourkha, Sociedad Nekour Beach Club, Hotel – Alhucemas\n\n“Vegetaland desea agradecer calurosamente a todo el equipo del CRI por su apoyo incondicional durante nuestra instalación en Tetuán y la creación de nuestra cooperativa. El equipo de la antena de Tetuán demuestra un profesionalismo ejemplar y un acompañamiento cercano constante…”\n\nTouria Bouzidi, Presidenta de la Cooperativa Vegetaland – Tetuán\n\n“Como portadora de un proyecto de casa de huéspedes en Tetuán, salgo de este encuentro con una visión reforzada, contactos útiles y una gran motivación para materializar este proyecto en mi región de origen…”\n\nRajae El Bakkali, Casa de huéspedes, Antigua Medina – Tetuán\n\nwww.investangier.com\n15"
+                }
+              ],
+              "text": "Promoción y alianzas (2/4)\n\nDe la movilización al acompañamiento para la inversión de los Marroquíes del Mundo – del 11 al 15 de agosto de 2025\n\nUn dispositivo 360° que incluye 3 acciones principales:\n• Despliegue de una amplia campaña de comunicación, incluyendo publicidad urbana en los ejes estratégicos de las principales ciudades de la región y la instalación de oficinas de acogida en los principales puntos de entrada de los MRE, especialmente en los aeropuertos.\n• Organización de una caravana regional de información, mediante seminarios y encuentros dedicados a los MRE.\n• Puesta en marcha de células de acogida y orientación de proximidad, en la sede de Tánger y en las antenas de Tetuán y Alhucemas.\n\nBalance de la caravana:\n• ~58 000 visualizaciones en redes sociales\n• 120 repercusiones mediáticas (prensa, TV, radio y digital)\n• 150 participantes en seminarios y encuentros temáticos\n• 72 MRE acogidos en la sede y en las anexas del CRI\n• 65 MRE acompañados en los aeropuertos\n• 137 MRE acompañados en total\n• 8 expedientes MRE presentados y acompañados\n\nUna campaña exitosa según las opiniones de los MDM\n\n“El CRI me acompañó, desde mi llegada a Marruecos, en la creación de mi empresa así como en todos los trámites administrativos relacionados con mi proyecto. Invito a mis compatriotas en el extranjero a venir a invertir en Marruecos: el equipo del CRI está disponible, escucha, es multilingüe y realmente facilita todas las etapas…”\n\nMohamed Bourkha, Sociedad Nekour Beach Club, Hotel – Alhucemas\n\n“Vegetaland desea agradecer calurosamente a todo el equipo del CRI por su apoyo incondicional durante nuestra instalación en Tetuán y la creación de nuestra cooperativa. El equipo de la antena de Tetuán demuestra un profesionalismo ejemplar y un acompañamiento cercano constante…”\n\nTouria Bouzidi, Presidenta de la Cooperativa Vegetaland – Tetuán\n\n“Como portadora de un proyecto de casa de huéspedes en Tetuán, salgo de este encuentro con una visión reforzada, contactos útiles y una gran motivación para materializar este proyecto en mi región de origen…”\n\nRajae El Bakkali, Casa de huéspedes, Antigua Medina – Tetuán\n\nwww.investangier.com\n15",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2025,
+                "years_mentioned": [
+                  2025
+                ],
+                "reference_period": {
+                  "type": "year",
+                  "year": 2025,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_16",
+      "title": "Promoción y alianzas (3/4)",
+      "topic_id": "territorial_promotion",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_16",
+          "title": "Promoción y alianzas (3/4)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_016",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "territorial_promotion",
+                "tpme_support"
+              ],
+              "heading_path": [
+                "Promoción y alianzas (3/4)"
+              ],
+              "page_start": 16,
+              "page_end": 16,
+              "source_spans": [
+                {
+                  "page": 16,
+                  "text": "Promoción y alianzas (3/4)\n\nActivación territorial del nuevo dispositivo de apoyo a la inversión dedicado a las PYMES\n\n• Caravana informativa en las 8 provincias y prefecturas\n• Explicación de las condiciones de elegibilidad y del contenido de las primas\n• Simulaciones prácticas para el cálculo de la prima a la inversión\n• Publicidad urbana\n• Mostrador de acogida en la sede y en las antenas del CRI\n\n+1600 participantes\n\nBalance a febrero de 2026:\n35 proyectos presentados\n420 M MAD\n915 empleos\n\nUna campaña publicitaria de 360°\n\nOuezzane: 100 participantes\nTanger: 220 participantes\nTetuán: 540 participantes\nAl Hoceima: 160 participantes\nM’diq-Fnideq: 164 participantes\nChefchaouen: 209 participantes\nFahs-Anjra: 98 participantes\nLarache: 154 participantes\n\nwww.investangier.com\n16"
+                }
+              ],
+              "text": "Promoción y alianzas (3/4)\n\nActivación territorial del nuevo dispositivo de apoyo a la inversión dedicado a las PYMES\n\n• Caravana informativa en las 8 provincias y prefecturas\n• Explicación de las condiciones de elegibilidad y del contenido de las primas\n• Simulaciones prácticas para el cálculo de la prima a la inversión\n• Publicidad urbana\n• Mostrador de acogida en la sede y en las antenas del CRI\n\n+1600 participantes\n\nBalance a febrero de 2026:\n35 proyectos presentados\n420 M MAD\n915 empleos\n\nUna campaña publicitaria de 360°\n\nOuezzane: 100 participantes\nTanger: 220 participantes\nTetuán: 540 participantes\nAl Hoceima: 160 participantes\nM’diq-Fnideq: 164 participantes\nChefchaouen: 209 participantes\nFahs-Anjra: 98 participantes\nLarache: 154 participantes\n\nwww.investangier.com\n16",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": 2026,
+                "years_mentioned": [
+                  2026
+                ],
+                "reference_period": {
+                  "type": "year",
+                  "year": 2026,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_17",
+      "title": "Promoción y alianzas (4/4)",
+      "topic_id": "territorial_promotion",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_17",
+          "title": "Promoción y alianzas (4/4)",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_017",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "territorial_promotion",
+                "strategic_partnership"
+              ],
+              "heading_path": [
+                "Promoción y alianzas (4/4)"
+              ],
+              "page_start": 17,
+              "page_end": 17,
+              "source_spans": [
+                {
+                  "page": 17,
+                  "text": "Promoción y alianzas (4/4)\n\nAlianzas estratégicas para la proyección y el desarrollo económico de la Región\n\nNuevo acuerdo de alianza CRI–IFC\n\nEl objetivo de la alianza IFC – CRI TTA es incrementar las inversiones privadas respetuosas con el clima en la región TTA, mediante la mejora del clima de negocios para las inversiones verdes y la implementación de una estrategia específica para atraer inversiones verdes.\n\nEl proyecto está financiado al 100 % por la Secretaría de Estado de Asuntos Económicos (SECO) de la Cooperación Suiza.\n\nComponente 1:\nMejorar el entorno favorable para las inversiones verdes\n\nComponente 2:\nPromoción de las inversiones verdes\n\nFase de implementación: 3 años para un presupuesto de 1 millón USD\n\nwww.investangier.com\n17"
+                }
+              ],
+              "text": "Promoción y alianzas (4/4)\n\nAlianzas estratégicas para la proyección y el desarrollo económico de la Región\n\nNuevo acuerdo de alianza CRI–IFC\n\nEl objetivo de la alianza IFC – CRI TTA es incrementar las inversiones privadas respetuosas con el clima en la región TTA, mediante la mejora del clima de negocios para las inversiones verdes y la implementación de una estrategia específica para atraer inversiones verdes.\n\nEl proyecto está financiado al 100 % por la Secretaría de Estado de Asuntos Económicos (SECO) de la Cooperación Suiza.\n\nComponente 1:\nMejorar el entorno favorable para las inversiones verdes\n\nComponente 2:\nPromoción de las inversiones verdes\n\nFase de implementación: 3 años para un presupuesto de 1 millón USD\n\nwww.investangier.com\n17",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "esp_chiffres_cles_annee_2025_section_18",
+      "title": "UNA VEZ AQUÍ,",
+      "topic_id": "closing_message",
+      "subsections": [
+        {
+          "subsection_id": "esp_chiffres_cles_annee_2025_subsection_18",
+          "title": "UNA VEZ AQUÍ,",
+          "chunks": [
+            {
+              "chunk_id": "esp_chiffres_cles_annee_2025_chunk_018",
+              "content_type": "statistics",
+              "semantic_tags": [
+                "closing_message"
+              ],
+              "heading_path": [
+                "UNA VEZ AQUÍ,"
+              ],
+              "page_start": 18,
+              "page_end": 18,
+              "source_spans": [
+                {
+                  "page": 18,
+                  "text": "UNA VEZ AQUÍ,\nESTÁS EN TODAS PARTES"
+                }
+              ],
+              "text": "UNA VEZ AQUÍ,\nESTÁS EN TODAS PARTES",
+              "keywords": [],
+              "entities": [],
+              "temporal_scope": {
+                "primary_year": null,
+                "years_mentioned": [],
+                "reference_period": {
+                  "type": null,
+                  "year": null,
+                  "semester": null,
+                  "quarter": null,
+                  "start_date": null,
+                  "end_date": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
